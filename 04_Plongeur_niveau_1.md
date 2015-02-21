@@ -84,7 +84,12 @@ S’équilibrer en surface et à toute profondeur, en dynamique et en statique. 
 
 ### Compétence 3 : EVOLUER EN PALANQUEE GUIDEE
 
-A compléter
+**Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation ** | *Techniques/Commentaires/Limites*
+---|---|---
+Comprendre et respecter les consignes du GP. | Applique sans erreur les conditions d'évolution fixées : mise à l’eau, descente, profondeur d’évolution, consignes de sécurité, gestion de la quantité d’air, etc... Interroge le GP en cas de doute sur la compréhension. | *Technique(s) : signes de communication.*
+Surveiller son stock d’air. | Suit régulièrement l’évolution de la pression du bloc. Informe le GP lorsque les valeurs définies (mi-pression, x bar, réserve, etc…) sont atteintes. | La surveillance du stock d’air est impérative.
+Se positionner en fonction des situations et conditions. | Applique les consignes d’évolution du GP. <br />Vérifie régulièrement la situation du GP, des équipiers et reste au contact. <br />Se positionne dans le champ de vision du GP si ce dernier intervient pour aider un plongeur. | Le respect de la profondeur maximale matérialisée par la position du GP est essentiel. Le comportement en situation « d’observateur » doit être enseigné. 
+
 
 
 ### Compétence 4 : PARTICIPER A LA SECURITE EN PLONGEE
