@@ -113,7 +113,6 @@ Découvrir et apprendre à reconnaître les principales espèces rencontrées. |
 **Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation ** | *Techniques/Commentaires/Limites*
 ---|---|---
 Rôles, montage, vérifications, entretien courant, règles d’hygiène et réglementation éventuelle de l’équipement individuel du plongeur. | S’équipe et monte son matériel sans erreur. <br />Règle correctement le matériel, teste son fonctionnement (détendeurs, gilet). <br />Identifie les dysfonctionnements et le matériel hors d’état et le signale. | L’approche doit rester pragmatique et orientée « utilisateur ».
-
 Procédures de décompression | Cite les conditions d’utilisation de base de l’ordinateur, des tables et les applique. <br />Connaît la courbe de plongée sans palier. | L’approche doit rester pragmatique et orientée « utilisateur » et limitée aux plongées réalisables dans le cadre de ses prérogatives. 
 Risques de l’activité, mesures de prévention et bonnes pratiques. | Connaît des notions simples de physique. <br />Cite les principaux risques et sait expliciter les mesures de prévention à mettre en œuvre par lui-même. | Rester à des notions de physique correspondant à une pratique de N1. 
 Réglementation relative à l’activité. | Cite les différents éléments mentionnés dans la colonne suivante sans erreur. | Prérogatives liées à la certification N1. <br />Documents nécessaires à la pratique de la plongée. <br />Rôle et intérêt du carnet et passeport de plongée. <br />Le cadre fédéral.
