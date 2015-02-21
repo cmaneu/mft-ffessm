@@ -69,3 +69,47 @@ Gréer/dégréer un ensemble bloc-gilet de stabilisation-détendeur. | Monte san
 Tester, vérifier le fonctionnement de l’équipement. | Contrôle le bon fonctionnement. Signale au GP ou à un responsable tout dysfonctionnement. Vérifie la quantité d’air disponible. Contrôle et adapte son lestage si besoin. | <span/>
 Entretenir le matériel. | Rince l’équipement avec les précautions d’usage. Sait décontaminer un détendeur. Range l’équipement dans de bonnes conditions (séchage, pliage, chocs, etc...) | <span/>
 Embarquer sur un navire support de plongée. | Porte l’équipement sans risques pour lui-même et son entourage. Range l’équipement aux emplacements prévus. | *Technique(s) : capelage décapelage à sec.*
+
+
+### Compétence 2 : EVOLUER EN ENVIRONNEMENT AQUATIQUE ET SUBAQUATIQUE 
+**Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation ** | *Techniques/Commentaires/Limites*
+---|---|---
+Se mettre à l’eau, remonter sur un navire support de plongée. | Met en service et vérifie le fonctionnement de son matériel avant mise à l’eau. Utilise une technique adaptée à la configuration du support et aux conditions de plongée. Le cas échéant, met à l’eau l’ensemble bloc-gilet sans risque de perte et s’équipe en surface. Le cas échéant, retire l’ensemble bloc-gilet en surface et le passe au support surface. Prévient les incidents lors de cette phase : tenue de l’équipement, équilibrage des oreilles, gonflage préalable du gilet le cas échant, etc… | *Technique(s)*: saut droit, bascule arrière, descente/remontée d'échelle.* *Décapelage / recapelage en surface.*
+S’immerger. | Utilise une technique d’immersion adaptée au contexte (équipement, consigne du GP, conditions de plongée, etc…). Prévient les incidents lors de cette phase : tenue de l’équipement (selon technique), équilibrage des oreilles, etc…  | *Technique(s) : canard, phoque ; Valsalva, BTV. *
+Se déplacer en surface et en immersion. | Utilise une technique de palmage adaptée au contexte (équipement, conditions de plongée ou de surface, etc…). | *Technique(s) : palmage ventral, dorsal.* <br />Une distance d’environ 50 m (maximum) doit pouvoir être parcourue. 
+Se ventiler en surface et en immersion. | Utilise un tuba ou un détendeur selon le besoin (phases de la plongée, déplacements en surface et état de la mer). <br /><br />Ne bloque pas l'expiration lors de la remontée. | *Technique(s) : vidage du tuba ; lâcher/reprise d’embout;* <br />L’automatisme d’utilisation du détendeur même en surface plutôt que le tuba lorsque l’état de la mer le nécessite est un point important. *Expiration à la remontée (REC de 6m)*
+Eliminer l’eau du masque en immersion. | Maintient une ventilation normale voies aériennes (nasales) au contact de l’eau (dissociation). <br />Réalise immédiatement une apnée si besoin. <br />Evacue l’eau du masque en y introduisant de l’air par le nez. | *Technique(s) : dissociation bucco-nasale, vidage de masque.* <br />Ce volet de « l’intégration dans le milieu » apporte confort et sécurité au plongeur. La dissociation de la ventilation et l’élimination de l’eau doivent au final être réalisées spontanément et sans stress.
+S’équilibrer en surface et à toute profondeur, en dynamique et en statique. | Gonfle ou purge un gilet de stabilisation pour ajuster la flottabilité en tant que de besoin en immersion. <br />Utilise l’influence de la ventilation (poumon-ballast) dans l’ajustement de la flottabilité. | *Technique(s) :  poumon-ballast, palmage de sustentation, équilibrage au gilet.* <br />L’équilibrage doit être soigné, notamment pour éviter tout effort anormal et pour réaliser les paliers éventuels dans de bonnes conditions. 
+
+
+### Compétence 3 : EVOLUER EN PALANQUEE GUIDEE
+
+A compléter
+
+
+### Compétence 4 : PARTICIPER A LA SECURITE EN PLONGEE
+
+A compléter
+
+### Compétence 5 : CONNAITRE ET RESPECTER L’ENVIRONNEMENT MARIN 
+
+A compléter
+
+### Compétence 6 : CONNAISSANCES EN APPUI DES COMPETENCES
+
+A compléter
+
+### MODIFICATIONS MFT - PLONGEUR NIVEAU 1 (N1) 
+
+Page 1 
+Le 10 octobre 2014 
+Précisions sur le certificat médical  pour l'entré en formation des mineurs de -14 ans.  
+
+
+Page 4 
+Le 10 octobre 2014 
+Dans la compétence 2 dans la ligne « Se ventiler en surface et en immersion » de la colonne **« Techniques/Commentaires/Limites »** rajout de *« Expiration à la remontée. (REC de 6m). »*. 
+
+### MODIFICATIONS MEMENTO ASSOCIE Plongée guidée à 20 m - Brevet de plongeur Niveau 1 (N1) 
+
+Noubeau document.
