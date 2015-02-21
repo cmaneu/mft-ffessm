@@ -101,11 +101,24 @@ Identifier et prendre en charge un équipier en difficulté en attendant l’int
 
 ### Compétence 5 : CONNAITRE ET RESPECTER L’ENVIRONNEMENT MARIN 
 
-A compléter
+**Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation ** | *Techniques/Commentaires/Limites*
+---|---|---
+Evoluer en limitant son impact sur le milieu. | Evite tout contact avec la faune et la flore : maîtrise sa flottabilité et son palmage, veille à bien fixer les flexibles et accessoires. <br />Evite d’expirer sous les surplombs. Limite l’usage des éclairages artificiels. <br />Evite les nuisances sonores. <br />Ne pratique pas le nourrissage. <br />Ne harcèle pas les animaux.  | Il s'agit de ne pas endommager le milieu vivant par contact direct ou indirect (bulles) et de ne pas déranger la faune. 
+Développer sa capacité d’observation.  | Evite les gestes brusques. <br />Evite de remuer le fond. <br />Approche discrètement la faune. <br />Après la plongée, recueille auprès du GP les informations relatives à ses observations. | Il s’agit de développer un comportement propice à l’observation des animaux
+Connaître la charte internationale du plongeur responsable. | Applique les gestes et attitudes décrits dans la charte. | Il s’agit de sensibiliser le plongeur aux conséquences environnementales de la production de déchets, de la consommation des ressources naturelles, comme les espèces en danger ou l’eau douce.et développer chez lui un comportement responsable. 
+Découvrir et apprendre à reconnaître les principales espèces rencontrées. | Décrit et nomme les animaux les plus couramment rencontrés (lors de la formation). | Il s’agit avant tout d’une information que délivre le GP à l’issue de la plongée, à l’aide de plaquettes immergeables par exemple. <br />L’objectif est de : <br />- Faire prendre conscience de la diversité du monde vivant subaquatique et des différents milieux (notion de biodiversité). <br />- Savoir que les substrats supportent des êtres vivants et ce que cela implique en termes de fragilité et de dangers.   
 
 ### Compétence 6 : CONNAISSANCES EN APPUI DES COMPETENCES
 
-A compléter
+**Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation ** | *Techniques/Commentaires/Limites*
+---|---|---
+Rôles, montage, vérifications, entretien courant, règles d’hygiène et réglementation éventuelle de l’équipement individuel du plongeur. | S’équipe et monte son matériel sans erreur. <br />Règle correctement le matériel, teste son fonctionnement (détendeurs, gilet). <br />Identifie les dysfonctionnements et le matériel hors d’état et le signale. | L’approche doit rester pragmatique et orientée « utilisateur ».
+
+Procédures de décompression | Cite les conditions d’utilisation de base de l’ordinateur, des tables et les applique. <br />Connaît la courbe de plongée sans palier. | L’approche doit rester pragmatique et orientée « utilisateur » et limitée aux plongées réalisables dans le cadre de ses prérogatives. 
+Risques de l’activité, mesures de prévention et bonnes pratiques. | Connaît des notions simples de physique. <br />Cite les principaux risques et sait expliciter les mesures de prévention à mettre en œuvre par lui-même. | Rester à des notions de physique correspondant à une pratique de N1. 
+Réglementation relative à l’activité. | Cite les différents éléments mentionnés dans la colonne suivante sans erreur. | Prérogatives liées à la certification N1. <br />Documents nécessaires à la pratique de la plongée. <br />Rôle et intérêt du carnet et passeport de plongée. <br />Le cadre fédéral.
+
+Nota : les critères de réalisation de la compétence 6 sont rappelés pour mémoire. Ils sont à vérifier lors de la mise en œuvre des compétences pour lesquelles ces connaissances sont mobilisées. 
 
 ### MODIFICATIONS MFT - PLONGEUR NIVEAU 1 (N1) 
 
