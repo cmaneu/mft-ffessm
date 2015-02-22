@@ -93,6 +93,14 @@ Se positionner en fonction des situations et conditions. | Applique les consigne
 
 ### Compétence 4 : PLANIFIER ET ORGANISER LA PLONGEE EN AUTONOMIE
 
+**Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
+---|---|---
+Comprendre le site de plongée et les conditions environnementales. | Décrit la topographie approximative du site et les conditions probables de plongée à partir de la présentation du DP et de sa propre observation de l’environnement. <br />Echange sa perception du site avec celle de ses équipiers. | Le plongeur N2 doit s’approprier les informations fournies par le DP et utiliser sa propre connaissance ou observation du site. 
+Comprendre et respecter les directives du DP. | Identifie sans ambigüité dans les directives du DP les paramètres définissant zone et conditions d’évolution. <br />Interroge le DP en cas de doute ou exprime des souhaits de plonger différemment. <br />Informe le DP de tout élément nécessaire à sa connaissance tels que plongée récente, méforme, souci de santé, problème matériel, etc...). <br />Respecte les paramètres du DP pour décider du profil de la plongée avec les équipiers. | Utiliser la reformulation, par les équipiers, des consignes reçues. 
+Prendre mutuellement connaissance de l’expérience, de l’équipement et des attentes de chaque membre de la palanquée. |  Echange ces informations avec ses équipiers.  <br />Se concerte avec ses équipiers.  <br />S’informe du fonctionnement de l’équipement des équipiers (gilet, outil de décompression, etc…). | <span />
+Décider (dans le respect des directives du DP) du profil de la plongée, des procédures d’immersion, de descente et de remontée, et prévoir les variantes utiles. | Convient avec ses équipiers du déroulement de la plongée. <br />Envisage les éléments variables possibles, et définit pour chaque cas un ajustement du déroulement de la plongée. <br />Prend en compte les outils de décompression en présence ainsi que les procédures de décompression éventuellement nécessaires et décide du protocole de décompression avec ses équipiers. <br />S’assure de l’autonomie en air en fonction de la plongée planifiée. | Le plongeur N2 doit connaître la nature des informations à donner et à recueillir pour planifier la plongée selon les différents types d’outils de décompression des membres de la palanquée, la charge d’azote résiduel et la majoration initiale des plongeurs, le choix de la gestion de la plongée (sans palier ou avec une durée limite de paliers, etc…).  <br />Les décisions sont prises collectivement. 
+
+
 ### Compétence 5 : MAITRISER, ADAPTER L’EVOLUTION EN IMMERSION
 
 ### Compétence 6 : PARTICIPER A LA SECURITE DES EQUIPIERS
