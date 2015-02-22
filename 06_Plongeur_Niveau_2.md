@@ -85,6 +85,12 @@ Maîtriser la vitesse de descente et de remontée. | Combine un palmage restant 
 
 ### Compétence 3 : EVOLUER EN PALANQUEE GUIDEE
 
+**Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
+---|---|---
+Comprendre et respecter les consignes du GP. | Applique sans erreur les conditions d’évolution fixées : mise à l’eau, descente, profondeur d’évolution, consignes de sécurité, gestion de la quantité d’air, etc... <br />Interroge le GP en cas de doute sur la compréhension. | *Technique(s) : signes de communication.* <br />Sensibilisation du plongeur N2 sur son comportement responsable au sein de la palanquée.
+Surveiller son stock d’air. | Suit régulièrement l’évolution de la pression du bloc. <br />Informe le GP lorsque les valeurs définies (mi-pression, x bar, réserve,etc…) sont atteintes. | *La surveillance du stock d’air est impérative.*
+Se positionner en fonction des situations et conditions. | Applique les consignes d’évolution du GP. <br />Vérifie régulièrement la situation du GP, des équipiers et reste au contact. <br />Se positionne dans le champ de vision du GP si ce dernier intervient pour aider un plongeur. | Le respect de la profondeur maximale matérialisée par la position du GP est essentiel. Le comportement en situation « d’observateur » doit être perfectionné.
+
 ### Compétence 4 : PLANIFIER ET ORGANISER LA PLONGEE EN AUTONOMIE
 
 ### Compétence 5 : MAITRISER, ADAPTER L’EVOLUTION EN IMMERSION
