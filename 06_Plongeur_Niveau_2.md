@@ -69,7 +69,7 @@ S’équiper du matériel individuel. | Choisit un équipement adapté aux condi
 Gréer/dégréer un ensemble blocgilet de stabilisation-détendeur. | Monte sans erreur le matériel. Effectue les réglages nécessaires. | <span/> 
 Tester, vérifier le fonctionnement de l’équipement. | Contrôle le bon fonctionnement. Signale au GP ou au DP suivant le cas ou à un responsable tout dysfonctionnement. Vérifie la quantité d’air disponible. Contrôle et adapte son lestage si besoin. Prend connaissance de l’équipement des équipiers. | Extension de la gamme d’équipements connus en incluant le matériel spécifique à la pratique en autonomie : divers détendeurs et leurs molettes de réglage éventuelles, divers gilets de stabilisation, outils de décompression, etc… 
 Entretenir le matériel. | Rince l’équipement avec les précautions d’usage. Sait décontaminer un détendeur. Range l’équipement dans de bonnes conditions (séchage, pliage, chocs, etc...). | <span />
-Embarquer sur un navire support de plongée. | Porte l’équipement sans risques pour lui-même et son entourage. Range l’équipement aux emplacements prévus ou de façon à ne pas gêner. | *Technique(s) : capelage/décapelage à sec. *
+Embarquer sur un navire support de plongée. | Porte l’équipement sans risques pour lui-même et son entourage. Range l’équipement aux emplacements prévus ou de façon à ne pas gêner. | *Technique(s) : capelage/décapelage à sec.*
 
 ### Compétence 2 : EVOLUER EN ENVIRONNEMENT AQUATIQUE ET SUBAQUATIQUE
 
