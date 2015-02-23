@@ -9,15 +9,47 @@ lien_original: http://www.ffessm.fr/gestionenligne/manuel/09_Plongeur_niveau_3.p
 
 ## PROFIL GENERAL
 
-A compléter
+Le plongeur Niveau 3 (N3) est capable de réaliser des plongées d’exploration en autonomie : 
+
+- Jusqu’à 40 m de profondeur, au sein d’une palanquée, en autonomie, sans Guide de Palanquée (GP), pour des plongeurs ayant, au minimum, les mêmes compétences, sans présence d’un Directeur de Plongée (DP) sur le site. 
+- Jusqu’à 60 m de profondeur, au sein d’une palanquée, en autonomie, sans Guide de Palanquée (GP), pour des plongeurs ayant, au minimum, les mêmes compétences, et en présence d’un Directeur de Plongée (DP) sur le site qui donne les consignes relatives au déroulement de la plongée.  
+
+Ces plongées sont réalisées dans le cadre d’une organisation sécurisée, mise en place par un Directeur de Plongée (DP), selon les règles définies par le Code du Sport (CdS).  
+
+Ce plongeur : 
+
+- Est autonome pour s’équiper, s’immerger, s’équilibrer, évoluer et s’orienter. 
+- Sait prévenir pour lui-même les incidents de plongée. 
+- Sait recevoir ou fournir de l’aide à un équipier en cas de difficulté. 
+- Sait appliquer individuellement et collectivement les consignes données par le Directeur de Plongée (DP). 
+- Sait choisir un site de plongée.  
+
+Les prérogatives du plongeur de Niveau 3 sont définies par le Code du Sport (annexe III-14b). Sa formation générale et notamment sa qualification RIFAP, l’expérience qui y est liée, font de ce diplôme le degré ultime de la formation technique du plongeur. Il est de plus à même d’évoluer et d’intervenir au sein d’une palanquée constituée de plongeurs de niveaux hétérogènes et non conduite par un Guide de Palanquée.  
+
+En outre, la carte CMAS 3* de la FFESSM qui lui est délivrée au regard de son diplôme offre des prérogatives plus importantes hors des frontières françaises, en fonction des législations et règlementations locales. (Attention toutefois lorsqu’il s’agit d’accompagner des groupes organisés français qui conditionnent l’éventualité de l’application du Code du Sport, y compris à l’étranger; le Niveau 3 français ne saurait alors être reconnu au titre de Guide de Palanquée).   
+
+Cette certification est le niveau de plongeur minimum requis pour accéder au brevet de Guide de Palanquée. 
 
 ## CONDITIONS D’ACCES A LA FORMATION
 
-A compléter
+- Etre âgé de 18 ans au moins à la date de délivrance. 
+- Etre titulaire du brevet de plongeur Niveau 2 (N2) de la FFESSM ou d’une certification dont les aptitudes sont jugées équivalentes pour débuter la formation. 
+- Etre titulaire du RIFA Plongée FFESSM à la date de délivrance. 
 
 ## REGLES D’ORGANISATION ET DE DELIVRANCE 
 
-A compléter
+L’ensemble des conditions de réalisation des certifications de la FFESSM est défini dans les « Règles générales de formation et délivrance des certifications de la FFESSM ».  
+
+Le brevet de plongeur Niveau 3 (N3) est délivré au niveau d’un club affilié ou d’une structure commerciale agréée : 
+
+- Sous la responsabilité du président du club ou du responsable de la structure commerciale agréée. 
+- Par un encadrant E3 (licencié) minimum.  
+
+Les compétences doivent être obtenues en milieu naturel (mer, lac, carrière, etc...) à l’exclusion des piscines et fosses de plongée, quelle qu’en soit la profondeur.  
+
+L'enseignement et la validation des compétences s'effectue dans l'espace 0 – 40 m par un E3 minimum. Conformément à l’article A. 322-86 du Code du Sport, un plongeur en cours de formation technique peut évoluer dans l’espace de 0 à 60 m sous la responsabilité d’un E4.  
+
+L’accoutumance à la profondeur doit être progressive. 
 
 ## CONTENU DE LA FORMATION - COMPETENCES 
 
