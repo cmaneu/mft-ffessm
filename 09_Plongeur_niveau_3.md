@@ -53,25 +53,51 @@ L’accoutumance à la profondeur doit être progressive.
 
 ## CONTENU DE LA FORMATION - COMPETENCES 
 
+A l’issue d’une formation progressive et adaptée, le plongeur Niveau 3 (N3) possède les compétences suivantes : 
+
+- C1 : PLANIFIER ET ORGANISER LA PLONGEE EN AUTONOMIE 
+- C2 : MAITRISER, ADAPTER L’EVOLUTION EN IMMERSION 
+- C3 : PARTICIPER A LA SECURITE DES EQUIPIERS 
+- C4 : CHOISIR UN SITE DE PLONGEE 
+- C5 : CONNAITRE ET RESPECTER L’ENVIRONNEMENT MARIN 
+- C6 : CONNAISSANCES EN APPUI DES COMPETENCES  
+
+L’accoutumance progressive à la plongée profonde est un élément important de sécurité. 
+
 ### Compétence 1 : PLANIFIER ET ORGANISER LA PLONGEE EN AUTONOMIE 
 
 A compléter
+
+**Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
+---|---|---
 
 ### Compétence 2 : MAITRISER, ADAPTER L’EVOLUTION EN IMMERSION
 
 A compléter
 
+**Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
+---|---|---
+
 ### Compétence 3 : PARTICIPER A LA SECURITE DES EQUIPIERS
 
 A compléter
+
+**Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
+---|---|---
 
 ### Compétence 4 : CHOISIR UN SITE DE PLONGEE
 
 A compléter
 
+**Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
+---|---|---
+
 ### Compétence 5 : CONNAITRE ET RESPECTER L’ENVIRONNEMENT MARIN 
 
 A compléter
+
+**Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
+---|---|---
 
 ### Compétence 6 : CONNAISSANCES EN APPUI DES COMPETENCES 
 
