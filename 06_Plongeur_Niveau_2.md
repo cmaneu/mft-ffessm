@@ -110,6 +110,18 @@ Appliquer les bonnes pratiques d’évolution en immersion et les procédures d�
 
 ### Compétence 6 : PARTICIPER A LA SECURITE DES EQUIPIERS
 
+**Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
+---|---|---
+Se rappeler les mesures de prévention des risques avant l’immersion. | Cite les mesures de prévention des incidents ou accidents courants ainsi que les principales procédures de sécurité à appliquer (prévention des principaux accidents, règle en cas de perte de la palanquée, remontée lente, rapide, paliers interrompus, etc…). | Au fur et à mesure de sa formation, le plongeur N2 doit assimiler les règles de sécurité qu’il est susceptible d’appliquer. 
+Identifier les comportements et circonstances susceptibles de générer des situations anormales et/ou potentiellement dangereuses. | Interprète sans ambiguïté le signe conventionnel d’un équipier indiquant une difficulté (panne d’air, essoufflement, froid, fatigue etc…). <br />Cite les manifestations observables chez un plongeur en difficulté, en l’absence de signe conventionnel (ventilation, agitation, inconscience, etc…). | *Technique(s) : signes de communication ; respiration sur détendeur de secours, respiration à deux sur un embout*<br />(simulation). Le plongeur N2 doit connaître les signes et les comportements nécessitant l'assistance d'un équipier. 
+
+Réagir individuellement et collectivement aux situations anormales ou potentiellement dangereuses. <br /><br /><br />Nota : Le comportement à adopter lorsqu’un plongeur est observateur d’un équipier prenant en charge un autre équipier en difficulté doit être perfectionné : être prêt à apporter une aide sans gêner, suivre la palanquée dans sa remontée et se mettre dans le champ de vision du plongeur apportant une assistance, etc…. |
+
+Agit dès l’observation d’un signe ou d’un comportement nécessitant une intervention.<br /><br />Pour toute intervention, évite autant que possible (pleine eau, plongeur non équilibré, etc…) l’augmentation de la profondeur.  <br />Effectue les actions adaptées à la situation avant d’initier une remontée vers la surface (lorsqu’elle est nécessaire) : <br />- Fournit une source d’air en cas de panne d’air (tous les échanges se font en simulation). <br />- Fait cesser tout effort en cas d’essoufflement. <br />- Apporte une aide adaptée dans les autres cas (crampe, malaise, douleurs, inconscience, etc…).<br /><br /><br /><br />Lorsqu’une remontée vers la surface est nécessaire : <br />- Prend l’initiative et le contrôle de la remontée. <br />- Surveille régulièrement le plongeur pris en charge, et est attentif aux autres équipiers éventuels. <br />- Incite le plongeur en difficulté à participer aux actions nécessaires à la maîtrise de la remontée de l'équipe si son état le permet, exécute ces actions dans le cas contraire. <br />- Utilise les gilets de stabilisation comme moyen de remontée. <br />- Réalise une procédure de décompression et d’arrivée en surface compatible avec l’urgence de la situation et la préservation de la sécurité. <br />- Signale au support surface l'état de la situation. <br />- Sécurise en surface le plongeur en difficulté en attendant l’intervention du support. <br />- Participe à la sortie de l’eau du plongeur en difficulté.  
+
+
+
+
 ### Compétence 7 : CONNAITRE ET RESPECTER L’ENVIRONNEMENT MARIN
 
 ### Compétence 8 : CONNAISSANCES EN APPUI DES COMPETENCES
