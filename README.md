@@ -12,19 +12,18 @@ Pour deux raisons:
 - Le format PDF actuel ne permet pas une lecture et une recherche facile sur tablettes et téléphones,
 - L'utilisation du Comic Sans MS ne devrait plus être autorisée en 2015.
 
-
-
 ## Roadmap
 
 - [x] Convertir "Plongeur Niveau 1"
 - [x] Convertir "Plongeur Niveau 2"
-- [ ] Convertir "Plongeur Niveau 3"
-- [ ] Convertir "Plongeur Niveau 4 - Guide de palanquée"
+- [x] Convertir "Plongeur Niveau 3"
+- [ ] Convertir "Qualifications plongée au nitrox"
 - [ ] Convertir "Jeunes plongeurs"
+- [ ] Convertir "Plongeur Niveau 4 - Guide de palanquée"
 - [ ] Convertir "Plongeur Niveau 5 - Directeur de plongée"
 - [ ] Convertir "Initiateur"
 - [ ] Convertir "Moniteur Fédéral 1er degré"
-- [ ] Convertir "Qualifications plongée au nitrox"
+
 - [ ] Convertir "RIFAP Réactions et Intervention face à un Accident de Plongée"
 - [ ] Convertir "Plongeurs en situation de handicap Conditions de pratiques - Brevets et qualifications des plongeurs et des moniteurs"
 - [ ] Convertir "Qualification PA12"
