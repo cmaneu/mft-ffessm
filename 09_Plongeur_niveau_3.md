@@ -81,6 +81,9 @@ A compléter
 
 **Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
 ---|---|---
+Respecter des pratiques de plongée et des procédures d’évolution en immersion sécurisantes. | Garde une attention sur ses équipiers, communique avec eux régulièrement et chaque fois que nécessaire. Surveille régulièrement ses équipiers et les informe de l’atteinte des paramètres prédéfinis sur le plan de l’autonomie en air et de la décompression. Respecte les paramètres d'immersion donnés par le DP. Assure et contribue au maintien de la cohésion de la palanquée (position/distance) selon les conditions rencontrées. Respecte les procédures de décompression (vitesses de remontée, paliers, cohésion de la palanquée). Evite les profils de plongée « à risques » (plongée « inversée », « yoyo », plongées répétitives, etc…). Informe le support surface de l’exécution de paliers en pleine eau avec un « parachute ». Rejoint la surface en respectant un arrêt et un tour d’horizon de sécurité à 3 m. | *Technique(s) : tour d’horizon ; contrôle du gilet à la remontée ; équilibrage au gilet en surface.* Les « pratiques » évoquées sont celles qui correspondent aux comportements et procédures en situation normale de plongée (hors incident). 
+
+
 
 ### Compétence 3 : PARTICIPER A LA SECURITE DES EQUIPIERS
 
