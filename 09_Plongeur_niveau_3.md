@@ -66,8 +66,6 @@ L’accoutumance progressive à la plongée profonde est un élément important 
 
 ### Compétence 1 : PLANIFIER ET ORGANISER LA PLONGEE EN AUTONOMIE 
 
-A compléter
-
 **Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
 ---|---|---
 Evaluer les caractéristiques du site et les conditions de plongée. | Comprend la topographie du site et les conditions de plongée à partir des éléments donnés par le DP et à partir de sa propre analyse du site. Partage cette analyse avec ses équipiers. | Le plongeur N3 doit s’approprier les informations fournies par le DP et utiliser sa propre connaissance ou observation du site.
@@ -93,7 +91,10 @@ Intervenir pour un équipier en difficulté. <br /><br />Nota : Le comportement 
 
 ### Compétence 4 : CHOISIR UN SITE DE PLONGEE
 
-A compléter
+Prendre en compte : <br/>- L’expérience de plongée des équipiers de la palanquée (niveau effectif, plongées), le nombre de plongeurs, les attentes, les équipements, les outils de décompression. <br/>- Le type de support surface (navire). | Recueille ces informations, analyse ce contexte et prévoit un site approprié. | Carnet de plongée, cartes, passeport, dernières plongées, etc…. 
+Recueillir les informations relatives au site et au trajet pour le rejoindre et revenir : localisation, durée du trajet, topographie, courants réguliers ou potentiels, état de la mer, météo prévue. Retenir un site de plongée adapté à l’expérience des équipiers, aux conditions météorologiques et aux conditions de pratique. | S’informe sur les sites accessibles et autorisés à partir de cartes marines, de bulletins météo, l’annuaire des marées et auprès de personnes pouvant les connaître ou qui les connaissent (affaires maritimes, pilote du bateau par exemple) : profondeurs accessibles, points d’intérêt (tombant, sec, épave, etc…) vents dominants, courants éventuels, état de la mer habituel, durée du trajet A/R, possibilité de mouillage, fréquentation du site, etc… | Il s’agit de connaître la nature des informations nécessaires et les exploiter de façon pertinente. 
+Analyser les conditions environnementales sur site. | Analyser les conditions environnementales sur site. | Il s’agit, sur site, de vérifier la faisabilité de la plongée prévue : conditions réelles sur site, nombre de plongeurs, équipements individuels, collectifs et de sécurité disponibles. 
+Planifier et organiser la plongée en l’absence d’un DP. | Elabore avec ses équipiers la fiche de sécurité et les paramètres de plongée. Prévoit les adaptations éventuelles selon les conditions variables possibles. Définit avec ses équipiers le protocole de décompression de la palanquée retenu en fonction des outils en présence. Détermine et vérifie l’autonomie en air nécessaire en fonction de la plongée prévue. Applique les procédures du plan de secours, remplit la fiche d’évacuation. | Le plongeur N3 doit connaître ces différentes procédures et les appliquer sans difficulté ni stress. <br/>Les décisions sont prises collectivement. 
 
 **Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
 ---|---|---
