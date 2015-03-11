@@ -77,20 +77,20 @@ Prévoir les différentes phases de la plongée : procédures d’immersion, des
 
 ### Compétence 2 : MAITRISER, ADAPTER L’EVOLUTION EN IMMERSION
 
-A compléter
-
 **Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
 ---|---|---
+Tant en surface qu’en immersion : <br />- Utiliser le milieu pour se diriger. <br />- Utiliser les instruments. | Imagine et mémorise la topographie du site avant l’immersion. Situe les points remarquables les uns par rapport aux autres et leurs caractéristiques : le support surface, le mouillage, le ou les points particuliers du parcours prévu, etc... Maîtrise le parcours effectué en utilisant (selon le cas) les éléments du relief, l’incidence de la lumière, le courant, etc... Maîtrise la direction d’un déplacement en utilisant un instrument d'orientation. | *Technique(s) : orientation sans instrument et avec instrument.* Le plongeur N3 doit savoir « trouver son chemin » pour atteindre la ou les zones d’intérêt pendant la plongée et retrouver le « mouillage ». Il doit savoir à tout moment approximativement où il se trouve sur le site et rester maître de l'itinéraire. Le plongeur N3 doit pouvoir maîtriser son cheminement avant tout à l’aide d’éléments naturels. L’usage d'instruments doit être enseigné comme complément lors de situations où les repères naturels ne suffisent pas ou sont absents. 
 Respecter des pratiques de plongée et des procédures d’évolution en immersion sécurisantes. | Garde une attention sur ses équipiers, communique avec eux régulièrement et chaque fois que nécessaire. Surveille régulièrement ses équipiers et les informe de l’atteinte des paramètres prédéfinis sur le plan de l’autonomie en air et de la décompression. Respecte les paramètres d'immersion donnés par le DP. Assure et contribue au maintien de la cohésion de la palanquée (position/distance) selon les conditions rencontrées. Respecte les procédures de décompression (vitesses de remontée, paliers, cohésion de la palanquée). Evite les profils de plongée « à risques » (plongée « inversée », « yoyo », plongées répétitives, etc…). Informe le support surface de l’exécution de paliers en pleine eau avec un « parachute ». Rejoint la surface en respectant un arrêt et un tour d’horizon de sécurité à 3 m. | *Technique(s) : tour d’horizon ; contrôle du gilet à la remontée ; équilibrage au gilet en surface.* Les « pratiques » évoquées sont celles qui correspondent aux comportements et procédures en situation normale de plongée (hors incident). 
-
 
 
 ### Compétence 3 : PARTICIPER A LA SECURITE DES EQUIPIERS
 
-A compléter
-
 **Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
 ---|---|---
+Se préparer à prévenir les risques avant l’immersion. | Connaît les mesures de prévention des incidents ou accidents courants et les procédures de sécurité à appliquer (prévention des principaux accidents, règle en cas de perte de la palanquée, remontée lente, rapide, paliers interrompus, etc…). | Au fur et à mesure de sa formation, le plongeur N3 doit assimiler les règles de sécurité qu’il est susceptible d’appliquer. 
+Identifier les situations susceptibles de générer des situations anormales et des demandes d’aide des équipiers. | Réagit sans délai au signe conventionnel d’un équipier indiquant une difficulté (panne d’air, narcose, essoufflement, froid, fatigue, etc…). Connaît les signes visibles potentiels chez un plongeur en difficulté, en l’absence de signe conventionnel (ventilation, agitation, état d’absence, inconscience, etc…).  | *Technique(s) : signes de communication, assistance évolutive.* Le plongeur N3 doit connaître les signes et les comportements nécessitant l'assistance d'un équipier tout en assurant sa propre sécurité. 
+
+A compléter
 
 ### Compétence 4 : CHOISIR UN SITE DE PLONGEE
 
