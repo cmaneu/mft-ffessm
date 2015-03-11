@@ -80,7 +80,6 @@ Prévoir les différentes phases de la plongée : procédures d’immersion, des
 Tant en surface qu’en immersion : <br />- Utiliser le milieu pour se diriger. <br />- Utiliser les instruments. | Imagine et mémorise la topographie du site avant l’immersion. Situe les points remarquables les uns par rapport aux autres et leurs caractéristiques : le support surface, le mouillage, le ou les points particuliers du parcours prévu, etc... Maîtrise le parcours effectué en utilisant (selon le cas) les éléments du relief, l’incidence de la lumière, le courant, etc... Maîtrise la direction d’un déplacement en utilisant un instrument d'orientation. | *Technique(s) : orientation sans instrument et avec instrument.* Le plongeur N3 doit savoir « trouver son chemin » pour atteindre la ou les zones d’intérêt pendant la plongée et retrouver le « mouillage ». Il doit savoir à tout moment approximativement où il se trouve sur le site et rester maître de l'itinéraire. Le plongeur N3 doit pouvoir maîtriser son cheminement avant tout à l’aide d’éléments naturels. L’usage d'instruments doit être enseigné comme complément lors de situations où les repères naturels ne suffisent pas ou sont absents. 
 Respecter des pratiques de plongée et des procédures d’évolution en immersion sécurisantes. | Garde une attention sur ses équipiers, communique avec eux régulièrement et chaque fois que nécessaire. Surveille régulièrement ses équipiers et les informe de l’atteinte des paramètres prédéfinis sur le plan de l’autonomie en air et de la décompression. Respecte les paramètres d'immersion donnés par le DP. Assure et contribue au maintien de la cohésion de la palanquée (position/distance) selon les conditions rencontrées. Respecte les procédures de décompression (vitesses de remontée, paliers, cohésion de la palanquée). Evite les profils de plongée « à risques » (plongée « inversée », « yoyo », plongées répétitives, etc…). Informe le support surface de l’exécution de paliers en pleine eau avec un « parachute ». Rejoint la surface en respectant un arrêt et un tour d’horizon de sécurité à 3 m. | *Technique(s) : tour d’horizon ; contrôle du gilet à la remontée ; équilibrage au gilet en surface.* Les « pratiques » évoquées sont celles qui correspondent aux comportements et procédures en situation normale de plongée (hors incident). 
 
-
 ### Compétence 3 : PARTICIPER A LA SECURITE DES EQUIPIERS
 
 **Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
@@ -91,6 +90,8 @@ Intervenir pour un équipier en difficulté. <br /><br />Nota : Le comportement 
 
 ### Compétence 4 : CHOISIR UN SITE DE PLONGEE
 
+**Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
+---|---|---
 Prendre en compte : <br/>- L’expérience de plongée des équipiers de la palanquée (niveau effectif, plongées), le nombre de plongeurs, les attentes, les équipements, les outils de décompression. <br/>- Le type de support surface (navire). | Recueille ces informations, analyse ce contexte et prévoit un site approprié. | Carnet de plongée, cartes, passeport, dernières plongées, etc…. 
 Recueillir les informations relatives au site et au trajet pour le rejoindre et revenir : localisation, durée du trajet, topographie, courants réguliers ou potentiels, état de la mer, météo prévue. Retenir un site de plongée adapté à l’expérience des équipiers, aux conditions météorologiques et aux conditions de pratique. | S’informe sur les sites accessibles et autorisés à partir de cartes marines, de bulletins météo, l’annuaire des marées et auprès de personnes pouvant les connaître ou qui les connaissent (affaires maritimes, pilote du bateau par exemple) : profondeurs accessibles, points d’intérêt (tombant, sec, épave, etc…) vents dominants, courants éventuels, état de la mer habituel, durée du trajet A/R, possibilité de mouillage, fréquentation du site, etc… | Il s’agit de connaître la nature des informations nécessaires et les exploiter de façon pertinente. 
 Analyser les conditions environnementales sur site. | Analyser les conditions environnementales sur site. | Il s’agit, sur site, de vérifier la faisabilité de la plongée prévue : conditions réelles sur site, nombre de plongeurs, équipements individuels, collectifs et de sécurité disponibles. 
@@ -101,10 +102,12 @@ Planifier et organiser la plongée en l’absence d’un DP. | Elabore avec ses 
 
 ### Compétence 5 : CONNAITRE ET RESPECTER L’ENVIRONNEMENT MARIN 
 
-A compléter
-
 **Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
 ---|---|---
+Evoluer en limitant son impact sur le milieu. | Gère ses instruments source de perturbations (lumière, bruit, bulles, etc...). | Acquis N2 à perfectionner. Il s’agit de savoir explorer dans le respect du milieu, en l’absence de GP. 
+Développer sa capacité d’observation. | Identifie quelques traces et indices de présence animale. Connaît les grandes caractéristiques des principaux milieux explorés (pleine eau, fonds rocheux, fond sableux, herbiers, récifs coralliens, coralligène). Connaît le comportement des espèces rencontrées. Partage ses observations avec les autres membres de la palanquée. | Il s’agit d’approfondir les connaissances acquises au N2 afin d’améliorer les capacités à repérer les espèces dans leur milieu. 
+Connaître la charte internationale du plongeur responsable. | Applique les gestes et attitudes décrits dans la charte. | Il s’agit de sensibiliser le plongeur aux conséquences environnementales de la production de déchets, de la consommation des ressources naturelles, comme les espèces en danger ou l’eau douce.et développer chez lui un comportement responsable. 
+Connaître et identifier les grands groupes d’animaux et de végétaux à partir de critères morphologiques. |  Identifie, décrit et nomme des représentants des principaux groupes d’animaux et de végétaux subaquatiques rencontrés. | Se limiter aux clés de détermination, la classification phylogénétique est hors sujet. L’usage du latin est réservé aux espèces ne possédant pas de noms communs. 
 
 ### Compétence 6 : CONNAISSANCES EN APPUI DES COMPETENCES 
 
