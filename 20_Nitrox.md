@@ -58,26 +58,29 @@ Les duplicata des cartes double face FFESSM/INTERNATIONAL sont délivrés par le
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
-
-A COMPLETER
-
-
+Identification du matériel Nitrox : marquage sur les blocs, détenteurs, PA et raccords aux normes oxygène. | Il s’agit de vérifier que l’élève est autonome dans la gestion du matériel personnel, mais aussi dans l’utilisation du matériel des autres plongeurs Nitrox de sa palanquée. | Le critère important est l’efficacité que l’on constatera tout au long des séances de pratique.
+Contrôle et vérification : <ul> <li>Etablissement de la fiche.</li> <li>Mesure du % d’O2 dans le mélange avant la plongée.</li> <li>Vérification mutuelle entre participants d’une même palanquée.</li> </ul> | <span /> | Savoir dérouler la “Check list”. Un second point est la capacité à aider efficacement un autre plongeur de sa palanqué rencontrant une difficulté dans son équipement.
+Entretien courant : interdiction de mélanger du matériel air (blocs, détenteurs, PA et raccords) et du matériel Nitrox. Conduite à tenir face aux pannes les plus fréquentes. | Un plongeur Nitrox n’a pas à savoir réparer lui-même son matériel au delà des opérations d’entretien préconisées par le fabricant. | <span />
+Connaissances succinctes des risques encourus lors de la manipulation des mélanges suroxygénés. | <span /> | <span /> 
 
 ### Compétence n°2 : PLONGEE AU NITROX
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
+Parfaite maîtrise de la stabilisation à l’aide d’un gilet ou d’une bouée. | La vérification par le formateur est impérative. Le niveau de stabilisation est maintenu pendant un temps raisonnable. | Surveillance sous l’eau par le formateur.
+Organisation et conduite dans la palanquée, gestion du profil de plongée, du retour, des éventuelles successives et consécutives. | Cela concerne autant le respect des consignes données par le directeur de plongée, que la capacité à s’adapter dans le sens de la sécurité en cas d’imprévu. | Absence d’incidents dus à la gestion du profil, ou à l’utilisation de tables ou ordinateurs Nitrox.
+Connaissance de la profondeur plancher pour le Nitrox 40/60. | Valeur donnée spontanément au cours de la formation.
 
-A COMPLETER
 
 ### Compétence n°3 : CONNAISSANCES THEORIQUES 
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
-
-A COMPLETER
-
-
+Différences entre air et Nitrox, avantages et inconvénients de ce dernier. <br />Causes, symptômes, prévention et conduite à tenir pour l’ensemble des risques supplémentaires rencontrés lors de plongées Nitrox.<br />Facteurs favorisants la survenue d’un accident.<br />Seuil hyperoxique. | Le plongeur Nitrox n’a pas à connaître les mécanismes fins, ni les traitements qui suivront.<br /> Une information sur les actes de secourisme peut lui permettre d’aider ou au moins de ne pas gêner. | Evaluation par oral ou par écrit.
+Calcul des profondeurs équivalentes Exemples de courbes de sécurité au Nitrox. | Les problèmes doivent être simples et réalistes. La plongée en altitude est exclue (à l’exception d’une information pour les plongeurs Nitrox pratiquant en altitude).| Evaluation par écrit.
+Les tables Nitrox et les ordinateurs de plongée Nitrox. | Aucune théorie : il s’agit seulement de préciser les conditions d’emploi et les limites d’utilisation. | Pas d’évaluation mais seulement une information.
+Prérogatives | <span/> | Pas d’évaluation mais seulement
+une information.
 <hr />
 
 # PLONGEUR NITROX CONFIRME
