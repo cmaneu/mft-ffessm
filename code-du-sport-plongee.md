@@ -654,6 +654,21 @@ ou des planifications de plongées prévues ; ― un support logistique ou une
 embarcation support de pratique avec une personne en surface habilitée pour la
 manœuvrer.
 
+Article A322-114
+----
+L'activité de plongée est matérialisée selon la réglementation en vigueur.
+
+
+Article A322-115
+----
+Les dispositions de la présente section sont applicables à la plongée
+souterraine uniquement en ce qui concerne les qualifications requises pour
+l'utilisation de mélanges en plongée. Les dispositions de la présente section ne
+sont pas applicables à la plongée archéologique, qui dispose d'une
+réglementation spécifique.
+
+
+
 
 
 
