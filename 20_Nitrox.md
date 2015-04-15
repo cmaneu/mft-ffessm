@@ -20,7 +20,6 @@ Pour être qualifié plongeur Nitrox, il faut avoir effectué au minimum 2 plong
 
 Elle est validée par un moniteur Nitrox confirmé FFESSM ayant assuré la formation. 
 
-
 ## CONDITIONS D’ACCES A LA FORMATION
 
 Etre titulaire de la licence FFESSM. en cours de validité.
@@ -31,14 +30,11 @@ Etre titulaire de la licence FFESSM. en cours de validité.
 - Avoir effectué un minimum de 10 plongées dans la zone des 20 mètres attestées sur le carnet de plongée ou par mention sur le passeport ou par fiche justificative dûment remplie.
 - Présenter un certificat médical de non-contre indication à la plongée subaquatique de moins d’un an délivré par un médecin généraliste tel que défini dans l’annexe 1 du Règlement Médical. 
 
-
-
 ## PREROGATIVES 
 
 Les plongeurs titulaires de la qualification Plongeur Nitrox pourront utiliser le mélange Nitrox le plus approprié avec au maximum 40% d’oxygène.
 
 Les plongeurs Nitrox ont les mêmes prérogatives que celles définies dans la partie du Code du Sport, correspondantes à leur niveau de plongée. 
-
 
 ## DELIVRANCE DE LA CARTE DE CERTIFICATION 
 
@@ -68,7 +64,6 @@ Connaissances succinctes des risques encourus lors de la manipulation des mélan
 Parfaite maîtrise de la stabilisation à l’aide d’un gilet ou d’une bouée. | La vérification par le formateur est impérative. Le niveau de stabilisation est maintenu pendant un temps raisonnable. | Surveillance sous l’eau par le formateur.
 Organisation et conduite dans la palanquée, gestion du profil de plongée, du retour, des éventuelles successives et consécutives. | Cela concerne autant le respect des consignes données par le directeur de plongée, que la capacité à s’adapter dans le sens de la sécurité en cas d’imprévu. | Absence d’incidents dus à la gestion du profil, ou à l’utilisation de tables ou ordinateurs Nitrox.
 Connaissance de la profondeur plancher pour le Nitrox 40/60. | Valeur donnée spontanément au cours de la formation.
-
 
 ### Compétence n°3 : CONNAISSANCES THEORIQUES 
 
@@ -143,14 +138,22 @@ A compléter
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
+Parfaite maîtrise de la stabilisation en immersion à l’aide d’un gilet ou d’une bouée, avec essais aux profondeurs maximum prévues pour chaque mélange (par ex. 30m en 40/60...	| Le niveau de stabilisation est maintenu pendant un temps raisonnable en statique et en déplacement. |	Surveillance sous l’eau par le formateur.
+Palier à l’oxygène pur et parfait contrôle de la stabilisation à la profondeur des paliers. |	Il s’agit de vérifier que l’élève est autonome dans ce type de palier, échange de détendeurs, contrôle des paramètres.	| Stabilisation en situation.
+Organisation et conduite du profil de plongée, du retour, des éventuelles successives et consécutives. |	Il s’agit d’une réalisation où le choix des paramètres de plongée est entièrement  laissé aux plongeurs. |	Absence d’incidents dus à la gestion du profil, ou à l’utilisation de tables ou ordinateurs Nitrox.
+Choix des mélanges en fonction de la plongée prévue. |	Des plongées à différents mélanges Nitrox seront réalisées (au moins 2 mélanges courants). Le choix du mélange sera laissé aux plongeurs lorsque les paramètres de la plongée sont connus.	| Choix correct d’un mélange compatible avec le thème de plongée retenu.
 
 ### Compétence n° 3 : CONNAISSANCES THEORIQUES
 
-A compléter
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
-
+Différences entre air et Nitrox, avantages et inconvénients de ce dernier. <br/>Causes, symptômes, prévention et conduite à tenir pour l’ensemble des risques supplémentaires rencontrés lors de plongées Nitrox. <br/> Facteurs favorisants la survenue d’un accident. <br/> Seuil hyperoxique.	| Le plongeur Nitrox n’a pas à connaître les mécanismes fins, ni les traitements qui suivront. <br/>Une information sur les actes de secourisme peut lui permettre d’aider ou au moins de ne pas gêner.	| Evaluation par oral ou par écrit.
+Calcul des profondeurs équivalentes<br/>Exemples de courbes de sécurité au Nitrox.	| Les problèmes doivent être simples et réalistes. La plongée en altitude est exclue (à l’exception d’une information pour les plongeurs Nitrox pratiquant en altitude).	| Evaluation par écrit.
+Les tables Nitrox et les ordinateurs de plongée Nitrox.	| Aucune théorie : il s’agit seulement de préciser les conditions d’emploi et les limites d’utilisation.	| Pas d’évaluation mais seulement une information.
+Prérogatives.	|<span/>	| Pas d’évaluation mais seulement une information.
+Courbes de sécurité selon divers mélanges usuels. Calcul des profondeurs équivalentes en altitude. Différentes façons de quantifier la crise hyperoxique : seuil, compteur SNC. Différentes façons de quantifier la toxicité pulmonaire : UPTD, OTU.	| Les problèmes doivent rester réalistes.	| Evaluation par écrit.
+Les tables et ordinateurs Nitrox : approfondissement : cas de l’altitude. Eléments de calcul des tables Nitrox fédérales.	| Aucune théorie : il s’agit seulement de préciser les conditions d’emploi et les limites d’utilisation.	| Pas d’évaluation mais seulement une information. Notions sur la fabrication des mélanges Nitrox et information sur les risques encourus. Information sur la spécificité du matériel à utiliser (norme oxygène, etc.). Notion sur le chargement des blocs.	 | <span/>	| Evaluation par écrit ou par oral.
 
 <hr />
 
