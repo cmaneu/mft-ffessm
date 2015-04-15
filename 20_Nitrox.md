@@ -72,9 +72,7 @@ Connaissance de la profondeur plancher pour le Nitrox 40/60. | Valeur donnée sp
 Différences entre air et Nitrox, avantages et inconvénients de ce dernier. <br />Causes, symptômes, prévention et conduite à tenir pour l’ensemble des risques supplémentaires rencontrés lors de plongées Nitrox.<br />Facteurs favorisants la survenue d’un accident.<br />Seuil hyperoxique. | Le plongeur Nitrox n’a pas à connaître les mécanismes fins, ni les traitements qui suivront.<br /> Une information sur les actes de secourisme peut lui permettre d’aider ou au moins de ne pas gêner. | Evaluation par oral ou par écrit.
 Calcul des profondeurs équivalentes Exemples de courbes de sécurité au Nitrox. | Les problèmes doivent être simples et réalistes. La plongée en altitude est exclue (à l’exception d’une information pour les plongeurs Nitrox pratiquant en altitude).| Evaluation par écrit.
 Les tables Nitrox et les ordinateurs de plongée Nitrox. | Aucune théorie : il s’agit seulement de préciser les conditions d’emploi et les limites d’utilisation. | Pas d’évaluation mais seulement une information.
-Prérogatives | <span/> | Pas d’évaluation mais seulement
-une information.
-
+Prérogatives | <span/> | Pas d’évaluation mais seulement une information.
 
 <hr />
 
