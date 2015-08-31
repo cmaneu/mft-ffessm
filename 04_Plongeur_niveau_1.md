@@ -29,8 +29,7 @@ Ce plongeur :
 	- Demande des parents au président du club ou au responsable de la structure commerciale agréée.
 	- Avis favorable du moniteur et du président du club ou du responsable de la structure commerciale agréée.
 	- Présentation d’un certificat médical favorable à la préparation et à la délivrance de ce brevet,
-délivré par un médecin fédéral, un médecin spécialisé, ou un médecin du sport (CES, Capacité
-ou DU). Ce certificat devra être présenté dès l’entrée en formation.
+délivré par un médecin fédéral, un médecin spécialisé. Ce certificat devra être présenté dès l’entrée en formation.
 
 # REGLES D’ORGANISATION ET DE DELIVRANCE
 L’ensemble des conditions de réalisation des certifications de la FFESSM est défini dans les « Règles
