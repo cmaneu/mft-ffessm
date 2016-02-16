@@ -80,7 +80,7 @@ Composer les palanquées. | Constitue chaque palanquée dans le respect des no
 Présenter le site. | Décrit la ou les zones de plongée, la façon d’y évoluer, les zones d’intérêt, les conditions de plongée probables (visibilité, courant, etc.) et les dangers éventuels. | La qualification de DP étant délivrée au niveau d’un club, on ne demandera pas au DP de connaître tous les sites de plongée « par cœur ». <br/>Sur un site méconnu, il doit définir la nature des informations nécessaires, les recueillir auprès de personnes compétentes puis les présenter, en s’appuyant si nécessaire sur le pilote ou toute autre personne connaissant ce site.
 Fixer les paramètres de plongée. | Donne des paramètres de profondeur, zone d’évolution, durée, profil de plongée et décompression adaptés au contexte. <br/> S’assure de leur compréhension par les palanquées (communication spécifique avec les personnes encadrant les palanquées). | 
 Rédiger la fiche de sécurité | Renseigne avec exactitude et complétude une fiche de sécurité. |
-Désigner un suppléant en cas de plongée du DP. | S’assure de l’aptitude de la personne volontaire, lui communique les informations nécessaires et la durée approximative de son absence. | l est rappelé que, même en immersion, le DP en titre conserve sa responsabilité.
+Désigner un suppléant en cas de plongée du DP. | S’assure de l’aptitude de la personne volontaire, lui communique les informations nécessaires et la durée approximative de son absence. | Il est rappelé que, même en immersion, le DP en titre conserve sa responsabilité.
 Rédiger la fiche de sécurité | Renseigne avec exactitude et complétude une fiche de sécurité. | 
 En cas de besoin : <br/> Rédiger une fiche d'évacuation et de prise en charge. | Renseigne avec exactitude et complétude une fiche d'évacuation et de prise en charge. <br/>Vérifie ces documents lorsqu’il confie l’action à une autre personne. | Cette compétence est acquise par la qualification RIFAP.
 
@@ -120,6 +120,6 @@ Attester du déroulement de l'activité. | Vise les documents des plongeurs lo
 
 ### MODIFICATIONS DEPUIS LE 16/06/2015 :
 
-Ensemble du document
-Le 30 octobre 2015
+#### Ensemble du document ####
+Le 30 octobre 2015 <br/>
 Nouvelle présentation du document avec des modifications de fond et notamment renumérotation des compétences pour harmonisation entre les différentes qualifications.
