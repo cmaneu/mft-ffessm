@@ -28,9 +28,9 @@ Cet encadrant possède les compétences générales suivantes :
 
 La qualification Directeur de Plongée est délivrée dans le cadre d'une évaluation continue des compétences. Il n'y a pas de chronologie imposée pour l'acquisition des compétences.
 
-	- La certification est délivrée au niveau d’un club affilié ou d’une structure commerciale agréée, sous la responsabilité du président du club ou du responsable de la structure, par un E3 (licencié) minimum.
-	- Le club ou la structure doit valider la certification sur le passeport du lauréat et lui remettre, éventuellement et sur sa demande, un diplôme. Le passeport et le diplôme doivent comporter le cachet officiel du club ou de la structure.
-	- Le club ou la structure doit enregistrer la certification sur le site internet <www.ffessm.fr> pour que le siège national de la FFESSM puisse éditer la carte double face FFESSM/INTERNATIONAL et l’adresser au candidat. Le siège national de la FFESSM garde en archive les informations concernant les certifications.
+- La certification est délivrée au niveau d’un club affilié ou d’une structure commerciale agréée, sous la responsabilité du président du club ou du responsable de la structure, par un E3 (licencié) minimum.
+- Le club ou la structure doit valider la certification sur le passeport du lauréat et lui remettre, éventuellement et sur sa demande, un diplôme. Le passeport et le diplôme doivent comporter le cachet officiel du club ou de la structure.
+- Le club ou la structure doit enregistrer la certification sur le site internet <www.ffessm.fr> pour que le siège national de la FFESSM puisse éditer la carte double face FFESSM/INTERNATIONAL et l’adresser au candidat. Le siège national de la FFESSM garde en archive les informations concernant les certifications.
 
 Duplicata :
 Les duplicata des cartes double face FFESSM/INTERNATIONAL sont délivrés par le siège national de la FESSM.
@@ -38,22 +38,19 @@ Les duplicata des cartes double face FFESSM/INTERNATIONAL sont délivrés par 
 ## CONDITIONS DE CANDIDATURE A L’EXAMEN
 
 Les conditions suivantes doivent être remplies par le stagiaire à la date de délivrance de la qualification :
-	- Etre titulaire de la licence FFESSM en cours de validité.
-	- Etre âgé de 18 ans révolus.
-	- Etre Francophone.
-	- Etre titulaire de la qualification Guide de Palanquée - Niveau 4 de la FFESSM ou du Niveau 4 de l’ANMP ou du BP-JEPS.
-	- Etre titulaire de la carte RIFA Plongée de la FFESSM.
-	- Justifier d’une réelle expérience de Guide de Palanquée (15 plongées en situation de guide).
-	- Avoir acquis en situation réelle l’ensemble des compétences du référentiel validées par un encadrant E3 minimum.
+- Etre titulaire de la licence FFESSM en cours de validité.
+- Etre âgé de 18 ans révolus.
+- Etre Francophone.
+- Etre titulaire de la qualification Guide de Palanquée - Niveau 4 de la FFESSM ou du Niveau 4 de l’ANMP ou du BP-JEPS.
+- Etre titulaire de la carte RIFA Plongée de la FFESSM.
+- Justifier d’une réelle expérience de Guide de Palanquée (15 plongées en situation de guide).
+- Avoir acquis en situation réelle l’ensemble des compétences du référentiel validées par un encadrant E3 minimum.
 
 ## REFERENTIEL DE COMPETENCES
 
 Le référentiel ci-après est la déclinaison des compétences générales. Certaines compétences de second niveau mentionnées dans le référentiel peuvent avoir été déjà acquises lors des formations à d’autres qualifications ou grâce à l’expérience. Elles figurent néanmoins dans les tableaux par volonté d’une description complète du profil « Directeur de Plongée - Niveau 5 ».
 En raison de la diversité des pratiquants, le Directeur de Plongée doit être capable d'exercer ses compétences en tenant compte des besoins et attentes de publics particuliers : jeunes, seniors, aptitudes médicales spécifiques, etc....
 Cette exigence interviendra principalement dans le choix du site, l'organisation, la planification et la composition des palanquées.
-
-
-
 
 ### Compétence 1 : ACCUEIL DES PLONGEURS « Accueillir, conseiller et répondre aux demandes des plongeurs et du public »
 
@@ -66,7 +63,6 @@ Informer sur les cursus de formation, sur les qualifications et sur les assuranc
 Questionner les plongeurs accueillis sur leur expérience, leurs attentes, leurs certifications, leurs équipements. | Pose des questions de manière à favoriser le dialogue. Connaît les documents et les renseignements nécessaires. S’assure de l’utilisation d’un matériel adapté. S’intéresse aux plongeurs, évalue leur profil, leur technicité, cerne leurs attentes. Oriente les plongeurs conformément à leurs attentes et/ou leurs besoins. | Ceci doit permettre au DP de valoriser au mieux l’expérience des plongeurs.
 Répondre aux questions, conseiller et renseigner les plongeurs et le public potentiel sur tous les sujets relatifs à l’activité. | Donne des informations pertinentes, complètes, adaptées et accessibles à la compréhension. Oriente les plongeurs conformément à leurs attentes et/ou leurs besoins.
 
-
 ### Compétence 4 : « Choisir un site de plongée »
 **Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Commentaires**
 ---|---|---
@@ -74,7 +70,6 @@ Prendre en compte : <br/> - Les attentes, le nombre et le niveau, les équipeme
 Recueillir les informations relatives au site et au trajet pour le rejoindre et revenir : localisation, durée du trajet, topographie, courants réguliers ou potentiels, état de la mer, météo prévue. Apprécier et choisir un site de plongée adapté aux niveaux techniques des plongeurs, aux conditions météorologiques et aux conditions de pratique. | S’informe sur les sites accessibles et autorisés à partir de cartes marines, de bulletins météo, l’annuaire des marées et auprès de personnes pouvant les connaître ou qui les connaissent (affaires maritimes, pilote du bateau par exemple) : profondeurs accessibles, points d’intérêt (tombant, sec, épave, ...) vents dominants, courants éventuels, état de la mer habituel, durée du trajet aller et retour, possibilité de mouillage, fréquentation du site, ... | Le DP peut s'informer auprès du pilote ou de toute autre personne pour recueillir les renseignements nécessaires. <br/> Il doit connaître la nature des informations dont il a besoin et être capable de les exploiter de façon judicieuse.
 Analyser les conditions environnementales sur site. | Met en relation les conditions de vent, houle, visibilité sur l’eau, trafic maritime, courant(s), visibilité en immersion, température et évolutions prévisibles de ces éléments. | Le DP doit vérifier la faisabilité des plongées prévues: adéquation des conditions sur site avec le niveau de chaque plongeur, le nombre de plongeurs et de guides, les équipements individuels, collectifs et de sécurité disponibles.
  
-
 ### Compétence 5 : ORGANISATION « Organiser, planifier le déroulement de l’activité »
 
 **Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Commentaires**
@@ -114,7 +109,7 @@ Outils et procédures de décompression. | Explique les principes de différe
 Navigation, météorologie marine. | Décrit et commente les éléments figurants dans un bulletin météo. Connaît les règles élémentaires de navigation maritime. Comprend les éléments nécessaires à la navigation indiqués par le pilote du bateau. | 
 Environnement maritime. | Décrit la faune et flore. <br/> Connait les comportements pour le respect de l’environnement. <br/> Cite les règles relatives au respect de l’environnement et explique leur esprit. | Au moins les espèces les plus rencontrées en plongée et celles spécifiques au site.
 
-### Compétence 9 : Compétence 9 : « DIRECTEUR DE PLONGEE » « Attester de la fonction de Directeur de Plongée »
+### Compétence 9 : « DIRECTEUR DE PLONGEE » « Attester de la fonction de Directeur de Plongée »
 
 **Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Commentaires**
 ---|---|---
