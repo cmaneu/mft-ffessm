@@ -104,18 +104,18 @@ Total des points attribués pour ce groupe : 100 points
 
 moyenne du groupe : 50 points 
 
-4 - Guide de Palanquée 
+
 
 intitulé | Coefficient
 ---|---
-Briefing/Débriefing | Coefficient 2 
-Conduite de palanquée | Coefficient 3 
-Intervention sur un plongeur en difficulté à 40 m | Coefficient 3
+4 - Guide de Palanquée Briefing/Débriefing&nbsp;&nbsp;&nbsp;Coefficient 2 
+Conduite de palanquée&nbsp;&nbsp;&nbsp;Coefficient 3 
+Intervention sur un plongeur en difficulté à 40 m&nbsp;&nbsp;&nbsp;Coefficient 3
  
 **Sous-groupe B**
 
-6 - Remontée sans embout (RSE) de 20 m 			Coefficient 2
-7 - Matelotage 			Coefficient 2 
+6 - Remontée sans embout (RSE) de 20 m&nbsp;&nbsp;&nbsp;Coefficient 2
+7 - Matelotage&nbsp;&nbsp;&nbsp;Coefficient 2 
 
 La moyenne de 10/20 minimum est requise par sous-groupe (minimum 80/160 pour le sous-groupe A et minimum 40 /80 pour le sous-groupe B) 
  
