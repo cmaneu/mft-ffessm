@@ -106,7 +106,6 @@ moyenne du groupe : 50 points
 
 4 - Guide de Palanquée 
 
- | 
 ---|---
 Briefing/Débriefing | Coefficient 2 
 Conduite de palanquée | Coefficient 3 
