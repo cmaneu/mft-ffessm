@@ -1,944 +1,395 @@
-GUIDE DE PALANQUEE 
+---
+nom: Plongeur niveau 4 Guide de palanquée
+revision: 01/2016
+mise_en_ligne: 01/01/2016
+lien_original: http://www.ffessm.fr/gestionenligne/manuel/10_Guide_de_Palanquee_N4.pdf
+---
 
- 
+# GUIDE DE PALANQUEE #
 
+## PREROGATIVES – APTITUDES GENERALES ##
  
-PREROGATIVES – APTITUDES GENERALES 
- 
-Le brevet de « Guide de Palanquée » (GP) de la FFESSM atteste de la maîtrise des compétences requises pour 
-exercer  la  fonction  de  Guide  de  Palanquée  en  exploration  définie  dans  le  Code  du  Sport  (Etablissements 
-organisant la pratique de la plongée subaquatique Art. A.322-71 à A. 322-101 et ses annexes notamment annexe 
-III-15b de la sous-section 1).. 
+Le brevet de « Guide de Palanquée » (GP) de la FFESSM atteste de la maîtrise des compétences requises pour exercer la fonction de Guide de Palanquée en exploration définie dans le Code du Sport (Etablissements organisant la pratique de la plongée subaquatique Art. A.322-71 à A. 322-101 et ses annexes notamment annexe III-15b de la sous-section 1).
  
 Cet encadrant possède les compétences générales suivantes : 
- 
 
--  C1 « Accueil des plongeurs » : accueillir, conseiller et répondre aux demandes des plongeurs et du public. 
--  C5 « Organisation » : participer à l’organisation de l’activité. 
--  C6 « Sécuriser l’activité » : sécuriser l’activité, prévenir les risques et intervenir si besoin. 
--  C7 «  Connaissances support » : posséder les connaissances en appui des compétences requises. 
--  C8 «Guide d’exploration » : prendre en charge et guider un groupe de plongeurs en exploration. 
--  C15 « Environnement » : connaître et respecter l’environnement subaquatique. 
-
- 
+- C1 « Accueil des plongeurs » : accueillir, conseiller et répondre aux demandes des plongeurs et du public. 
+- C5 « Organisation » : participer à l’organisation de l’activité. 
+- C6 « Sécuriser l’activité » : sécuriser l’activité, prévenir les risques et intervenir si besoin. 
+- C7 « Connaissances support » : posséder les connaissances en appui des compétences requises. 
+- C8 « Guide d’exploration » : prendre en charge et guider un groupe de plongeurs en exploration. 
+- C15 « Environnement » : connaître et respecter l’environnement subaquatique. 
 
 Les prérogatives réglementaires du GP sont définies par le Code du Sport. 
 
+## NIVEAUX D’ORGANISATION ##
  
+L’organisation de l’examen au brevet de Guide de Palanquée (GP) relève de l’autorité d’une Commission Technique Régionale (CTR). Cette organisation peut être déléguée à l’échelon départemental ou club. Dans tous les cas, la CTR désigne le président du jury et le délégué de la CTR. 
  
-NIVEAUX D’ORGANISATION 
+Les comités départementaux ou clubs qui désirent organiser un examen doivent en faire la demande à leur CTR d’appartenance, selon les modalités définies par cette dernière et au moins 2 mois avant la date prévisionnelle de début de l’examen, quel qu’en soit le lieu. 
  
-L’organisation  de  l’examen  au  brevet  de  Guide  de  Palanquée  (GP)  relève  de  l’autorité  d’une  Commission 
-Technique Régionale (CTR). Cette organisation peut être déléguée à l’échelon départemental ou club. 
-Dans tous les cas, la CTR désigne le président du jury et le délégué de la CTR. 
+Un président de CTR peut regrouper des examens en fonction de la répartition géographique, des dates et (ou) du nombre de candidats. 
  
-Les comités départementaux ou clubs qui désirent organiser un examen doivent en faire la demande à leur CTR 
-d’appartenance, selon les modalités définies par cette dernière et au moins 2 mois avant la date prévisionnelle de 
-début de l’examen, quel qu’en soit le lieu. 
+Si l’examen se déroule à l’étranger, dans les COM, Collectivités Territoriales ou Collectivités Départementales non rattachées à un comité régional, le président de la Commission Technique Nationale (CTN) est habilité à déroger aux présentes conditions. 
  
-Un président de CTR peut regrouper des examens en fonction de la répartition géographique, des dates et (ou) du 
-nombre de candidats. 
+L’ensemble de l’examen (3 groupes d’épreuves) doit se dérouler de façon continue dans un délai maximum de 4 jours, exception faite de conditions météo très défavorables et jugées telle par le jury. 
  
-Si l’examen se déroule à l’étranger, dans les COM, Collectivités Territoriales ou Collectivités Départementales non 
-rattachées à un comité régional, le président de la Commission Technique Nationale (CTN) est habilité à déroger 
-aux présentes conditions. 
+Cependant, une CTR ou une Commission Technique d’un de ses Organes Déconcentrés (avec accord de la CTR) peut dissocier les épreuves de théorie et connaissances générales (groupe 3) de celles pratiques (groupe 1 et 2), à condition que le candidat participe à l’ensemble des épreuves théoriques et pratiques organisés par cette même CTR. 
  
-L’ensemble de l’examen (3 groupes d’épreuves) doit se dérouler de façon continue dans un délai maximum de 4 
-jours, exception faite de conditions météo très défavorables et jugées telle par le jury. 
- 
-Cependant, une CTR ou une Commission Technique d’un de ses Organes Déconcentrés (avec accord de la CTR) 
-peut dissocier les épreuves de théorie et connaissances générales (groupe 3) de celles pratiques (groupe 1 et 2), à 
-condition que le candidat participe à l’ensemble des épreuves théoriques et pratiques organisés par cette même 
-CTR. 
- 
+## CONDITIONS DE CANDIDATURE A L’EXAMEN ##
  
 
-EDITION 1 janvier 2016 
-
- 
-
-Manuel de Formation Technique 
-
-Page 1/34 
-
-GUIDE DE PALANQUEE 
-
- 
-
- 
-CONDITIONS DE CANDIDATURE A L’EXAMEN 
- 
-
--  Etre titulaire de la licence FFESSM en cours de validité. 
--  Etre âgé de 18 ans au moins le jour du début de l’examen. 
--  Etre titulaire du brevet Niveau 3 de la FFESSM ou d’un brevet ou attestation admis en équivalence. 
--  Etre titulaire de la carte RIFA Plongée. 
--  Présenter les aptitudes A1, A2, et A3 : 
-
-o  Aptitude A1 : compétences de Guide de Palanquée (C1, C5, C8 et C15). 
-o  Aptitude  A2 :  intervention  sur  un  plongeur  en  difficulté  à  40  m  (Cf.  C6  « Sécuriser  l’activité »  et 
-
-épreuve 5). 
-
-o  Aptitude A3 : remontée sans embout (RSE) (épreuve 6). 
+- Etre titulaire de la licence FFESSM en cours de validité. 
+- Etre âgé de 18 ans au moins le jour du début de l’examen. 
+- Etre titulaire du brevet Niveau 3 de la FFESSM ou d’un brevet ou attestation admis en équivalence. 
+- Etre titulaire de la carte RIFA Plongée. 
+- Présenter les aptitudes A1, A2, et A3 : 
+	- Aptitude A1 : compétences de Guide de Palanquée (C1, C5, C8 et C15). 
+	- Aptitude A2 : intervention sur un plongeur en difficulté à 40 m (Cf. C6 « Sécuriser l’activité » et épreuve 5). 
+	- Aptitude A3 : remontée sans embout (RSE) (épreuve 6). 
  
 Ces 3 aptitudes doivent être attestées par un MF1 de la FFESSM ou BEES 1 minimum titulaire de la 
-licence  fédérale  en  cours  de  validité.  La  durée  de  validité  de  chacune  de  ces  attestations  est  de  9 
-mois. 
+licence fédérale en cours de validité. La durée de validité de chacune de ces attestations est de 9 mois. 
 
--  Présenter  un  certificat  médical  de  non  contre-indication  à  la  plongée  subaquatique  de  moins  d’un  an 
-délivré par un médecin fédéral, un médecin spécialisé tel que défini dans l’annexe 1 du règlement médical 
-fédéral ou un médecin du sport (CES, Capacité ou DU). 
-Les candidats qui, titulaires des groupes 1 et 2 acquis dans une session antérieure, ne présentent que le 
-groupe « théorie et connaissances générales », sont dispensés de cette obligation. 
+- Présenter un certificat médical de non contre-indication à la plongée subaquatique de moins d’un an 
+délivré par un médecin fédéral, un médecin spécialisé tel que défini dans l’annexe 1 du règlement médical fédéral ou un médecin du sport (CES, Capacité ou DU). 
+Les candidats qui, titulaires des groupes 1 et 2 acquis dans une session antérieure, ne présentent que le groupe « théorie et connaissances générales », sont dispensés de cette obligation. 
 
+## JURY DE L’EXAMEN ##
  
+Tous les membres du jury doivent être en possession d’une licence fédérale et d’un certificat médical en cours de validité. 
  
-JURY DE L’EXAMEN 
+Au moins deux MF2 et/ou BEES2 ou DE-JEPS ou DES-JEPS (E4), licencié à la FFESSM, dont l’un est délégué par la CTR responsable de l’examen. L’un de ces E4 ne doit pas faire partie de la structure organisatrice. 
  
-Tous les membres du jury doivent être en possession d’une licence fédérale et d’un certificat médical en cours de 
-validité. 
+Un ou plusieurs MF1 ou BEES1, licencié à la FFESSM, peuvent participer au jury, à condition qu’ils ne représentent pas plus de la moitié de celui-ci. 
  
-Au moins deux MF2 et/ou BEES2 ou DE-JEPS ou DES-JEPS (E4), licencié à la FFESSM, dont l’un est délégué 
-par la CTR responsable de l’examen. L’un de ces E4 ne doit pas faire partie de la structure organisatrice. 
+Le délégué de la CTR responsable de l’examen est chargé de vérifier les dossiers des candidats et la conformité du déroulement de cet examen. Il participe aux épreuves de l'examen et à l'évaluation des candidats. 
  
-Un  ou  plusieurs  MF1  ou  BEES1,  licencié  à  la  FFESSM,  peuvent  participer  au  jury,  à  condition  qu’ils  ne 
-représentent pas plus de la moitié de celui-ci. 
+L'un des membres du jury, au moins MF2 ou BEES2 ou DE-JEPS ou DES-JEPS licencié à la FFESSM, est nommé par le président de la CTR pour assurer la présidence du jury de la session. Il peut, à ce titre, signer les feuilles de notes et les bordereaux pour l'ensemble des examinateurs ainsi que les attestations de conservation des groupes pratique ou théorique. 
  
-Le délégué de la CTR responsable de l’examen est chargé de vérifier les dossiers des candidats et la conformité 
-du déroulement de cet examen. Il participe aux épreuves de l'examen et à l'évaluation des candidats. 
- 
-L'un  des  membres  du  jury,  au  moins  MF2  ou  BEES2  ou  DE-JEPS  ou  DES-JEPS  licencié  à  la  FFESSM,  est 
-nommé par le président de la CTR pour assurer la présidence du jury de la session. Il peut, à ce titre, signer les 
-feuilles  de  notes  et  les  bordereaux  pour  l'ensemble  des  examinateurs  ainsi  que  les  attestations  de  conservation 
-des groupes pratique ou théorique. 
- 
-Le  jury  de  chaque  atelier  doit  comporter  au  moins  un  MF2  ou  BEES2  ou  DE-JEPS  ou  DES-JEPS  licencié  à  la 
+Le jury de chaque atelier doit comporter au moins un MF2 ou BEES2 ou DE-JEPS ou DES-JEPS licencié à la 
 FFESSM sauf pour les épreuves du premier groupe (condition physique). 
  
-Nota 
+**Nota** 
 Le délégué de la CTR peut cumuler sa fonction avec celle de président du jury. 
  
+## EPREUVES DE L’EXAMEN - GENERALITES ##
  
-EPREUVES DE L’EXAMEN - GENERALITES 
- 
-Pour toutes les épreuves pratiques aquatiques (1 à 6) le candidat doit être équipé de la même paire de palmes et 
-du même masque. 
-Pour les épreuves du premier groupe (hormis le capelé), quand certaines conditions de température de l’eau sont 
-réunies, le candidat peut choisir d'adopter pour l'ensemble des 3 épreuves, l'équipement minimum suivant : 
+Pour toutes les épreuves pratiques aquatiques (1 à 6) le candidat doit être équipé de la même paire de palmes et du même masque. 
+Pour les épreuves du premier groupe (hormis le capelé), quand certaines conditions de température de l’eau sont réunies, le candidat peut choisir d'adopter pour l'ensemble des 3 épreuves, l'équipement minimum suivant : 
 
-(cid:1)  Soit  la  partie  supérieure  d'un  vêtement  isothermique  avec  cagoule  et  le  lestage  annulant  sa 
+- Soit la partie supérieure d'un vêtement isothermique avec cagoule et le lestage annulant sa  flottabilité, si la température de l'eau est inférieure à 18 °C. 
 
-flottabilité, si la température de l'eau est inférieure à 18 °C. 
+- Soit un maillot de bain si la température de l'eau est égale ou supérieure à 18 °C. 
 
-(cid:1)  Soit un maillot de bain si la température de l'eau est égale ou supérieure à 18 °C. 
+Pour l’épreuve du capelé du premier groupe et les épreuves n°4 à 6 du deuxième groupe, le candidat doit être équipé du même vêtement isothermique et du même lestage approprié pour évoluer en poids apparent nul à la profondeur de 3 mètres. 
 
- 
-Pour  l’épreuve  du  capelé  du  premier  groupe  et  les  épreuves  n°4  à  6  du  deuxième  groupe,  le  candidat  doit  être 
-équipé  du  même  vêtement  isothermique  et  du  même  lestage  approprié  pour  évoluer  en  poids  apparent  nul  à  la 
-profondeur de 3 mètres. 
- 
-
-EDITION 1 janvier 2016 
-
- 
-
-Manuel de Formation Technique 
-
-Page 2/34 
-
-GUIDE DE PALANQUEE 
-
- 
-
- 
 La durée de l’ensemble des trois épreuves écrites 8 à 10 ne doit pas excéder trois heures. 
 L’épreuve 11 est orale, l’épreuve 12 est orale ou écrite (au choix du jury). 
  
 L’examen est constitué de trois groupes d’épreuves. 
  
-PREMIER GROUPE :EPREUVES DE CONDITION PHYSIQUE (3 épreuves). 
- 
+### PREMIER GROUPE :EPREUVES DE CONDITION PHYSIQUE (3 épreuves). ###
 
-1 - Mannequin 
-2 - 800 m PMT ou 500 m capelé 
+1 - Mannequin 			Coefficient 2 
+2 - 800 m PMT ou 500 m capelé 			Coefficient 2 
 (tirage au sort pour l’ensemble des candidats en début d’examen) 
-3 - Apnée à 10 m 
+3 - Apnée à 10 m 			Coefficient 1 
 
-Coefficient 2 
-Coefficient 2 
-
-Coefficient 1 
-
+Total des points attribués pour ce groupe : 100 points 
  
-Total des points attribués pour ce groupe : 100 points  
+### DEUXIEME GROUPE :PLONGEE SCAPHANDRE (4 épreuves en 2 sous-groupes, 5 notes) ###
  
-DEUXIEME GROUPE :PLONGEE SCAPHANDRE (4 épreuves en 2 sous-groupes, 5 notes) 
- 
-Sous-groupe A 
+**Sous-groupe A**
 
 moyenne du groupe : 50 points 
 
-4 - Guide de Palanquée 
-
-a) Briefing/Débriefing 
-b) Conduite de palanquée 
-
-5 - Intervention sur un plongeur en difficulté à 40 m 
+4 - Guide de Palanquée 			
+	a) Briefing/Débriefing 			Coefficient 2 
+	b) Conduite de palanquée 			Coefficient 3 
+5 - Intervention sur un plongeur en difficulté à 40 m 			Coefficient 3
  
+**Sous-groupe B**
 
-Sous-groupe B 
+6 - Remontée sans embout (RSE) de 20 m 			Coefficient 2
+7 - Matelotage 			Coefficient 2 
 
-Coefficient 2 
-Coefficient 3 
-Coefficient 3 
-
-6 - Remontée sans embout (RSE) de 20 m 
-7 - Matelotage 
-
-Coefficient 2 
-Coefficient 2 
-
+La moyenne de 10/20 minimum est requise par sous-groupe (minimum 80/160 pour le sous-groupe A et minimum 40 /80 pour le sous-groupe B) 
  
-La moyenne de 10/20 minimum est requise par sous-groupe (minimum 80/160 pour le sous-groupe A et minimum 
-40 /80 pour le sous-groupe B) 
+Total des points attribués pour ce groupe : 240 points 	moyenne du groupe : 120 points
  
-Total des points attribués pour ce groupe : 240 points  
- 
-TROISIEME GROUPE :THEORIE ET CONNAISSANCES GENERALES 
- 
+### TROISIEME GROUPE :THEORIE ET CONNAISSANCES GENERALES ###
 
-moyenne du groupe : 120 points 
+8 - Décompression 			Coefficient 3 
+9 - Anatomie, physiologie et physiopathologie du plongeur 			Coefficient 4 
+10 - Aspects théoriques de l’activité 				Coefficient 2 
+11 - Matériel de plongée 			Coefficient 2 
+12 - Cadre réglementaire de l’activité			Coefficient 2 
 
-8 - Décompression 
-9 - Anatomie, physiologie et physiopathologie du plongeur 
-10 - Aspects théoriques de l’activité 
-11 - Matériel de plongée 
-12 - Cadre réglementaire de l’activité 
+Total des points attribués pour ce groupe : 260 points 	moyenne du groupe : 130 points 
 
-Coefficient 3 
-Coefficient 4 
-Coefficient 2 
-Coefficient 2 
-Coefficient 2 
-
- 
-Total des points attribués pour ce groupe : 260 points  
- 
- 
-
-moyenne du groupe : 130 points 
-
-EDITION 1 janvier 2016 
-
- 
-
-Manuel de Formation Technique 
-
-Page 3/34 
-
-GUIDE DE PALANQUEE 
-
- 
-
- 
-EPREUVES DE L’EXAMEN 
+## EPREUVES DE L’EXAMEN ##
  
 Chaque épreuve est notée sur 20, affectée d’un coefficient. 
  
-PREMIER GROUPE : EPREUVES DE CONDITION PHYSIQUE 
+### PREMIER GROUPE : EPREUVES DE CONDITION PHYSIQUE ###
  
-1 – Epreuve du mannequin : coefficient 2 
-Cette épreuve consiste à réaliser, équipé de palmes, masque et tuba, en moins de 8 minutes le parcours défini par 
-le jury (point de départ, passages obligés, point d’arrivée). 
--  Nager en surface sur une distance de 100 mètres. 
--  Descendre à une profondeur comprise entre 4 et 6 mètres et tenir une apnée de 20 secondes minimum en 
-
-déplacement. 
-
--  Après  une  récupération  de  10  secondes  au  maximum  en  surface,  redescendre  à  la  même  profondeur, 
-
-récupérer le mannequin, le ramener en surface et effectuer le signal de détresse en direction du bateau. 
-
--  Remorquer le mannequin, les voies respiratoires hors de l’eau, sur une distance de 100 mètres. 
-- 
-
-Le  candidat  doit  maintenir  le  mannequin,  les  voies  aériennes  hors  de  l’eau  en  utilisant  une  prise  et  une 
-tenue  du  mannequin  applicable  à  une  victime  réelle,  selon  la  prise  classique  (bras  placé  sous  l'aisselle, 
-main sur la poitrine, tête du mannequin sur l'épaule) en se déplaçant sur le dos. 
-Le candidat ne dispose que d’une seule tentative pour réaliser l’épreuve dans sa totalité. Toutefois, si le 
-candidat échoue dans la récupération du mannequin, il peut faire une seconde tentative, le chronomètre 
-n’étant pas arrêté. 
-
-- 
-
+#### 1 – Epreuve du mannequin : coefficient 2 ####
+Cette épreuve consiste à réaliser, équipé de palmes, masque et tuba, en moins de 8 minutes le parcours défini par le jury (point de départ, passages obligés, point d’arrivée). 
+- Nager en surface sur une distance de 100 mètres. 
+- Descendre à une profondeur comprise entre 4 et 6 mètres et tenir une apnée de 20 secondes minimum en déplacement. 
+- Après une récupération de 10 secondes au maximum en surface, redescendre à la même profondeur, récupérer le mannequin, le ramener en surface et effectuer le signal de détresse en direction du bateau. 
+- Remorquer le mannequin, les voies respiratoires hors de l’eau, sur une distance de 100 mètres. 
+- Le candidat doit maintenir le mannequin, les voies aériennes hors de l’eau en utilisant une prise et une tenue du mannequin applicable à une victime réelle, selon la prise classique (bras placé sous l'aisselle, main sur la poitrine, tête du mannequin sur l'épaule) en se déplaçant sur le dos. 
+Le candidat ne dispose que d’une seule tentative pour réaliser l’épreuve dans sa totalité. Toutefois, si le candidat échoue dans la récupération du mannequin, il peut faire une seconde tentative, le chronomètre n’étant pas arrêté. 
  
-Nota 
+**Nota** 
 
 Un mannequin réglementaire adulte et homologué type «FFSS» (Fédération Française de Sauvetage 
 et de Secourisme), agréé par la jeunesse et sports pour les épreuves de sauvetage aquatique devra 
 être impérativement utilisé (poids apparent de 1,500 kg). 
 
- 
 Notation 
 
+**Temps en min.s ** | ** Nb de points **
+---|---
+égal ou inférieur à 4.30 | 12
+de 4.31 à 5.00 | 11
+de 5.01 à 5.30 | 10
+de 5.31 à 6.00 | 09
+de 6.01 à 6.30 | 08
+de 6.31 à 7.00 | 07
+de 7.01 à 7.30 | 06
+de 7.31 à 8.00 | 05
+supérieur à 8.00 | éliminé(e) 
+
+- 1 à 8 points sont attribués pour la tenue, l’aisance, l’efficacité et la rectitude lors du tractage du mannequin. 
+- La non réalisation en totalité de l’épreuve définie est éliminatoire. 
+- Un temps supérieur à 8 minutes est éliminatoire. 
+- Toute immersion complète de la face du mannequin d'une durée de 5 secondes consécutives au moins durant le remorquage est éliminatoire. 
  
-
-Temps en min.s 
- 
-égal ou inférieur à 4.30 
-de 4.31 à 5.00 
-de 5.01 à 5.30 
-de 5.31 à 6.00 
-de 6.01 à 6.30 
-de 6.31 à 7.00 
-de 7.01 à 7.30 
-de 7.31 à 8.00 
-supérieur à 8.00 
-
-Nb de points 
-
-12 
-11 
-10 
-09 
-08 
-07 
-06 
-05 
-éliminé(e) 
-
-1 à 8 points sont attribués pour la tenue, l’aisance, l’efficacité et la rectitude lors du tractage du mannequin. 
-La non réalisation en totalité de l’épreuve définie est éliminatoire. 
-
-- 
-- 
--  Un temps supérieur à 8 minutes est éliminatoire. 
--  Toute immersion complète de la face du mannequin  d'une durée de 5 secondes consécutives au moins 
-
-durant le remorquage est éliminatoire. 
-
- 
-
-EDITION 1 janvier 2016 
-
- 
-
-Manuel de Formation Technique 
-
-Page 4/34 
-
-GUIDE DE PALANQUEE 
-
- 
-
- 
-2 – Epreuve de nage : coefficient 2 
+#### 2 – Epreuve de nage : coefficient 2 ####
 (tirage au sort par le jury en début d’examen entre A et B) 
  
-A - Epreuve de nage en surface sur une distance de 800 mètres à l’aide des palmes, masque et tuba 
+##### A - Epreuve de nage en surface sur une distance de 800 mètres à l’aide des palmes, masque et tuba ##### 
 Les candidats partent ensemble et effectuent un parcours déterminé de 800 m. 
 Le lestage est celui utilisé pour l'épreuve n° 3 de plongée libre à 10 mètres. 
 Une notation est effectuée suivant le barème ci-après pour un temps total : 
  
-Notation 
+** Notation **
 
-Barème Hommes 
-Temps en min.s 
+** Barème Hommes ** Temps en min.s | ** Note ** | ** Barème Femmes ** Temps en min.s 
+---|---|---
+inférieur à 10.20 | 20 | inférieur à 11.20 
+de 10.21 à 10.50 | 19 | de 11.21 à 11.50 
+de 10.51 à 11.30 | 18 | de 11.51 à 12.30 
+de 11.31 à 12.10 | 17 | de 12.31 à 13.10 
+de 12.11 à 12.50 | 16 | de 13.11 à 13.50 
+de 12.51 à 13.20 | 15 | de 13.51 à 14.20 
+de 13.21 à 13.50 | 14 | de 14.21 à 14.50 
+de 13.51 à 14.20 | 13 | de 14.51 à 15.20 
+de 14.21 à 14.40 | 12 | de 15.21 à 15.40 
+de 14.41 à 15.00 | 11 | de 15.41 à 16.00 
+de 15.01 à 15.30 | 10 | de 16.01 à 16.30 
+de 15.31 à 16.10 | 09 | de 16.31 à 17.10 
+de 16.11 à 16.50 | 08 | de 17.11 à 17.50 
+de 16.51 à 17.20 | 07 | de 17.51 à 18.20 
+de 17.21 à 17.50 | 06 | de 18.21 à 18.50 
+de 17.51 à 18.10 | 05 | de 18.51 à 19.10 
+de 18.11 à 18.30 | 04 | de 19.11 à 19.30 
+de 18.31 à 19.00 | 03 | de 19.31 à 20.00 
+de 19.01 à 19.30 | 02 | de 20.01 à 20.30 
+de 19.31 à 20.00 | 01 | de 20.31 à 21.00 
+supérieur à 20.00 | 00 | supérieur à 21.00 
  
-inférieur à 10.20 
-de 10.21 à 10.50 
-de 10.51 à 11.30 
-de 11.31 à 12.10 
-de 12.11 à 12.50 
-de 12.51 à 13.20 
-de 13.21 à 13.50 
-de 13.51 à 14.20 
-de 14.21 à 14.40 
-de 14.41 à 15.00 
-de 15.01 à 15.30 
-de 15.31 à 16.10 
-de 16.11 à 16.50 
-de 16.51 à 17.20 
-de 17.21 à 17.50 
-de 17.51 à 18.10 
-de 18.11 à 18.30 
-de 18.31 à 19.00 
-de 19.01 à 19.30 
-de 19.31 à 20.00 
-supérieur à 20.00 
-
- 
-Note 
-
-20 
-19 
-18 
-17 
-16 
-15 
-14 
-13 
-12 
-11 
-10 
-09 
-08 
-07 
-06 
-05 
-04 
-03 
-02 
-01 
-00 
-
-Barème Femmes 
-Temps en min.s 
-
-inférieur à 11.20 
-de 11.21 à 11.50 
-de 11.51 à 12.30 
-de 12.31 à 13.10 
-de 13.11 à 13.50 
-de 13.51 à 14.20 
-de 14.21 à 14.50 
-de 14.51 à 15.20 
-de 15.21 à 15.40 
-de 15.41 à 16.00 
-de 16.01 à 16.30 
-de 16.31 à 17.10 
-de 17.11 à 17.50 
-de 17.51 à 18.20 
-de 18.21 à 18.50 
-de 18.51 à 19.10 
-de 19.11 à 19.30 
-de 19.31 à 20.00 
-de 20.01 à 20.30 
-de 20.31 à 21.00 
-supérieur à 21.00 
-
- 
-
-EDITION 1 janvier 2016 
-
- 
-
-Manuel de Formation Technique 
-
-Page 5/34 
-
-GUIDE DE PALANQUEE 
-
- 
-
- 
-B - Epreuve de nage en surface sur une distance de 500 mètres, scaphandre capelé 
-Les  candidats  portent  un  scaphandre,  respirent  au  tuba,  se  déplacent  en  nage  ventrale,  partent  ensemble  et 
-effectuent un parcours déterminé de 500 m. 
-Le candidat ne doit pas se servir du scaphandre qu'il porte, ni s'aider de ses bras. L’épreuve doit être effectuée en 
-nage ventrale. Le lestage utilisé est celui qui correspond à la pesée convenable du candidat, son équipement est le 
-même que celui qu'il utilise pour les épreuves en scaphandre. 
+##### B - Epreuve de nage en surface sur une distance de 500 mètres, scaphandre capelé #####
+Les candidats portent un scaphandre, respirent au tuba, se déplacent en nage ventrale, partent ensemble et effectuent un parcours déterminé de 500 m. 
+Le candidat ne doit pas se servir du scaphandre qu'il porte, ni s'aider de ses bras. L’épreuve doit être effectuée en nage ventrale. Le lestage utilisé est celui qui correspond à la pesée convenable du candidat, son équipement est le même que celui qu'il utilise pour les épreuves en scaphandre. 
 Une notation est effectuée suivant le barème ci-après pour un temps total : 
  
-Notation 
+** Notation **
 
-Barème Hommes 
-Temps en min.s 
+** Barème Hommes ** Temps en min.s | ** Note ** | ** Barème Femmes ** Temps en min.s 
+---|---|---
+inférieur à 08.40 | 20 | nférieur à 09.40 
+de 08.41 à 09.10 | 19 | de 09.41 à 10.10 
+de 09.11 à 09.40 | 18 | de 10.11 à 10.40 
+de 09.41 à 10.00 | 17 | de 10.41 à 11.00 
+de 10.01 à 10.20 | 16 | de 11.01 à 11.20 
+de 10.21 à 10.40 | 15 | de 11.21 à 11.40 
+de 10.41 à 11.10 | 14 | de 11.41 à 12.10 
+de 11.11 à 11.40 | 13 | de 12.11 à 12.40 
+de 11.41 à 12.10 | 12 | de 12.41 à 13.10 
+de 12.11 à 12.40 | 11 | de 13.11 à 13.40 
+de 12.41 à 13.00 | 10 | de 13.41 à 14.00 
+de 13.01 à 13.20 | 09 | de 14.01 à 14.20 
+de 13.21 à 13.40 | 08 | de 14.21 à 14.40 
+de 13.41 à 14.00 | 07 | de 14.41 à 15.00 
+de 14.01 à 14.20 | 06 | de 15.01 à 15.20 
+de 14.21 à 14.30 | 05 | de 15.21 à 15.30 
+de 14.31 à 14.40 | 04 | de 15.31 à 15.40 
+de 14.41 à 14.50 | 03 | de 15.41 à 15.50 
+de 14.51 à 15.10 | 02 | de 15.51 à 16.10 
+de 15.11 à 15.30 | 01 | de 16.11 à 16.30 
+supérieur à 15.30 | 00 | supérieur à 16.30 
  
-inférieur à 08.40 
-de 08.41 à 09.10 
-de 09.11 à 09.40 
-de 09.41 à 10.00 
-de 10.01 à 10.20 
-de 10.21 à 10.40 
-de 10.41 à 11.10 
-de 11.11 à 11.40 
-de 11.41 à 12.10 
-de 12.11 à 12.40 
-de 12.41 à 13.00 
-de 13.01 à 13.20 
-de 13.21 à 13.40 
-de 13.41 à 14.00 
-de 14.01 à 14.20 
-de 14.21 à 14.30 
-de 14.31 à 14.40 
-de 14.41 à 14.50 
-de 14.51 à 15.10 
-de 15.11 à 15.30 
-supérieur à 15.30 
-
- 
-Note 
-
-20 
-19 
-18 
-17 
-16 
-15 
-14 
-13 
-12 
-11 
-10 
-09 
-08 
-07 
-06 
-05 
-04 
-03 
-02 
-01 
-00 
-
-Barème Femmes 
-Temps en min.s 
-
-inférieur à 09.40 
-de 09.41 à 10.10 
-de 10.11 à 10.40 
-de 10.41 à 11.00 
-de 11.01 à 11.20 
-de 11.21 à 11.40 
-de 11.41 à 12.10 
-de 12.11 à 12.40 
-de 12.41 à 13.10 
-de 13.11 à 13.40 
-de 13.41 à 14.00 
-de 14.01 à 14.20 
-de 14.21 à 14.40 
-de 14.41 à 15.00 
-de 15.01 à 15.20 
-de 15.21 à 15.30 
-de 15.31 à 15.40 
-de 15.41 à 15.50 
-de 15.51 à 16.10 
-de 16.11 à 16.30 
-supérieur à 16.30 
-
- 
-3 – Epreuve de plongée libre à 10 mètres de profondeur : coefficient 1 
-Au signal du jury, le candidat descend en apnée jusqu’au niveau de l’examinateur dont le masque est à 10 m, lui 
-fait face, s’identifie et remonte. 
+#### 3 – Epreuve de plongée libre à 10 mètres de profondeur : coefficient 1 ####
+Au signal du jury, le candidat descend en apnée jusqu’au niveau de l’examinateur dont le masque est à 10 m, lui fait face, s’identifie et remonte. 
 Par mesure de sécurité, à l’émersion, le candidat reste quelques instants sous contrôle du jury. 
 La notation est réalisée sur les bases suivantes : 
  
-
-(cid:1)  Descente à 10 m et retour en surface dans de bonnes conditions de sécurité : 10 points. 
-(cid:1)  Aisance à 10 m : de 1 à 6 points. 
-(cid:1)  Comportement à l’arrivée en surface : 1 à 4 points. 
-
- 
- 
-
-EDITION 1 janvier 2016 
+- Descente à 10 m et retour en surface dans de bonnes conditions de sécurité : 10 points. 
+- Aisance à 10 m : de 1 à 6 points. 
+- Comportement à l’arrivée en surface : 1 à 4 points. 
 
  
-
-Manuel de Formation Technique 
-
-Page 6/34 
-
-GUIDE DE PALANQUEE 
-
- 
-
- 
-DEUXIEME GROUPE : PLONGEE SCAPHANDRE 
+### DEUXIEME GROUPE : PLONGEE SCAPHANDRE ###
  
 Sous-groupe A (pour le maintien du sous-groupe un minimum de 80/160 points est requis) : 
  
-4 – Epreuve de Guide de Palanquée : coefficient 5 
+#### 4 – Epreuve de Guide de Palanquée : coefficient 5 ####
 (se reporter aux compétences 1 et 8) (Aptitude A1) 
 Le support est une plongée d’exploration où le jury joue le rôle des plongeurs encadrés dont le niveau s’étend du 
-plongeur débutant au plongeur confirmé. Le candidat tire un sujet indiquant les consignes du DP, les paramètres 
-de la plongée, le niveau des plongeurs (PE12, PE20 ou PE40) et éventuellement d’autres informations (topologie, 
-intérêts,  etc.).  La  liste  des  sujets  est  élaborée  par  le  jury,  elle  tient  compte  des  contraintes  environnementales 
+plongeur débutant au plongeur confirmé. Le candidat tire un sujet indiquant les consignes du DP, les paramètres de la plongée, le niveau des plongeurs (PE12, PE20 ou PE40) et éventuellement d’autres informations (topologie, intérêts, etc.). La liste des sujets est élaborée par le jury, elle tient compte des contraintes environnementales 
 (profondeur, relief, etc.). 
-Le candidat dispose de 10 min de préparation et a la possibilité de demander des informations complémentaires 
-dès lors qu’elles sont du ressort du DP. L’épreuve se décompose en deux temps :  
+Le candidat dispose de **10 min de préparation** et a la possibilité de demander des informations complémentaires dès lors qu’elles sont du ressort du DP. L’épreuve se décompose en deux temps : 
 
-a) Un briefing avant et après l’immersion coefficient 2 avec un partage de 15 points sur le briefing et 5 points 
-sur le débriefing. 
-b) La partie en immersion avec un coefficient 3, elle se déroule en temps réel (la durée de l’immersion est 
-selon  la  profondeur  et  l’appréciation  du  jury  entre  10  et  25  minutes)  et  sans  simulation.  Toute  mise  en 
-danger est éliminatoire. 
+a) Un briefing avant et après l’immersion coefficient 2 avec un partage de 15 points sur le briefing et 5 points sur le débriefing. 
+b) La partie en immersion avec un coefficient 3, elle se déroule en temps réel (la durée de l’immersion est selon la profondeur et l’appréciation du jury entre 10 et 25 minutes) et sans simulation. Toute mise en danger est éliminatoire. 
 
- 
-5 – Epreuve d’intervention sur plongeur en difficulté à 40 m : coefficient 3 
+#### 5 – Epreuve d’intervention sur plongeur en difficulté à 40 m : coefficient 3 ####
 (se reporter à la compétence 6) (Aptitude A2) 
-Le candidat doit intervenir sur un plongeur conscient, stabilisé à 40 m sur un fond plus important. Il doit le remonter 
-dans  une  zone  de  profondeur  de  5  à  3  m  par  tous  les  moyens  à  sa  disposition  et  ce  dans  le  respect  de  la 
-procédure de sécurité. La situation peut être évolutive (perte de détendeur au cours de la remontée). 
+Le candidat doit intervenir sur un plongeur conscient, stabilisé à 40 m sur un fond plus important. Il doit le remonter dans une zone de profondeur de 5 à 3 m par tous les moyens à sa disposition et ce dans le respect de la procédure de sécurité. La situation peut être évolutive (perte de détendeur au cours de la remontée). 
 Sont pris en compte pour l’évaluation : 
+- La qualité de la prise en charge. 
+- Le temps de la remontée (10 à 17 m/min). 
+- Le profil de la remontée. 
+- L’arrêt au palier (entre 5 et 3 m). 
 
-- 
-- 
-- 
-- 
-
-La qualité de la prise en charge. 
-Le temps de la remontée (10 à 17 m/min). 
-Le profil de la remontée. 
-L’arrêt au palier (entre 5 et 3 m). 
-
-Tout  comportement  impactant  la  sécurité  est  éliminatoire  (manque  de  réactivité  au  fond,  descendre  au-delà  de 
-42 m, redescendre au cours de la remontée, percer la surface sans arrêt au palier, etc.). 
+Tout comportement impactant la sécurité est éliminatoire (manque de réactivité au fond, descendre au-delà de 42 m, redescendre au cours de la remontée, percer la surface sans arrêt au palier, etc.). 
  
 Sous-groupe B (pour le maintien du sous-groupe un minimum de 40 /80 points est requis) : 
  
-6 – Epreuve de démonstration technique d’une remontée sans embout (RSE) de 20 m : coefficient 2 
-(Aptitude A3) 
-La notation est faite sur les bases suivantes : 
- 
+#### 6 – Epreuve de démonstration technique d’une remontée sans embout (RSE) de 20 m : coefficient 2 #### 
+(Aptitude A3) La notation est faite sur les bases suivantes : 
+- Retrait sans délai du détendeur au signal du jury (qui correspond au top départ du chronomètre) et le garder en main tout le long de la remontée. 
+- Remontée à une vitesse compatible avec de bonnes conditions de sécurité comprise entre 10 et 17 m/min. 
+- Arrêt franc à -3 mètres (l’arrivée à -3 mètres correspondant au top fin du chronomètre). 
+- Tour d’horizon en maintenant ce niveau d’immersion. 
+- Reprise d’embout sur signe du jury avant de regagner la surface. 
 
-(cid:1)  Retrait sans délai du détendeur au signal du jury (qui correspond au top départ du chronomètre) et le 
+** Sont déclarées éliminatoires : **
+- La reprise du détendeur en cours de remontée. 
+- Une durée totale de remontée de 20 à 3 m inférieure à 45 secondes (un temps supérieur à 1 min 45 s n’apporte pas de points supplémentaires). 
 
-garder en main tout le long de la remontée. 
-
-(cid:1)  Remontée à une vitesse compatible avec de bonnes conditions de sécurité comprise entre 10 et 17 
-
-m/min. 
-
-(cid:1)  Arrêt franc à -3 mètres (l’arrivée à -3 mètres correspondant au top fin du chronomètre). 
-(cid:1)  Tour d’horizon en maintenant ce niveau d’immersion. 
-(cid:1)  Reprise d’embout sur signe du jury avant de regagner la surface. 
-
-Sont déclarées éliminatoires : 
-
-(cid:1)  La reprise du détendeur en cours de remontée. 
-(cid:1)  Une durée totale de remontée de 20 à 3 m inférieure à 45 secondes 
-
-(un temps supérieur à 1 min 45 s n’apporte pas de points supplémentaires). 
-
-Nota 
-
-Tout  instructeur  membre  du  jury  et  participant  à  l’évaluation  de  cette  épreuve  se  réserve  le  droit 
+** Nota ** 
+Tout instructeur membre du jury et participant à l’évaluation de cette épreuve se réserve le droit 
 d'interrompre toute remontée pouvant mettre en cause la sécurité. 
 Avant le début de l'épreuve, au fond, vérifier que le SGS est vide. 
 Pas d'hyperventilation préalable. 
-
  
- 
-7 – Epreuve de matelotage : coefficient 2 
+#### 7 – Epreuve de matelotage : coefficient 2 ####
 (se reporter à la compétence 5) 
-Démonstration de l’exécution des nœuds marins usuels. Connaissance des règles élémentaires de sécurité et de 
-navigation  en  mer,  des  manœuvres  d’appareillage,  de  mouillage,  et  d’accostage  d’un  bateau.  Si  cette  épreuve 
-n’est  pas  comparable  à  celles  du  « permis  bateau »,  elle  doit  permettre  d’évaluer  les  qualités  d’un  équipier  du 
-Directeur de Plongée embarqué attentif à l’environnement marin. 
+Démonstration de l’exécution des nœuds marins usuels. Connaissance des règles élémentaires de sécurité et de navigation en mer, des manœuvres d’appareillage, de mouillage, et d’accostage d’un bateau. Si cette épreuve n’est pas comparable à celles du « permis bateau », elle doit permettre d’évaluer les qualités d’un équipier du Directeur de Plongée embarqué attentif à l’environnement marin. 
 
-EDITION 1 janvier 2016 
-
+### TROISIEME GROUPE : THEORIE ET CONNAISSANCES GENERALES ###
  
+#### 8 – Décompression : résolution d'au moins un problème de tables de plongée fédérales MN90 (coefficient 3). ####
+#### 9 – Anatomie, physiologie et physiopathologie du plongeur (coefficient 4). ####
+#### 10 – Aspects théoriques de l’activité (coefficient 2). ####
+#### 11 – Matériel de plongée (coefficient 2). ####
+#### 12 – Cadre réglementaire de l’activité (coefficient 2). ####
 
-Manuel de Formation Technique 
-
-Page 7/34 
-
-GUIDE DE PALANQUEE 
-
+**NOTATION - OBTENTION DE L’EXAMEN**
  
+Les épreuves sont notées sur 20 et affectées de coefficients. Pour chaque groupe et sous groupe le total de points minimum à obtenir est le suivant : 
 
- 
-TROISIEME GROUPE : THEORIE ET CONNAISSANCES GENERALES 
- 
-8 – Décompression : résolution d'au moins un problème de tables de plongée fédérales MN90 (coefficient 3). 
-9 – Anatomie, physiologie et physiopathologie du plongeur (coefficient 4). 
-10 – Aspects théoriques de l’activité (coefficient 2). 
-11 – Matériel de plongée (coefficient 2). 
-12 – Cadre réglementaire de l’activité (coefficient 2). 
- 
- 
-NOTATION - OBTENTION DE L’EXAMEN 
- 
-Les épreuves sont notées sur 20 et affectées de coefficients. Pour chaque groupe et sous groupe le total de points 
-minimum à obtenir est le suivant : 
+Groupe 1, épreuves de condition physique : minimum 50 points / 100.
+Groupe 2, épreuves en plongée scaphandre : minimum 120 points / 240 dont :
+- Sous-groupe A du groupe 2 : minimum 80 points / 160. 
+- Sous-groupe B du groupe 2 : minimum 40 points / 80. 
 
-Groupe 1, épreuves de condition physique : 
-Groupe 2, épreuves en plongée scaphandre : 
+Groupe 3, épreuves de théorie et connaissances générale : minimum 130 points / 260. 
 
-minimum 50 points / 100. 
-minimum 120 points / 240 dont : 
-
-o  Sous-groupe A du groupe 2 : minimum 80 points / 160. 
-o  Sous-groupe B du groupe 2 : minimum 40 points / 80. 
-
-Groupe 3, épreuves de théorie et connaissances générale :  minimum 130 points / 260. 
-
- 
 Pour être reçu à l’examen le candidat doit : 
-
--  Obtenir  un  total  général  pour  l’ensemble  de  toutes  les  épreuves  d’au  moins  300  points  correspondant  à 
-
-une moyenne générale de 10/20. 
-
--  Ne pas avoir de note inférieure à 5/20. 
--  Obtenir la moyenne de 10/20 dans chacun des trois groupes d’épreuves 1, 2 et 3 
--  Avoir réalisé toutes les épreuves. Toute épreuve non faite, est éliminatoire. 
+- Obtenir un total général pour l’ensemble de toutes les épreuves d’au moins 300 points correspondant à une moyenne générale de 10/20. 
+- Ne pas avoir de note inférieure à 5/20. 
+- Obtenir la moyenne de 10/20 dans chacun des trois groupes d’épreuves 1, 2 et 3 
+- Avoir réalisé toutes les épreuves. Toute épreuve non faite, est éliminatoire. 
 
  
-À  condition  que  le  candidat  ait  participé  sans  abandon  à  l’ensemble  de  l’examen,  et  quelle  que  soit  la  structure 
-organisatrice est considéré acquise et donne lieu à l’établissement d’une attestation de réussite par le président de 
-la CTR responsable : 
+À condition que le candidat ait participé sans abandon à l’ensemble de l’examen, et quelle que soit la structure organisatrice est considéré acquise et donne lieu à l’établissement d’une attestation de réussite par le président de la CTR responsable : 
 
-La partie pratique : 
--  Si  le  candidat  a  obtenu  la  moyenne  dans  le  groupe  1  (condition  physique),  sans  note  éliminatoire, 
+**La partie pratique :**
+- Si le candidat a obtenu la moyenne dans le groupe 1 (condition physique), sans note éliminatoire, épreuves toutes faites. 
+- Si le candidat a obtenu la moyenne dans : 
+	- le groupe 2, sous groupe A (plongée scaphandre), sans note éliminatoire, épreuves toutes faites. 
+	- le groupe 2, sous groupe B (plongée scaphandre), sans note éliminatoire, épreuves toutes faites. 
+- Si le candidat a obtenu un minimum de 90 points en théorie, avec ou sans note éliminatoire dans le groupe 3 théorie et connaissances générale. 
 
-épreuves toutes faites. 
+**La partie théorique :**
+si le candidat a obtenu la moyenne dans ce groupe 3 (théorie et connaissances générale) sans note éliminatoire, épreuves toutes faites. 
+- Si le candidat a obtenu un minimum de 120 points sur la totalité des groupes 1 (condition physique) et 2 (plongée scaphandre) avec ou sans note éliminatoire dans ces groupes. 
+La validité d’un groupe acquis est de 9 mois maximum à compter de la date à laquelle le candidat a présenté la première épreuve et pour un maximum de deux sessions de rattrapage. 
+Pour repasser la partie non acquise, le candidat peut se présenter dans n’importe quelle session organisée par un club, un Comité Départemental, sa CTR ou n’importe qu’elle autre CTR. Il doit repasser la partie complète (pratique ou théorique) à laquelle il a échoué et non uniquement le groupe d’épreuves. 
 
--  Si le candidat a obtenu la moyenne dans : 
-
-o 
-o 
-
-le groupe 2, sous groupe A (plongée scaphandre), sans note éliminatoire, épreuves toutes faites. 
-le groupe 2, sous groupe B (plongée scaphandre), sans note éliminatoire, épreuves toutes faites. 
-
--  Si le candidat a obtenu un minimum de 90 points en théorie, avec ou sans note éliminatoire dans le groupe 
-
-3 théorie et connaissances générale. 
-
- si  le  candidat  a  obtenu  la  moyenne  dans  ce  groupe  3  (théorie  et  connaissances  générale)  sans  note 
-
-La partie théorique : 
-- 
-éliminatoire, épreuves toutes faites. 
--  Si le candidat a obtenu un minimum de 120 points sur la totalité des groupes 1 (condition physique) et 2 
-(plongée scaphandre) avec ou sans note éliminatoire dans ces groupes. 
-
+## DELIVRANCE DU BREVET – FORMALITES ##
  
-La validité d’un groupe acquis est de 9 mois maximum à compter de la date à laquelle le candidat a présenté la 
-première épreuve et pour un maximum de deux sessions de rattrapage. 
- 
-Pour repasser la partie non acquise, le candidat peut se présenter dans n’importe quelle session organisée par un 
-club,  un  Comité  Départemental,  sa  CTR  ou  n’importe  qu’elle  autre  CTR.  Il  doit  repasser  la  partie  complète 
-(pratique ou théorique) à laquelle il a échoué et non uniquement le groupe d’épreuves. 
- 
- 
-
-EDITION 1 janvier 2016 
-
- 
-
-Manuel de Formation Technique 
-
-Page 8/34 
-
-GUIDE DE PALANQUEE 
-
- 
-
- 
-DELIVRANCE DU BREVET – FORMALITES 
- 
-Le  brevet  de  Guide  de  Palanquée  –  Niveau  4  est  délivré  sous  la  signature  du  président  de  la  CTR  et  des 
+Le brevet de Guide de Palanquée – Niveau 4 est délivré sous la signature du président de la CTR et des 
 examinateurs, ou du président de la CTR et du président du jury. 
  
 Les Commissions Techniques Régionales sont dépositaires des documents suivants : 
+- Fichier Excel vierge tenant lieu de bordereau d'examen (en provenance du siège de la FFESSM). 
+- Brevets. 
 
--  Fichier Excel vierge tenant lieu de bordereau d'examen (en provenance du siège de la FFESSM). 
--  Brevets. 
-
- 
 Avant l’examen, les organisateurs doivent disposer du fichier Excel « Initiateur » vierge valant bordereau de notes. 
  
-A charge de l’organisateur 
+A charge de l’organisateur:
+- De saisir complètement le bordereau en utilisant le fichier Excel disponible sur le site internet (accès CTR) en apposant les numéros des brevets. 
+- De remplir les brevets en respectant les numéros portés sur le bordereau. 
+- De remettre les brevets aux lauréats. 
+- D'envoyer à la CTR dans les meilleurs délais (30 jours maximum) le fichier Excel renseigné. 
+- De conserver un exemplaire du fichier Excel. 
 
+A charge de la CTR:
+- De mettre à la disposition du délégué de la CTR le nombre de brevets numérotés et signés par le président de la CTR nécessaires. 
+- De mettre à la disposition du délégué de la CTR le fichier Excel permettant de saisir le bordereau de la session. 
+- De conserver un exemplaire du fichier Excel. 
+- D’importer le fichier Excel et de clôturer la session sur le site de la FFESSM (accès CTR). 
+
+A charge de l'administration fédérale:
+- D'établir, après clôture de l’examen GP par la CTR, les cartes doubles face FFESSM/CMAS et de les adresser directement aux lauréats. 
  
-
--  De saisir complètement le bordereau en utilisant le fichier Excel disponible sur le site internet (accès CTR) 
-
-en apposant les numéros des brevets. 
-
--  De remplir les brevets en respectant les numéros portés sur le bordereau. 
--  De remettre les brevets aux lauréats. 
--  D'envoyer à la CTR dans les meilleurs délais (30 jours maximum) le fichier Excel renseigné. 
--  De conserver un exemplaire du fichier Excel. 
-
+**DUPLICATA :** sur demande ils peuvent être délivrés par le siège national de la FFESSM (carte double face), en précisant la date et le nom du Comité Régional organisateur de l'examen. 
  
-A charge de la CTR 
+## REFERENTIEL DE COMPETENCES ##
 
--  De mettre à la disposition du délégué de la CTR le nombre de brevets numérotés et signés par le président 
+### Compétence 1 : ACCUEIL DES PLONGEURS « Accueillir, conseiller et répondre aux demandes des plongeurs et du public »  ###
 
-de la CTR nécessaires. 
+**Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Commentaires**
+---|---|---
+Adopter en toutes circonstances un comportement compatible avec les valeurs du sport et l’esprit fédéral sur les plans éthique, déontologique et d’hygiène de vie. | A un comportement respectueux des principes enseignés. Respecte la déontologie sportive et les règlements fédéraux. A un comportement en toute situation en cohérence avec les principes enseignés. Préserve l’intégrité physique des plongeurs. |
+Accueillir et prendre en charge les plongeurs et le public potentiel. | Se présente de façon avenante, est à l’écoute et disponible en permanence. | L’étude des documents de plongée (carnet, passeport, certificat,…) reste de la responsabilité du DP.
+Promouvoir la structure, la fédération et ses différentes activités. | Présente les atouts de la structure, de la fédération, incite à la pratique, cherche à intéresser et fidéliser les plongeurs. |
+Informer sur les cursus de formation, sur les qualifications et sur les assurances. | Donne des informations utiles, complètes, adaptées, accessibles à la compréhension des plongeurs et adaptées à leur niveau de pratique. |
+Questionner les plongeurs accueillis sur leur expérience, leurs attentes, leurs certifications, leurs équipements. | Pose des questions de manière à favoriser le dialogue. Connaît les documents et les renseignements nécessaires. S’assure de l’utilisation d’un matériel adapté. S’intéresse aux plongeurs, évalue leur profil, leur technicité, cerne leurs attentes. | Ceci doit permettre au GP de valoriser au mieux l’expérience des membres de sa palanquée.
+Répondre aux questions, conseiller et renseigner les plongeurs et le public potentiel sur tous les aujets relatifs à l’activité. | Donne des informations pertinentes, complètes, adaptées et accessibles à la compréhension. Oriente les plongeurs conformément à leurs attentes et/ou leurs besoins. 
 
--  De mettre à la disposition  du délégué  de la CTR le fichier Excel  permettant de  saisir le  bordereau  de la 
 
-session. 
+### Compétence 5 : ORGANISATION « Participer à l’organisation de l’activité » ###
 
--  De conserver un exemplaire du fichier Excel. 
--  D’importer le fichier Excel et de clôturer la session sur le site de la FFESSM (accès CTR). 
+**Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Commentaires**
+---|---|---
 
- 
-A charge de l'administration fédérale 
-
--  D'établir,  après  clôture  de  l’examen  GP  par  la  CTR,  les  cartes  doubles  face  FFESSM/CMAS  et  de  les 
-
-adresser directement aux lauréats. 
-
- 
- 
-DUPLICATA  : sur demande ils peuvent être délivrés par le siège national de la FFESSM (carte double face), en 
-précisant la date et le nom du Comité Régional organisateur de l'examen. 
- 
- 
-
-EDITION 1 janvier 2016 
-
- 
-
-Manuel de Formation Technique 
-
-Page 9/34 
-
-GUIDE DE PALANQUEE 
-
- 
-
- 
-REFERENTIEL DE COMPETENCES 
- 
-
-« Accueillir, conseiller et répondre aux demandes des plongeurs et du public » 
-
-Compétence 1 : ACCUEIL DES PLONGEURS 
-
-Savoirs/Savoir-faire/Savoir être 
-
-Critères de réalisation 
-
-Commentaires 
-
- 
-
-Adopter en toutes circonstances un 
-comportement compatible avec les 
-valeurs du sport et l’esprit fédéral sur 
-les plans éthique, déontologique et 
-d’hygiène de vie. 
-
-Accueillir et prendre en charge les 
-plongeurs et le public potentiel. 
-
-Promouvoir la structure, la fédération 
-et ses différentes activités. 
-
-Informer sur les cursus de formation, 
-sur les qualifications et sur les 
-assurances. 
-
-Questionner les plongeurs accueillis 
-sur leur expérience, leurs attentes, 
-leurs certifications, leurs 
-équipements. 
-
-Répondre aux questions, conseiller 
-et renseigner les plongeurs et le 
-public potentiel sur tous les sujets 
-relatifs à l’activité. 
-
- 
- 
-
-A un comportement respectueux des 
-principes enseignés. 
-Respecte la déontologie sportive et 
-les règlements fédéraux. 
-A un comportement en toute situation 
-en cohérence avec les principes 
-enseignés. 
-Préserve l’intégrité physique des 
-plongeurs. 
-Se présente de façon avenante, est à 
-l’écoute et disponible en 
-permanence. 
-Présente les atouts de la structure, 
-de la fédération, incite à la pratique, 
-cherche à intéresser et fidéliser les 
-plongeurs. 
-Donne des informations utiles, 
-complètes, adaptées, accessibles à 
-la compréhension des plongeurs et 
-adaptées à leur niveau de pratique. 
-Pose des questions de manière à 
-favoriser le dialogue. 
-Connaît les documents et les 
-renseignements nécessaires. 
-S’assure de l’utilisation d’un matériel 
-adapté. 
-S’intéresse aux plongeurs, évalue 
-leur profil, leur technicité, cerne leurs 
-attentes. 
-Donne des informations pertinentes, 
-complètes, adaptées et accessibles à 
-la compréhension. 
-Oriente les plongeurs conformément 
-à leurs attentes et/ou leurs besoins. 
-
- 
-
-L’étude des documents de plongée 
-(carnet, passeport, certificat,…) reste 
-de la responsabilité du DP. 
- 
-
- 
-
-Ceci doit permettre au GP de 
-valoriser au mieux l’expérience des 
-membres de sa palanquée. 
-
- 
-
-EDITION 1 janvier 2016 
-
- 
-
-Manuel de Formation Technique 
-
-Page 10/34 
-
- 
-
-GUIDE DE PALANQUEE 
-
- 
-
-Compétence 5 : ORGANISATION 
-
-« Participer à l’organisation de l’activité » 
-
- 
-
-Savoirs/Savoir-faire/Savoir être 
-
-Critères de réalisation 
-
-Commentaires 
-
-Participer  au  choix  d’un  site  et  à 
-l’organisation de la plongée. 
-
-Participer  aux  manœuvres  et  à  la 
-mise en place des outils nécessaires 
-à l’activité sur site. 
-
-Assister ou suppléer si nécessaire le 
-Directeur  de  Plongée  dans 
-la 
-préparation et la mise en  œuvre  des 
-premiers secours. 
-
-Suppléer  le  Directeur  de  Plongée 
-pour  la  surveillance  de  l’activité  et  la 
-réalisation des actions de prévention. 
+Participer au choix d’un site et à l’organisation de la plongée. 
+Participer aux manœuvres et à la mise en place des outils nécessaires à l’activité sur site. 
+Assister ou suppléer si nécessaire le Directeur de Plongée dans la préparation et la mise en œuvre des premiers secours. 
+Suppléer le Directeur de Plongée pour la surveillance de l’activité et la réalisation des actions de prévention. 
 
 limiter 
 
 Se 
-pragmatique  qui  s’appuie  sur 
+pragmatique qui s’appuie sur 
 connaissances en matelotage. 
 
 approche 
@@ -948,56 +399,56 @@ une
 
 à 
 
-Ne  pas  enseigner  de  matelotage 
-« théorique »  mais  appliqué  et  en 
+Ne pas enseigner de matelotage 
+« théorique » mais appliqué et en 
 situation. 
 
 Cette compétence est acquise par la 
 qualification RIFAP. 
 
-Il  est  rappelé  que  même  lorsqu’il  est 
-suppléé,  le  DP  en  titre  conserve  sa 
+Il est rappelé que même lorsqu’il est 
+suppléé, le DP en titre conserve sa 
 responsabilité. 
 
 réalise 
 
-Lit  une  carte  marine : 
+Lit une carte marine : 
 latitude, 
-longitude,  profondeurs,  topographie, 
+longitude, profondeurs, topographie, 
 courants, marée,... 
-Utilise  un  sondeur,  un  GPS,  des 
+Utilise un sondeur, un GPS, des 
 amers, …. 
-Aide  aux  manœuvres  d’amarrage, 
+Aide aux manœuvres d’amarrage, 
 d’appareillage, de mouillage. 
-Aide  ou 
-l’installation  des 
-supports  tels  qu’un  pendeur,  un  bloc 
+Aide ou 
+l’installation des 
+supports tels qu’un pendeur, un bloc 
 de secours, un narguilé, ligne de vie, 
 etc. 
 Connaît la conduite à tenir pour tous 
-les  accidents  de  plongée  en 
+les accidents de plongée en 
 scaphandre et de plongée libre. 
 Connaît les procédures d’évacuation. 
-Relaie  les  directives  du  DP,  prépare 
-la  zone  d’accueil  d’un  accidenté, 
-rappelle  les  plongeurs,  aide  ou  met 
+Relaie les directives du DP, prépare 
+la zone d’accueil d’un accidenté, 
+rappelle les plongeurs, aide ou met 
 en 
 matériel 
 d’oxygénothérapie. 
 Protège, isole un plongeur accidenté. 
-Regroupe  les  autres  membres  de  la 
+Regroupe les autres membres de la 
 palanquée 
 et 
 surveillance. 
-Utilise  un  moyen  de  communication 
+Utilise un moyen de communication 
 approprié (VHF, téléphone,...). 
 Renseigne une fiche d’évacuation. 
-Observe  l’activité  et  les  plongeurs, 
-réagit  aux  situations  non  conformes 
+Observe l’activité et les plongeurs, 
+réagit aux situations non conformes 
 ou à risques. 
 Vérifie l’application des consignes du 
 DP. 
-Donne  des  conseils,  met  en  place 
+Donne des conseils, met en place 
 des moyens améliorant la sécurité ou 
 le confort. 
 Informe 
@@ -1266,7 +717,7 @@ Critères de réalisation
 
 Commentaires 
 
-Réglementation relative à l’activité.  Cite les principales exigences 
+Réglementation relative à l’activité. Cite les principales exigences 
 
 Entretien courant du matériel, règles 
 d’hygiène, qualités et performances 
@@ -1299,7 +750,7 @@ courants de plongée.
 Explique les principes de différents 
 outils de décompression, leurs 
 conditions d’utilisation et leurs limites, 
-leurs avantages et inconvénients.  
+leurs avantages et inconvénients. 
 Mobilise ces connaissances avant et 
 après l'immersion de s palanquées. 
 Décrit et commente les éléments 
@@ -1503,7 +954,7 @@ rendent nécessaire.
 Modifie le déroulement prévu de la 
 plongée ou les paramètres fixés par 
 le DP dans le sens de la sécurité, du 
-confort ou du niveau d’intérêt si une  
+confort ou du niveau d’intérêt si une 
 raison quelconque nécessite une 
 telle adaptation. 
 Module les efforts en fonction des 
@@ -1519,7 +970,7 @@ Donne des conseils utiles pour la
 pratique et l’amélioration technique 
 de chaque plongeur. 
 
-Commenter l’environnement marin.  Décrit l’environnement maritime du 
+Commenter l’environnement marin. Décrit l’environnement maritime du 
 
 site, ainsi que la faune et la flore. 
 Cite les noms communs d’espèces 
@@ -1849,7 +1300,7 @@ l’épreuve définie
 avec précipitation: 
 ± 8/20. 
  
-●Le plongeur  
+●Le plongeur 
 manifeste de 
 l’aisance : 
 ± 12/20. 
@@ -1907,7 +1358,7 @@ apnée à 5 m en déplacement pendant 20 s
 minimum puis récupération en surface de 
 10 s maximum. ensuite remonter le 
 mannequin de 1,5 Kg de poids apparent, faire 
-un signal de détresse en direction du bateau  
+un signal de détresse en direction du bateau 
 puis le tracter sur 100 m, voies respiratoires 
 hors de l’eau. 
  
@@ -2702,8 +2153,8 @@ Commentaires et
 
 limites 
 
-Remontée Sans  
-Embout d’une  
+Remontée Sans 
+Embout d’une 
 profondeur de 20 m. 
  
 Démontrer la 
@@ -3374,7 +2825,7 @@ et des (%) des mélanges.
  
  
  
-Savoir déterminer  une tension de N2 
+Savoir déterminer une tension de N2 
 dans un compartiment (limité à des 
 périodes entières). 
 Savoir déterminer la sursaturation 
@@ -3449,7 +2900,7 @@ entretien courant.
  
 Le bloc : 
 Inscriptions et matériau. 
-Robinetterie : conservation  
+Robinetterie : conservation 
 Cas particulier : le bi-bouteille. 
  
  
@@ -3518,7 +2969,7 @@ de l’étude du bilan des forces.
  
 On se limitera à l’étude des cas les 
 plus fréquents et aux différentes 
-améliorations :  
+améliorations : 
 réglages, compensation, effet de 
 trompe... 
 L’étude d’autres types à partir de 
@@ -3762,7 +3213,7 @@ MODIFICATIONS DEPUIS LE 15/02/2015
  
 Ensemble du document 
 Le 30 octobre 2015 
-Nouvelle  présentation  du  document  avec  des  modifications  de  fond  et  notamment  renumérotation  des 
+Nouvelle présentation du document avec des modifications de fond et notamment renumérotation des 
 compétences pour harmonisation entre les différentes qualifications. 
 
 EDITION 1 janvier 2016 
