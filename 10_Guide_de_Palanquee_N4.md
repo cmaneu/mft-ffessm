@@ -104,10 +104,11 @@ Total des points attribués pour ce groupe : 100 points
 
 moyenne du groupe : 50 points 
 
-4 - Guide de Palanquée 			
-	a) Briefing/Débriefing 			Coefficient 2 
-	b) Conduite de palanquée 			Coefficient 3 
-5 - Intervention sur un plongeur en difficulté à 40 m 			Coefficient 3
+4 - Guide de Palanquée 
+--|--	
+Briefing/Débriefing|Coefficient 2 
+Conduite de palanquée|Coefficient 3 
+Intervention sur un plongeur en difficulté à 40 m|Coefficient 3
  
 **Sous-groupe B**
 
