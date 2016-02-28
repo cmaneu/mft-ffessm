@@ -1,5 +1,5 @@
 ---
-nom: Qualification PA20m
+nom: Qualification PA20m de plongeur autonome à 20 m
 revision: 01/2016
 mise_en_ligne: 01/01/2016
 lien_original: http://www.ffessm.fr/gestionenligne/manuel/05_Qualification_PA20m.pdf
