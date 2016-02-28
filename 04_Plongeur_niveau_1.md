@@ -1,11 +1,11 @@
-# PLONGEUR NIVEAU 1 (N1)
-
 ---
 nom: Niveau 1
 revision: 08/2015
 mise_en_ligne: 26/08/2015
 lien_original: http://www.ffessm.fr/gestionenligne/manuel/04_Plongeur_niveau_1.pdf
 ---
+
+# PLONGEUR NIVEAU 1 (N1)
 
 ## PROFIL GENERAL
 
@@ -48,7 +48,7 @@ A l’issue d’une formation progressive et adaptée, le plongeur Niveau 1 (N1)
 - C4 : PARTICIPER A LA SECURITE EN PLONGEE
 - C5 : CONNAITRE ET RESPECTER L’ENVIRONNEMENT MARIN
 - C6 : CONNAISSANCES EN APPUI DES COMPETENCES
-	
+
 ### Compétence 1 : UTILISER L’EQUIPEMENT DE PLONGEE
 
 **Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
