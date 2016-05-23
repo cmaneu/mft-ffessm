@@ -1,7 +1,7 @@
 ---
 nom: Plongeur Nitrox
-revision: 07/2014
-mise_en_ligne: 08/07/2014
+revision: 03/2016
+mise_en_ligne: 27/03/2016 
 lien_original: http://www.ffessm.fr/gestionenligne/manuel/20_Nitrox.pdf
 ---
 
@@ -25,7 +25,7 @@ Elle est validée par un moniteur Nitrox confirmé FFESSM ayant assuré la forma
 Etre titulaire de la licence FFESSM. en cours de validité.
 
 - Etre âgé d’au moins 14 ans à la date de délivrance.
-- Etre titulaire du niveau 1 de la FFESSM ou d’un brevet admis en équivalence.
+- Etre titulaire du niveau 1 de la FFESSM ou d’un brevet admis en équivalence ou du PESH12.
 - Présenter le carnet de plongée.
 - Avoir effectué un minimum de 10 plongées dans la zone des 20 mètres attestées sur le carnet de plongée ou par mention sur le passeport ou par fiche justificative dûment remplie.
 - Présenter un certificat médical de non-contre indication à la plongée subaquatique de moins d’un an délivré par un médecin généraliste tel que défini dans l’annexe 1 du Règlement Médical. 
@@ -195,3 +195,10 @@ Les duplicata des cartes double face FFESSM/CMAS sont délivrés par le siège n
 ## EQUIVALENCE
 
 Les scaphandriers professionnels classe 2 ou 3, Mention A, titulaires du brevet de MF1 de la FFESSM ou d’un BEES1 et d’une licence fédérale en cours de validité peuvent demander l’équivalence “Moniteur Nitrox Confirmé”. (Demande à envoyer directement au siège national accompagnée d’un chèque à l’ordre de la FFESSM correspondant au montant de la carte).
+
+## MODIFICATIONS DEPUIS LE 03/07/2014
+**Page 1**
+Rajout du PESH12 dans les conditions de candidature. 
+─ Etre titulaire du niveau 1 de la FFESSM ou d’un brevet admis en équivalence ou du PESH12. 
+
+
