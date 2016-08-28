@@ -5,4 +5,7 @@ pages:
 - 'Plongeur Niveau 1': 04_Plongeur_niveau_1.md
 - 'Plongeur Niveau 2': 06_Plongeur_Niveau_2.md
 - 'Plongeur Niveau 3': 09_Plongeur_niveau_3.md
+- 'Plongeur en autonomie à 40m': 08_Qualification_PA40m.md
+- 'Plongeur Nitrox': 20_Nitrox.md
+- 'RIFA Plongée': 24_RIFA_Plongee.md 
 theme: readthedocs
