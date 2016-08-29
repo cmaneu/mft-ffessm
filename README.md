@@ -25,9 +25,9 @@ Pour deux raisons:
 - [ ] Convertir "Moniteur Fédéral 1er degré"
 - [ ] Convertir "Qualification PA12"
 - [ ] Convertir "Qualification PE40m de plongeur encadré à 40 m"
-- [ ] Convertir "Qualification PA40m de plongeur autonome à 40 m"
+- [x] Convertir "Qualification PA40m de plongeur autonome à 40 m"
 - [ ] Convertir "RIFAP Réactions et Intervention face à un Accident de Plongée"
-- [ ] Convertir "Plongeurs en situation de handicap Conditions de pratiques - Brevets et qualifications des plongeurs et des moniteurs"
+- [x] Convertir "Plongeurs en situation de handicap Conditions de pratiques - Brevets et qualifications des plongeurs et des moniteurs"
 - [ ] Convertir "Qualification PE60m "plongeur encadré 60 mètres""
 - [ ] Convertir Le reste des documents
 
