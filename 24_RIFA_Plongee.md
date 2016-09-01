@@ -63,7 +63,7 @@ différents brevets fédéraux de plongée.
 Les conditions spécifiques sont fixées et précisées dans les conditions d'inscription, dûment décrites dans le
 Manuel de Formation Technique. 
 
-                **NIVEAU DE PLONGEE** | **EXIGIBILITE**
+**NIVEAU DE PLONGEE** | **EXIGIBILITE**
 --------------------------------------|----------------
 PLONGEUR NIVEAU 1                     | FACULTATIF
 PLONGEUR NIVEAU 2                     | FACULTATIF
