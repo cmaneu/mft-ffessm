@@ -1,6 +1,6 @@
 site_name: Manuel de formation technique - FFESSM
-pages: 
-- 'Introduction': README.md
+pages:
+- Home: README.md
 - 'Plongeur Niveau 1': 04_Plongeur_niveau_1.md
 - 'Plongeur Niveau 2': 06_Plongeur_Niveau_2.md
 - 'Plongeur Niveau 3': 09_Plongeur_niveau_3.md
