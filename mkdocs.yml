@@ -1,12 +1,16 @@
-site_name: Manuel de formation technique - FFESSM
+site_name: Manuel de Formation Technique - FFESSM
 pages:
 - Home: index.md
 - 'Plongeur Niveau 1': 04_Plongeur_niveau_1.md
+- 'Plongeur en autonomie à 20m': 05_Qualification_PA20m.md
 - 'Plongeur Niveau 2': 06_Plongeur_Niveau_2.md
-- 'Plongeur Niveau 3': 09_Plongeur_niveau_3.md
+- 'Plongeur encadré à 40m': 07_Qualification_PE40m.md
 - 'Plongeur en autonomie à 40m': 08_Qualification_PA40m.md
-- 'Plongeur Nitrox': 20_Nitrox.md
-- 'RIFA Plongée': 24_RIFA_Plongee.md 
-- 'Qualification vêtement étanche': 33_Vetement_etanche.md
+- 'Plongeur Niveau 3': 09_Plongeur_niveau_3.md
 - 'Directeur de plongée - P5': 12_Directeur_de_Plongee_N5.md
+- 'Plongeur Nitrox': 20_Nitrox.md
+- 'RIFA Plongée': 24_RIFA_Plongee.md
+- 'Qualification vêtement étanche': 33_Vetement_etanche.md
+- 'Qualifications plongée au recycleurs à circuit fermé Submatix Quantum': 48_Recycleur_ferme_submatix.md
+
 theme: readthedocs
