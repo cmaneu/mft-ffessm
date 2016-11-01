@@ -10,7 +10,7 @@ Et pourquoi pas :)
 
 Pour deux raisons:
 - Le format PDF actuel ne permet pas une lecture et une recherche facile sur tablettes et téléphones,
-- L'utilisation du Comic Sans MS ne devrait plus être autorisée en 2015.
+- L'utilisation du Comic Sans MS ne devrait plus être autorisée en 2016.
 
 ## Roadmap
 
