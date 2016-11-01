@@ -1,4 +1,4 @@
-site_name: Manuel de Formation Technique - FFESSM
+site_name: Manuel de Formation Technique de la FFESSM
 pages:
 - Home: index.md
 - 'Plongeur Niveau 1': 04_Plongeur_niveau_1.md
@@ -12,5 +12,4 @@ pages:
 - 'RIFA Plongée': 24_RIFA_Plongee.md
 - 'Qualification vêtement étanche': 33_Vetement_etanche.md
 - 'Qualifications plongée au recycleurs à circuit fermé Submatix Quantum': 48_Recycleur_ferme_submatix.md
-
 theme: readthedocs
