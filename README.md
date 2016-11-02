@@ -25,7 +25,6 @@ Pour deux raisons:
 - [x] Convertir "Vêtement étanche"
 - [-] Convertir "RIFAP Réactions et Intervention face à un Accident de Plongée"
 - [-] Convertir "Plongeur Niveau 4 - Guide de palanquée"
-- [-] Convertir "Qualifications plongée au recycleurs à circuit fermé Submatix Quantum"
 - [ ] Convertir "Jeunes plongeurs"
 - [ ] Convertir "Initiateur"
 - [ ] Convertir "Moniteur Fédéral 1er degré"
