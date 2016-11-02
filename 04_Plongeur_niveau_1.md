@@ -112,6 +112,8 @@ Réglementation relative à l’activité. | Cite les différents éléments men
 
 Nota : les critères de réalisation de la compétence 6 sont rappelés pour mémoire. Ils sont à vérifier lors de la mise en œuvre des compétences pour lesquelles ces connaissances sont mobilisées.
 
+## MODIFICATIONS
+
 ### MODIFICATIONS MFT - PLONGEUR NIVEAU 1 (N1)
 
 **Ensemble du document**

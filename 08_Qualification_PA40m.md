@@ -108,8 +108,6 @@ Outils et procédures de décompression, autonomie et planification d’une plon
 Le 1 janvier 2016
 Renumérotation des compétences
 
-
-
 ### MODIFICATIONS MEMENTO ASSOCIE depuis le 24/06/2015 Plongée en autonomie à 40 m Certification de Plongeur Autonome 40 m (PA40)
 
 *Ensemble du document*
