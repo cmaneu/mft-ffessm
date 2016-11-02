@@ -15,9 +15,11 @@ savoir-faire nécessaires à la bonne exécution des gestes destinés à préser
 victime d'accident de plongée, avant sa prise en charge par les services de secours.**
 
 ## CONTENUS DE FORMATION
+
 Les contenus de formation sont décrits dans un tableau joint en annexe, et sont déclinés suivant 7 capacités.
 
 ## CONDITIONS DE CANDIDATURE - FORMATION ET VALIDATION
+
 Etre titulaire de la licence fédérale en cours de validité.
 
 L'âge minimum requis est de 16 ans. Les candidats de moins de 18 ans doivent présenter une autorisation écrite
@@ -38,6 +40,7 @@ moniteur MF1 ou BEES1 ou moniteur associé, licenciés à la FFESSM.
 
 b) Les capacités 5 et 6 de la compétence sont enseignées, attestées et validées par l'une des personnes
 suivantes :
+
 ─ Un licencié titulaire de la compétence ANTEOR.
 ─ Un médecin fédéral licencié.
 
@@ -58,6 +61,7 @@ concernant les certifications.
 Les duplicata des cartes sont délivrés par le siège national de la FFESSM.
 
 ## EXIGIBILITE
+
 Le tableau ci-dessous indique les conditions d'exigibilité de la compétence RIFA Plongée pour se présenter aux
 différents brevets fédéraux de plongée.
 
@@ -81,6 +85,7 @@ MONITEUR FEDERAL 2°                   | OBLIGATOIRE
 MONITEUR FEDERAL ASSOCIE 1° et 2°     | OBLIGATOIRE
 
 ## MAINTIEN DE COMPETENCE
+
 Il appartient au plongeur de maintenir son niveau de compétence en continuant une auto formation (lecture
 régulière des référentiels de formation), tout en mettant en pratique ses savoirs sur le terrain, pour obtenir une
 certaine expérience. En effet, la formation initiale reçue doit être entretenue et exercée.
@@ -91,8 +96,8 @@ pouvoir assurer efficacement la sécurité de tous.
 
 A ce titre, une réactualisation des connaissances devrait être effectuée aussi souvent que nécessaire
 
-
 ## CHARTE DE QUALITE
+
 **Equipe régionale d'animation**
 
 Nonobstant les conditions usuelles de délivrance de la compétence RIFA Plongée à l'échelon club les CTR
@@ -100,9 +105,10 @@ peuvent s'entourer d'une équipe régionale d'animation, en vue de la formation 
 compétence RIFA Plongée.
 
 Cette équipe doit privilégier les compétences suivantes:
-─ Compétences pointues dans le domaine du secourisme.
-─ Compétences pédagogiques adaptées.
-─ Expérience de terrain : formateur de secouristes, moniteur, médecin fédéral, etc…
+
+- Compétences pointues dans le domaine du secourisme.
+- Compétences pédagogiques adaptées.
+- Expérience de terrain : formateur de secouristes, moniteur, médecin fédéral, etc…
 
 **Délivrance des diplômes de la Sécurité Civile**
 
