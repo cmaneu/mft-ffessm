@@ -151,7 +151,7 @@ Le CFPS (certificat fédéral de premiers secours délivré antérieurement au 2
 
 ## Compétence : REACTIONS ET INTERVENTIONS FACE A UN ACCIDENT DE PLONGEE 
 
- | Connaissances, savoir-faire et savoir-être | Commentaires et limites | Critères de réalisation 
+ - | Connaissances, savoir-faire et savoir-être | Commentaires et limites | Critères de réalisation 
 ----|----|---|---
 1 | Communication entre plongeurs lors d’un accident de plongée. | Connaissance des signes normalisés de la FFESSM et réponses adaptées aux circonstances de l’accident. | Rapidité d’intervention et prise en charge de l’accidenté.
 2 | Mise en sécurité de l’accidenté. | Réaliser une technique de tractage puis de hissage sûre et adaptée à l’embarcation utilisée, pour mettre l’accidenté hors d’eau et le débarrasser de toute entrave aux fonctions vitales. | Maîtrise du tractage, maîtrise du hissage, mise en sûreté de l’accidenté. 
