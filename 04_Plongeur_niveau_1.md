@@ -10,10 +10,12 @@ lien_original: http://www.ffessm.fr/gestionenligne/manuel/04_Plongeur_niveau_1.p
 ## PROFIL GENERAL
 
 Le plongeur Niveau 1 (N1) est capable de réaliser des plongées d’exploration :
+
 - Jusqu’à 20 m de profondeur, au sein d’une palanquée, avec un Guide de Palanquée (GP) qui prend en charge la conduite de la plongée.
 
 Ces plongées sont réalisées dans le cadre d’une organisation sécurisée, mise en place par un Directeur de Plongée (DP), selon les règles définies par le Code du Sport (CdS).
 Ce plongeur :
+
 - Sait s’équiper, s’immerger, s’équilibrer et évoluer.
 - Sait prévenir pour lui-même les incidents de plongée.
 - Sait aider un équipier en attente de l’intervention du GP.
@@ -31,6 +33,7 @@ Ce plongeur :
 
 ## REGLES D’ORGANISATION ET DE DELIVRANCE
 L’ensemble des conditions de réalisation des certifications de la FFESSM est défini dans les « Règles générales de formation et délivrance des certifications de la FFESSM ». Le brevet de plongeur Niveau 1 (N1) est délivré au niveau d’un club affilié ou d’une structure commerciale agréée :
+
 - Soit par le président du club ou le responsable de la structure commerciale agréée.
 - Soit par un encadrant E3 (licencié) avec l’autorisation de président du club ou du responsable de la structure commerciale agréée.
 
@@ -42,6 +45,7 @@ Dans le cas d’une certification délivrée en milieu artificiel, le plongeur N
 ## CONTENU DE LA FORMATION - COMPETENCES
 
 A l’issue d’une formation progressive et adaptée, le plongeur Niveau 1 (N1) possède les compétences suivantes :
+
 - C1 : UTILISER L’EQUIPEMENT DE PLONGEE
 - C2 : EVOLUER EN ENVIRONNEMENT AQUATIQUE ET SUBAQUATIQUE
 - C3 : EVOLUER EN PALANQUEE GUIDEE

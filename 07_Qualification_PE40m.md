@@ -10,11 +10,13 @@ lien_original: http://www.ffessm.fr/gestionenligne/manuel/07_Qualification_PE40m
 ## PROFIL GENERAL
 
 Le plongeur titulaire de la qualification Plongeur Encadré 40 m (PE40) est capable de réaliser des plongées d’exploration :
+
 - Jusqu’à 40 m de profondeur, au sein d’une palanquée, avec un Guide de Palanquée (GP) qui prend en charge la conduite de la plongée.
 
 Ces plongées sont réalisées dans le cadre d’une organisation sécurisée, mise en place par un Directeur de Plongée (DP), selon les règles définies par le Code du Sport (CdS).
 
 Ce plongeur :
+
 - Sait s’équiper, s’immerger, s’équilibrer et évoluer.
 - Sait prévenir pour lui-même les incidents de plongée.
 - Sait aider un équipier en attente de l’intervention du GP.
@@ -32,6 +34,7 @@ Ce plongeur :
 L’ensemble des conditions de réalisation des certifications de la FFESSM est défini dans les « Règles générales de formation et délivrance des certifications de la FFESSM ».
 
 La qualification PE40 est délivrée au niveau d’un club affilié ou d’une structure commerciale agréée :
+
 - Sous la responsabilité du président du club ou du responsable de la structure commerciale agréée.
 - Par un encadrant E3 (licencié) minimum.
 
@@ -48,6 +51,7 @@ La compétence 8 peut être évaluée oralement, en situation, ou par écri
 La qualification PE40 est une extension à l’espace 0 - 40 m des compétences du plongeur Niveau 1 (N1).
 
 A l’issue d’une formation progressive et adaptée, le Plongeur Encadré 40 m (PE40) possède les compétences suivantes :
+
 - C1 : UTILISER L’EQUIPEMENT DE PLONGEE
 - C2 : EVOLUER EN ENVIRONNEMENT AQUATIQUE ET SUBAQUATIQUE   C3 : EVOLUER EN PALANQUEE GUIDEE
 - C6 : PARTICIPER A LA SECURITE EN PLONGEE
