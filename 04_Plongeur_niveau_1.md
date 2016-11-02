@@ -88,11 +88,7 @@ Demander et recevoir l’aide du GP et à défaut, celle d’un équipier.  | De
 Appliquer les procédures de sécurité. | Respecte les consignes du GP (profondeur, distance et position, etc…). <br />Remonte à vitesse normale vers la surface en cas de perte de la palanquée, effectue les paliers éventuels et effectue un tour d’horizon dans la zone des 3 m. <br />Assure sa flottabilité en surface, se signale au support surface et attend une prise en charge du GP ou du support surface. | *Technique(s) : contrôle du gilet à la remontée ; tour d’horizon ; équilibrage au gilet en surface.* Le respect des règles est indispensable à la sécurité de la plongée.  
 Identifier et prendre en charge un équipier en difficulté en attendant l’intervention du GP. | Interprète sans ambiguïté le signe conventionnel d’un équipier indiquant une difficulté ou demandant une intervention. <br />Agit dès l’observation d’un comportement nécessitant une intervention. <br />Pour toute intervention, évite autant que possible (pleine eau, plongeur non équilibré, etc…) l’augmentation de la profondeur. <br />Effectue les actions adaptées à la situation en attendant le GP : <br />- Fournit une source d’air en cas de panne d’air (tous les échanges se font en simulation). <br />- Fait cesser tout effort en cas d’essoufflement. <br />- Apporte une aide adaptée dans les autres cas (crampe, malaise, douleurs, inconscience, ...). |  *Technique(s) : respiration sur détendeur de secours, respiration à deux sur un embout (simulation).* Panne d’air, essoufflement, froid, crampe, fatigue, etc... <br />Le comportement à adopter lorsqu’un plongeur est observateur du GP ou d’un équipier en prenant en charge un autre doit être enseigné ; être prêt à apporter une aide sans gêner, suivre la palanquée dans sa remontée et se mettre dans le champ de vision du GP ou du plongeur apportant une assistance, etc…
 
-<<<<<<< HEAD
-### Compétence 5 : CONNAITRE ET RESPECTER L’ENVIRONNEMENT MARIN
-=======
-### Compétence 7 : CONNAITRE ET RESPECTER L’ENVIRONNEMENT MARIN 
->>>>>>> cmaneu/master
+### Compétence 7 : CONNAITRE ET RESPECTER L’ENVIRONNEMENT MARIN
 
 **Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
 ---|---|---
@@ -114,24 +110,12 @@ Nota : les critères de réalisation de la compétence 6 sont rappelés pour mé
 
 ### MODIFICATIONS MFT - PLONGEUR NIVEAU 1 (N1)
 
-<<<<<<< HEAD
-Page 1
-Le 10 octobre 2014
-Précisions sur le certificat médical  pour l'entré en formation des mineurs de -14 ans.  
-
-
-Page 4
-Le 10 octobre 2014
-Dans la compétence 2 dans la ligne « Se ventiler en surface et en immersion » de la colonne **« Techniques/Commentaires/Limites »** rajout de *« Expiration à la remontée. (REC de 6m). »*.
-=======
 **Ensemble du document**
-Le 1 janvier 2016 
+Le 1 janvier 2016
 Renumérotation des compétences
->>>>>>> cmaneu/master
 
 ### MODIFICATIONS MEMENTO ASSOCIE Plongée guidée à 20 m - Brevet de plongeur Niveau 1 (N1)
 
 **Ensemble du document**
-Le 1 janvier 2016 
+Le 1 janvier 2016
 Renumérotation des compétences
-
