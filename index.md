@@ -1,4 +1,4 @@
-# Manuel de formation technique de la FFESSM (Fédération Française d'Etudes et de Sport Sous-Marin)
+# Manuel de Formation Technique - Fédération Française d'Etudes et de Sport Sous-Marin
 
 Ce site contient les chapitres du Manuel de formation technique de la
 FFESSM (Fédération Française d'Etudes et de Sport Sous-Marin), au format Markdown.
