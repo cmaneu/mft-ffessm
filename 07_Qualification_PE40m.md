@@ -120,12 +120,12 @@ Risques de l’activité, mesures de prévention et bonnes pratiques. | Posse�
 
 ### MODIFICATIONS MFT depuis le 24/08/2015 PLONGEUR ENCADRE 40 m
 
-*Ensemble du document*
+**Ensemble du document**
 Le 1 janvier 2016
 Renumérotation des compétences
 
 ### MODIFICATIONS MEMENTO ASSOCIE depuis le 24/06/2015 Plongée guidé à 40 m Certification de Plongeur Encadré 40 m (PE40)
 
-*Ensemble du document*
+**Ensemble du document**
 Le 1 janvier 2016
 Renumérotation des compétences
