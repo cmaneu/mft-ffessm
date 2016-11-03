@@ -15,11 +15,9 @@ savoir-faire nécessaires à la bonne exécution des gestes destinés à préser
 victime d'accident de plongée, avant sa prise en charge par les services de secours.**
 
 ## CONTENUS DE FORMATION
-
 Les contenus de formation sont décrits dans un tableau joint en annexe, et sont déclinés suivant 7 capacités.
 
 ## CONDITIONS DE CANDIDATURE - FORMATION ET VALIDATION
-
 Etre titulaire de la licence fédérale en cours de validité.
 
 L'âge minimum requis est de 16 ans. Les candidats de moins de 18 ans doivent présenter une autorisation écrite
@@ -40,7 +38,6 @@ moniteur MF1 ou BEES1 ou moniteur associé, licenciés à la FFESSM.
 
 b) Les capacités 5 et 6 de la compétence sont enseignées, attestées et validées par l'une des personnes
 suivantes :
-
 ─ Un licencié titulaire de la compétence ANTEOR.
 ─ Un médecin fédéral licencié.
 
@@ -61,7 +58,6 @@ concernant les certifications.
 Les duplicata des cartes sont délivrés par le siège national de la FFESSM.
 
 ## EXIGIBILITE
-
 Le tableau ci-dessous indique les conditions d'exigibilité de la compétence RIFA Plongée pour se présenter aux
 différents brevets fédéraux de plongée.
 
@@ -85,7 +81,6 @@ MONITEUR FEDERAL 2°                   | OBLIGATOIRE
 MONITEUR FEDERAL ASSOCIE 1° et 2°     | OBLIGATOIRE
 
 ## MAINTIEN DE COMPETENCE
-
 Il appartient au plongeur de maintenir son niveau de compétence en continuant une auto formation (lecture
 régulière des référentiels de formation), tout en mettant en pratique ses savoirs sur le terrain, pour obtenir une
 certaine expérience. En effet, la formation initiale reçue doit être entretenue et exercée.
@@ -96,8 +91,8 @@ pouvoir assurer efficacement la sécurité de tous.
 
 A ce titre, une réactualisation des connaissances devrait être effectuée aussi souvent que nécessaire
 
-## CHARTE DE QUALITE
 
+## CHARTE DE QUALITE
 **Equipe régionale d'animation**
 
 Nonobstant les conditions usuelles de délivrance de la compétence RIFA Plongée à l'échelon club les CTR
@@ -106,9 +101,9 @@ compétence RIFA Plongée.
 
 Cette équipe doit privilégier les compétences suivantes:
 
-- Compétences pointues dans le domaine du secourisme.
-- Compétences pédagogiques adaptées.
-- Expérience de terrain : formateur de secouristes, moniteur, médecin fédéral, etc…
+─ Compétences pointues dans le domaine du secourisme.
+─ Compétences pédagogiques adaptées.
+─ Expérience de terrain : formateur de secouristes, moniteur, médecin fédéral, etc…
 
 **Délivrance des diplômes de la Sécurité Civile**
 
@@ -118,4 +113,68 @@ Préfecture de chaque département (arrêté du 6 mars 1996 dans le fascicule de
 Le développement des agréments départementaux apport un enrichissement indiscutable dans la formation aux
 premiers secours (obtention du PSC1 en préalable au RIFA Plongée).
 
------ DOCUMENT INCOMPLET & EN COURS DE RECOPIE----
+## ABREVIATIONS
+
+**PSC 1** :  Prévention et secours civique de niveau 1 (remplace l'AFPS depuis le 01/08/2007).
+
+**AFPS** :  Attestation de Formation aux Premiers Secours (n'existe plus depuis le 01/08/2007).
+
+**BNS** :  Brevet National de Secourisme (existait avant la mise en place de l'AFPS, n'est plus délivré depuis).
+
+**BNPS** :  Brevet National de Premiers Secours (examen organisé par la Sécurité Civile après l'obtention de l'AFPS en remplacement du BNS, n'est plus délivré aujourd'hui).
+
+**PSE 1** :  Premiers Secours en Equipe niveau 1 (remplace l'AFCPSAM depuis 14/02/2007).
+
+**AFCPSAM** :  Attestation de Formation Complémentaire aux Premiers Secours Avec Matériel (n'existe plus depuis le 14/02/2007).
+
+**CFAPSE** :  Certificat de Formation Aux Premiers Secours en Équipe (n'existe plus depuis le 14/03/2007).
+
+**RANIMATION** :  Mention Ranimation du BNS (a été remplacée par le CFAPSE, puis l'AFCPSAM).
+
+**CFPS** :  Certificat fédéral de premiers secours. Ce diplôme n'est plus délivré depuis le 22/09/2001. Remplacé par la compétence RIFAP.
+
+
+## EQUIVALENCES ENTRE DIPLOMES
+
+Diplômes admis en équivalence au PSC1 : AFPS, BNS, BNPS, SST.
+Diplômes admis en équivalence au PSE1 : mention ranimation, AFCPSAM, CFAPSE.
+
+## LES EQUIVALENCES AVEC LE RIFA Plongée
+
+Les plongeurs de la Sécurité Civile ou de la BSPP titulaire d’un PSE 1, ou d’un diplôme admis en équivalence, et inscrit sur la liste départementale des aptitudes annuelles peuvent, sur demande, obtenir le RIFAP par équivalence.
+
+Les médecins, les infirmiers hyperbares et les infirmiers anesthésistes licenciés à la FFESSM ont par équivalence les capacités 4, 5, 6 constitutives de la compétence RIFA Plongée. Ils doivent acquérir les capacités 1, 2, 3, 7.
+
+Les titulaires du PSE1 (ou diplôme équivalent) délivré par la Sécurité Civile, Ministère de l'Intérieur, et licenciés à la FFESSM, ont par équivalence les capacités 4, 5, 6 constitutives de la compétence RIFA Plongée. Ils doivent acquérir les capacités 1, 2, 3, 7.
+
+Les titulaires de la qualification ANTEOR n’ont pas l’équivalence RIFA Plongée car selon leur niveau technique ils ne peuvent délivrer le RIFA Plongée que partiellement. Ils doivent être titulaires de la carte RIFA Plongée.
+
+Le CFPS (certificat fédéral de premiers secours délivré antérieurement au 22/09/2001) ne donne aucune équivalence
+
+## Compétence : REACTIONS ET INTERVENTIONS FACE A UN ACCIDENT DE PLONGEE
+
+ - | Connaissances, savoir-faire et savoir-être | Commentaires et limites | Critères de réalisation
+----|----|---|---
+1 | Communication entre plongeurs lors d’un accident de plongée. | Connaissance des signes normalisés de la FFESSM et réponses adaptées aux circonstances de l’accident. | Rapidité d’intervention et prise en charge de l’accidenté.
+2 | Mise en sécurité de l’accidenté. | Réaliser une technique de tractage puis de hissage sûre et adaptée à l’embarcation utilisée, pour mettre l’accidenté hors d’eau et le débarrasser de toute entrave aux fonctions vitales. | Maîtrise du tractage, maîtrise du hissage, mise en sûreté de l’accidenté.
+3 | Récupération des plongeurs de la palanquée. | Vérifier la composition de la palanquée, relever ses paramètres de plongée, et assurer le regroupement du matériel de celle-ci. | Le plongeur doit recueillir le maximum d'éléments permettant la prise en charge et la surveillance de la palanquée
+4 | Coordination et partage des différentes opérations liées à l’accident. | Rôle de chacun en fonction des compétences présentes. Assurer la liaison. | Maîtriser la gestion de crise.
+5 | Prise en compte des plaintes et malaises de la victime et évaluation des fonctions vitales. | Reconnaissance des signes liés aux accidents de plongée et surveillance. | Le plongeur doit rassurer, interroger et recueillir les plaintes et l'état de la victime. Il doit surveiller l'évolution de l'état de la victime (*).
+6 | Mise en œuvre des techniques adaptées à l’état de la victime. | Respect des recommandations de la Commission Médicale et de Prévention Nationale en matière d’accidents, dont : <br/> - Ranimation cardio- pulmonaire(RCP). <br/> - Inhalation. <br/> - Insufflation O2 à 100% à 15 litres par minute. <br/> - Eau et aspirine 500 mg maximum en une prise, sauf allergie à l’aspirine ou refus de l’accidenté.  | Application des techniques (*).
+7 | Appel aux secours. <br /> Passation des informations aux urgences et suivi. | Adaptation des procédures d’appel aux conditions de pratique de l’activité. En mer : connaissance des procédures d’appel par moyen maritime (VHF). | Transmission auprès des organismes de secours adaptés (en mer : CROSS) des éléments concernant la victime et la situation de l’accident
+
+(*) : Les référentiels nationaux de la Direction de la Défense et de la Sécurité Civiles et de la Gestion des Crises relatifs aux techniques de premiers secours sont disponibles sur le site du ministère de l'intérieur, http://www.interieur.gouv.fr/.
+
+**La mise en place de la formation, essentiellement pratique, puis de l'évaluation de cette compétence, pourra être faite en milieu naturel et/ou en piscine. Elle sera effectuée à partir de démonstrations, de l'apprentissage des gestes et de mises en situations d'accidents simulés.**
+
+La délivrance de cette attestation de compétence engage la responsabilité du ou des formateurs qui certifient qu'ils ont eux-mêmes constaté les aptitudes du candidat telles que définies dans les contenus de formation de ce module.
+
+## MODIFICATIONS DEPUIS LE 18/06/2013 :
+
+**Page 1**
+Le 17 novembre 2013
+Modification dans de la délivrance de la compétence.
+
+**Page 4**
+Le 29 octobre 2013
+Dans (*), remplacement de « Direction de la Défense et de la Sécurité Civiles » par « Direction de la Défense et de la Sécurité Civiles et de la Gestion des Crises ».
