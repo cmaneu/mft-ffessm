@@ -1,11 +1,11 @@
 ---
 nom: Plongeur Nitrox
 revision: 03/2016
-mise_en_ligne: 27/03/2016 
+mise_en_ligne: 27/03/2016
 lien_original: http://www.ffessm.fr/gestionenligne/manuel/20_Nitrox.pdf
 ---
 
-# PLONGEUR NITROX 
+# PLONGEUR NITROX
 
 ## ORGANISATION GENERALE
 
@@ -18,7 +18,7 @@ La plongée avec contrôle parfait de la stabilisation conditionne la suite de l
 
 Pour être qualifié plongeur Nitrox, il faut avoir effectué au minimum 2 plongées au Nitrox.
 
-Elle est validée par un moniteur Nitrox confirmé FFESSM ayant assuré la formation. 
+Elle est validée par un moniteur Nitrox confirmé FFESSM ayant assuré la formation.
 
 ## CONDITIONS D’ACCES A LA FORMATION
 
@@ -28,34 +28,34 @@ Etre titulaire de la licence FFESSM. en cours de validité.
 - Etre titulaire du niveau 1 de la FFESSM ou d’un brevet admis en équivalence ou du PESH12.
 - Présenter le carnet de plongée.
 - Avoir effectué un minimum de 10 plongées dans la zone des 20 mètres attestées sur le carnet de plongée ou par mention sur le passeport ou par fiche justificative dûment remplie.
-- Présenter un certificat médical de non-contre indication à la plongée subaquatique de moins d’un an délivré par un médecin généraliste tel que défini dans l’annexe 1 du Règlement Médical. 
+- Présenter un certificat médical de non-contre indication à la plongée subaquatique de moins d’un an délivré par un médecin généraliste tel que défini dans l’annexe 1 du Règlement Médical.
 
-## PREROGATIVES 
+## PREROGATIVES
 
 Les plongeurs titulaires de la qualification Plongeur Nitrox pourront utiliser le mélange Nitrox le plus approprié avec au maximum 40% d’oxygène.
 
-Les plongeurs Nitrox ont les mêmes prérogatives que celles définies dans la partie du Code du Sport, correspondantes à leur niveau de plongée. 
+Les plongeurs Nitrox ont les mêmes prérogatives que celles définies dans la partie du Code du Sport, correspondantes à leur niveau de plongée.
 
-## DELIVRANCE DE LA CARTE DE CERTIFICATION 
+## DELIVRANCE DE LA CARTE DE CERTIFICATION
 
 - La certification est délivrée par le club affilié ou la structure commerciale agréée au sein duquel la dernière compétence est validée, sous la responsabilité du président du club ou du responsable de la structure, par un E3 moniteur Nitrox Confirmé (licencié) minimum.
 - Le club ou la structure doit valider la certification sur le passeport du lauréat. Le passeport doit comporter le cachet officiel du club ou de la structure.
-- Le club ou la structure doit enregistrer la certification sur le site internet <www.ffessm.fr> pour que le siège national puisse éditer la carte double face FFESSM/INTERNATIONAL et l’adresser au candidat. Le siège national de la FFESSM garde en archive les informations concernant les certifications. 
+- Le club ou la structure doit enregistrer la certification sur le site internet <www.ffessm.fr> pour que le siège national puisse éditer la carte double face FFESSM/INTERNATIONAL et l’adresser au candidat. Le siège national de la FFESSM garde en archive les informations concernant les certifications.
 
 ## DUPLICATA
 
 Les duplicata des cartes double face FFESSM/INTERNATIONAL sont délivrés par le siège national de la FFESSM.
 
-##  COMPETENCES 
+##  COMPETENCES
 
-### Compétences n°1 : GERER ET UTILISER SON MATERIEL 
+### Compétences n°1 : GERER ET UTILISER SON MATERIEL
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
 Identification du matériel Nitrox : marquage sur les blocs, détenteurs, PA et raccords aux normes oxygène. | Il s’agit de vérifier que l’élève est autonome dans la gestion du matériel personnel, mais aussi dans l’utilisation du matériel des autres plongeurs Nitrox de sa palanquée. | Le critère important est l’efficacité que l’on constatera tout au long des séances de pratique.
 Contrôle et vérification : <ul> <li>Etablissement de la fiche.</li> <li>Mesure du % d’O2 dans le mélange avant la plongée.</li> <li>Vérification mutuelle entre participants d’une même palanquée.</li> </ul> | <span /> | Savoir dérouler la “Check list”. Un second point est la capacité à aider efficacement un autre plongeur de sa palanqué rencontrant une difficulté dans son équipement.
 Entretien courant : interdiction de mélanger du matériel air (blocs, détenteurs, PA et raccords) et du matériel Nitrox. Conduite à tenir face aux pannes les plus fréquentes. | Un plongeur Nitrox n’a pas à savoir réparer lui-même son matériel au delà des opérations d’entretien préconisées par le fabricant. | <span />
-Connaissances succinctes des risques encourus lors de la manipulation des mélanges suroxygénés. | <span /> | <span /> 
+Connaissances succinctes des risques encourus lors de la manipulation des mélanges suroxygénés. | <span /> | <span />
 
 ### Compétence n°2 : PLONGEE AU NITROX
 
@@ -65,7 +65,7 @@ Parfaite maîtrise de la stabilisation à l’aide d’un gilet ou d’une boué
 Organisation et conduite dans la palanquée, gestion du profil de plongée, du retour, des éventuelles successives et consécutives. | Cela concerne autant le respect des consignes données par le directeur de plongée, que la capacité à s’adapter dans le sens de la sécurité en cas d’imprévu. | Absence d’incidents dus à la gestion du profil, ou à l’utilisation de tables ou ordinateurs Nitrox.
 Connaissance de la profondeur plancher pour le Nitrox 40/60. | Valeur donnée spontanément au cours de la formation.
 
-### Compétence n°3 : CONNAISSANCES THEORIQUES 
+### Compétence n°3 : CONNAISSANCES THEORIQUES
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
@@ -121,9 +121,9 @@ Les duplicata des cartes double face FFESSM/INTERNATIONAL sont délivrés par le
 
 Les scaphandriers professionnels classe 2 ou 3, Mention A, titulaires du Niveau 3 ou du Guide de Palanquée – Niveau 4 et d’une licence fédérale en cours de validité peuvent demander l’équivalence “Plongeur Nitrox confirmé”. (Demande à envoyer directement au siège national accompagnée d’un chèque à l’ordre de la correspondant au montant de la carte).
 
-##  COMPETENCES 
+##  COMPETENCES
 
-### Compétences n°1 : GERER ET UTILISER SON MATERIEL 
+### Compétences n°1 : GERER ET UTILISER SON MATERIEL
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
@@ -155,7 +155,7 @@ Les tables et ordinateurs Nitrox : approfondissement : cas de l’altitude. Elé
 
 <hr />
 
-# MONITEUR NITROX CONFIRME 
+# MONITEUR NITROX CONFIRME
 
 ## ORGANISATION GENERALE
 
@@ -179,7 +179,7 @@ Ils pourront signer sur les carnets de plongée, les plongées Nitrox.
 Ils pourront valider et encadrer les stages pour les qualifications de **Plongeur Nitrox** et **Plongeur Nitrox Confirmé**.
 
 ## DELIVRANCE DE LA CARTE DE CERTIFICATION
- 
+
 Les titulaires du niveau MF1 de la FFESSM ou du BEES1 ou les titulaires du niveau MF2 de la FFESSM ou BEES2 ou DE-JEPS ou DES-JEPS pour se faire valider leur certification, doivent envoyer au siège national de la FFESSM:
 - Une photocopie de leur licence en cours.
 - Une photocopie de leur brevet de moniteur.
@@ -198,7 +198,5 @@ Les scaphandriers professionnels classe 2 ou 3, Mention A, titulaires du brevet 
 
 ## MODIFICATIONS DEPUIS LE 03/07/2014
 **Page 1**
-Rajout du PESH12 dans les conditions de candidature. 
-─ Etre titulaire du niveau 1 de la FFESSM ou d’un brevet admis en équivalence ou du PESH12. 
-
-
+Rajout du PESH12 dans les conditions de candidature.
+─ Etre titulaire du niveau 1 de la FFESSM ou d’un brevet admis en équivalence ou du PESH12.
