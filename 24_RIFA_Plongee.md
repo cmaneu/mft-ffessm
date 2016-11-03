@@ -44,15 +44,15 @@ suivantes :
 c) Les capacités 4 et 7 de la compétence sont enseignées, attestées et validées indistinctement par l'un ou
 l'autre des évaluateurs susnommés (paragraphes a et b).
 
-**La présentation de la carte RIFAP est obligatoire pour le passage d’un diplôme ou le RIFA Plongée est
+**La présentation de la carte RIFAP est obligatoire pour le passage d'un diplôme ou le RIFA Plongée est
 requis.**
 
-- La compétence RIFAP est délivrée au niveau d’un club affilié ou d’une structure commerciale agréée, sous la
+- La compétence RIFAP est délivrée au niveau d'un club affilié ou d'une structure commerciale agréée, sous la
 responsabilité du président du club ou du responsable de la structure.
 - Le club ou la structure doit valider la certification sur le passeport du lauréat. Le passeport doit comporter le
 cachet officiel du club ou de la structure.
 - Le club ou la structure doit enregistrer la certification sur le site internet <www.ffessm.fr> pour que le siège
-national puisse éditer la carte et l’adresser au candidat. Le siège national garde en archive les informations
+national puisse éditer la carte et l'adresser au candidat. Le siège national garde en archive les informations
 concernant les certifications.
 
 Les duplicata des cartes sont délivrés par le siège national de la FFESSM.
@@ -141,13 +141,13 @@ Diplômes admis en équivalence au PSE1 : mention ranimation, AFCPSAM, CFAPSE.
 
 ## LES EQUIVALENCES AVEC LE RIFA Plongée
 
-Les plongeurs de la Sécurité Civile ou de la BSPP titulaire d’un PSE 1, ou d’un diplôme admis en équivalence, et inscrit sur la liste départementale des aptitudes annuelles peuvent, sur demande, obtenir le RIFAP par équivalence.
+Les plongeurs de la Sécurité Civile ou de la BSPP titulaire d'un PSE 1, ou d'un diplôme admis en équivalence, et inscrit sur la liste départementale des aptitudes annuelles peuvent, sur demande, obtenir le RIFAP par équivalence.
 
 Les médecins, les infirmiers hyperbares et les infirmiers anesthésistes licenciés à la FFESSM ont par équivalence les capacités 4, 5, 6 constitutives de la compétence RIFA Plongée. Ils doivent acquérir les capacités 1, 2, 3, 7.
 
 Les titulaires du PSE1 (ou diplôme équivalent) délivré par la Sécurité Civile, Ministère de l'Intérieur, et licenciés à la FFESSM, ont par équivalence les capacités 4, 5, 6 constitutives de la compétence RIFA Plongée. Ils doivent acquérir les capacités 1, 2, 3, 7.
 
-Les titulaires de la qualification ANTEOR n’ont pas l’équivalence RIFA Plongée car selon leur niveau technique ils ne peuvent délivrer le RIFA Plongée que partiellement. Ils doivent être titulaires de la carte RIFA Plongée.
+Les titulaires de la qualification ANTEOR n'ont pas l'équivalence RIFA Plongée car selon leur niveau technique ils ne peuvent délivrer le RIFA Plongée que partiellement. Ils doivent être titulaires de la carte RIFA Plongée.
 
 Le CFPS (certificat fédéral de premiers secours délivré antérieurement au 22/09/2001) ne donne aucune équivalence
 
@@ -155,13 +155,13 @@ Le CFPS (certificat fédéral de premiers secours délivré antérieurement au 2
 
  - | Connaissances, savoir-faire et savoir-être | Commentaires et limites | Critères de réalisation
 ----|----|---|---
-1 | Communication entre plongeurs lors d’un accident de plongée. | Connaissance des signes normalisés de la FFESSM et réponses adaptées aux circonstances de l’accident. | Rapidité d’intervention et prise en charge de l’accidenté.
-2 | Mise en sécurité de l’accidenté. | Réaliser une technique de tractage puis de hissage sûre et adaptée à l’embarcation utilisée, pour mettre l’accidenté hors d’eau et le débarrasser de toute entrave aux fonctions vitales. | Maîtrise du tractage, maîtrise du hissage, mise en sûreté de l’accidenté.
+1 | Communication entre plongeurs lors d'un accident de plongée. | Connaissance des signes normalisés de la FFESSM et réponses adaptées aux circonstances de l'accident. | Rapidité d'intervention et prise en charge de l'accidenté.
+2 | Mise en sécurité de l'accidenté. | Réaliser une technique de tractage puis de hissage sûre et adaptée à l'embarcation utilisée, pour mettre l'accidenté hors d'eau et le débarrasser de toute entrave aux fonctions vitales. | Maîtrise du tractage, maîtrise du hissage, mise en sûreté de l'accidenté.
 3 | Récupération des plongeurs de la palanquée. | Vérifier la composition de la palanquée, relever ses paramètres de plongée, et assurer le regroupement du matériel de celle-ci. | Le plongeur doit recueillir le maximum d'éléments permettant la prise en charge et la surveillance de la palanquée
-4 | Coordination et partage des différentes opérations liées à l’accident. | Rôle de chacun en fonction des compétences présentes. Assurer la liaison. | Maîtriser la gestion de crise.
+4 | Coordination et partage des différentes opérations liées à l'accident. | Rôle de chacun en fonction des compétences présentes. Assurer la liaison. | Maîtriser la gestion de crise.
 5 | Prise en compte des plaintes et malaises de la victime et évaluation des fonctions vitales. | Reconnaissance des signes liés aux accidents de plongée et surveillance. | Le plongeur doit rassurer, interroger et recueillir les plaintes et l'état de la victime. Il doit surveiller l'évolution de l'état de la victime (*).
-6 | Mise en œuvre des techniques adaptées à l’état de la victime. | Respect des recommandations de la Commission Médicale et de Prévention Nationale en matière d’accidents, dont : <br/> - Ranimation cardio- pulmonaire(RCP). <br/> - Inhalation. <br/> - Insufflation O2 à 100% à 15 litres par minute. <br/> - Eau et aspirine 500 mg maximum en une prise, sauf allergie à l’aspirine ou refus de l’accidenté.  | Application des techniques (*).
-7 | Appel aux secours. <br /> Passation des informations aux urgences et suivi. | Adaptation des procédures d’appel aux conditions de pratique de l’activité. En mer : connaissance des procédures d’appel par moyen maritime (VHF). | Transmission auprès des organismes de secours adaptés (en mer : CROSS) des éléments concernant la victime et la situation de l’accident
+6 | Mise en œuvre des techniques adaptées à l'état de la victime. | Respect des recommandations de la Commission Médicale et de Prévention Nationale en matière d'accidents, dont : <br> - Ranimation cardio- pulmonaire(RCP). <br> - Inhalation. <br> - Insufflation O2 à 100% à 15 litres par minute. <br> - Eau et aspirine 500 mg maximum en une prise, sauf allergie à l'aspirine ou refus de l'accidenté.  | Application des techniques (*).
+7 | Appel aux secours. <br> Passation des informations aux urgences et suivi. | Adaptation des procédures d'appel aux conditions de pratique de l'activité. En mer : connaissance des procédures d'appel par moyen maritime (VHF). | Transmission auprès des organismes de secours adaptés (en mer : CROSS) des éléments concernant la victime et la situation de l'accident
 
 (*) : Les référentiels nationaux de la Direction de la Défense et de la Sécurité Civiles et de la Gestion des Crises relatifs aux techniques de premiers secours sont disponibles sur le site du ministère de l'intérieur, http://www.interieur.gouv.fr/.
 
@@ -169,12 +169,14 @@ Le CFPS (certificat fédéral de premiers secours délivré antérieurement au 2
 
 La délivrance de cette attestation de compétence engage la responsabilité du ou des formateurs qui certifient qu'ils ont eux-mêmes constaté les aptitudes du candidat telles que définies dans les contenus de formation de ce module.
 
-## MODIFICATIONS DEPUIS LE 18/06/2013 :
+## MODIFICATIONS
 
-**Page 1**
-Le 17 novembre 2013
+### MODIFICATIONS DEPUIS LE 18/06/2013 :
+
+**Page 1**<br>
+Le 17 novembre 2013<br>
 Modification dans de la délivrance de la compétence.
 
-**Page 4**
-Le 29 octobre 2013
+**Page 4**<br>
+Le 29 octobre 2013<br>
 Dans (*), remplacement de « Direction de la Défense et de la Sécurité Civiles » par « Direction de la Défense et de la Sécurité Civiles et de la Gestion des Crises ».

@@ -15,10 +15,12 @@ Pour deux raisons:
 ## Roadmap
 
 - [x] Convertir "Plongeur Niveau 1"
+- [x] Convertir "Qualification PA12m de plongeur autonome à 12 m"
 - [x] Convertir "Qualification PA20m de plongeur autonome à 20 m"
 - [x] Convertir "Plongeur Niveau 2"
 - [x] Convertir "Qualification PE40m de plongeur encadré à 40 m"
 - [x] Convertir "Qualification PA40m de plongeur autonome à 40 m"
+- [x] Convertir "Qualification PE60m de plongeur encadré 60 m"
 - [x] Convertir "Plongeur Niveau 3"
 - [x] Convertir "Plongeur Niveau 5 - Directeur de plongée"
 - [x] Convertir "Qualifications plongée au nitrox"
@@ -28,11 +30,8 @@ Pour deux raisons:
 - [ ] Convertir "Jeunes plongeurs"
 - [ ] Convertir "Initiateur"
 - [ ] Convertir "Moniteur Fédéral 1er degré"
-- [ ] Convertir "Qualification PA12"
 - [ ] Convertir "Plongeurs en situation de handicap Conditions de pratiques - Brevets et qualifications des plongeurs et des moniteurs"
-- [ ] Convertir "Qualification PE60m "plongeur encadré 60 mètres""
 - [ ] Convertir Le reste des documents
-
 
 ## Contributions
 
