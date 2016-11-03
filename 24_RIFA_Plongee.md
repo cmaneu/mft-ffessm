@@ -160,8 +160,8 @@ Le CFPS (certificat fédéral de premiers secours délivré antérieurement au 2
 3 | Récupération des plongeurs de la palanquée. | Vérifier la composition de la palanquée, relever ses paramètres de plongée, et assurer le regroupement du matériel de celle-ci. | Le plongeur doit recueillir le maximum d'éléments permettant la prise en charge et la surveillance de la palanquée
 4 | Coordination et partage des différentes opérations liées à l’accident. | Rôle de chacun en fonction des compétences présentes. Assurer la liaison. | Maîtriser la gestion de crise.
 5 | Prise en compte des plaintes et malaises de la victime et évaluation des fonctions vitales. | Reconnaissance des signes liés aux accidents de plongée et surveillance. | Le plongeur doit rassurer, interroger et recueillir les plaintes et l'état de la victime. Il doit surveiller l'évolution de l'état de la victime (*).
-6 | Mise en œuvre des techniques adaptées à l’état de la victime. | Respect des recommandations de la Commission Médicale et de Prévention Nationale en matière d’accidents, dont : <br/> - Ranimation cardio- pulmonaire(RCP). <br/> - Inhalation. <br/> - Insufflation O2 à 100% à 15 litres par minute. <br/> - Eau et aspirine 500 mg maximum en une prise, sauf allergie à l’aspirine ou refus de l’accidenté.  | Application des techniques (*).
-7 | Appel aux secours. <br /> Passation des informations aux urgences et suivi. | Adaptation des procédures d’appel aux conditions de pratique de l’activité. En mer : connaissance des procédures d’appel par moyen maritime (VHF). | Transmission auprès des organismes de secours adaptés (en mer : CROSS) des éléments concernant la victime et la situation de l’accident
+6 | Mise en œuvre des techniques adaptées à l’état de la victime. | Respect des recommandations de la Commission Médicale et de Prévention Nationale en matière d’accidents, dont : <br> - Ranimation cardio- pulmonaire(RCP). <br> - Inhalation. <br> - Insufflation O2 à 100% à 15 litres par minute. <br> - Eau et aspirine 500 mg maximum en une prise, sauf allergie à l’aspirine ou refus de l’accidenté.  | Application des techniques (*).
+7 | Appel aux secours. <br> Passation des informations aux urgences et suivi. | Adaptation des procédures d’appel aux conditions de pratique de l’activité. En mer : connaissance des procédures d’appel par moyen maritime (VHF). | Transmission auprès des organismes de secours adaptés (en mer : CROSS) des éléments concernant la victime et la situation de l’accident
 
 (*) : Les référentiels nationaux de la Direction de la Défense et de la Sécurité Civiles et de la Gestion des Crises relatifs aux techniques de premiers secours sont disponibles sur le site du ministère de l'intérieur, http://www.interieur.gouv.fr/.
 
@@ -169,12 +169,14 @@ Le CFPS (certificat fédéral de premiers secours délivré antérieurement au 2
 
 La délivrance de cette attestation de compétence engage la responsabilité du ou des formateurs qui certifient qu'ils ont eux-mêmes constaté les aptitudes du candidat telles que définies dans les contenus de formation de ce module.
 
-## MODIFICATIONS DEPUIS LE 18/06/2013 :
+## MODIFICATIONS
 
-**Page 1**
-Le 17 novembre 2013
+### MODIFICATIONS DEPUIS LE 18/06/2013 :
+
+**Page 1**<br>
+Le 17 novembre 2013<br>
 Modification dans de la délivrance de la compétence.
 
-**Page 4**
-Le 29 octobre 2013
+**Page 4**<br>
+Le 29 octobre 2013<br>
 Dans (*), remplacement de « Direction de la Défense et de la Sécurité Civiles » par « Direction de la Défense et de la Sécurité Civiles et de la Gestion des Crises ».

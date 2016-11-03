@@ -69,7 +69,7 @@ Connaissance de la profondeur plancher pour le Nitrox 40/60. | Valeur donnée sp
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
-Différences entre air et Nitrox, avantages et inconvénients de ce dernier. <br />Causes, symptômes, prévention et conduite à tenir pour l’ensemble des risques supplémentaires rencontrés lors de plongées Nitrox.<br />Facteurs favorisants la survenue d’un accident.<br />Seuil hyperoxique. | Le plongeur Nitrox n’a pas à connaître les mécanismes fins, ni les traitements qui suivront.<br /> Une information sur les actes de secourisme peut lui permettre d’aider ou au moins de ne pas gêner. | Evaluation par oral ou par écrit.
+Différences entre air et Nitrox, avantages et inconvénients de ce dernier. <br>Causes, symptômes, prévention et conduite à tenir pour l’ensemble des risques supplémentaires rencontrés lors de plongées Nitrox.<br>Facteurs favorisants la survenue d’un accident.<br>Seuil hyperoxique. | Le plongeur Nitrox n’a pas à connaître les mécanismes fins, ni les traitements qui suivront.<br> Une information sur les actes de secourisme peut lui permettre d’aider ou au moins de ne pas gêner. | Evaluation par oral ou par écrit.
 Calcul des profondeurs équivalentes Exemples de courbes de sécurité au Nitrox. | Les problèmes doivent être simples et réalistes. La plongée en altitude est exclue (à l’exception d’une information pour les plongeurs Nitrox pratiquant en altitude).| Evaluation par écrit.
 Les tables Nitrox et les ordinateurs de plongée Nitrox. | Aucune théorie : il s’agit seulement de préciser les conditions d’emploi et les limites d’utilisation. | Pas d’évaluation mais seulement une information.
 Prérogatives | <span/> | Pas d’évaluation mais seulement une information.
@@ -146,8 +146,8 @@ Choix des mélanges en fonction de la plongée prévue. |	Des plongées à diff�
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
-Différences entre air et Nitrox, avantages et inconvénients de ce dernier. <br/>Causes, symptômes, prévention et conduite à tenir pour l’ensemble des risques supplémentaires rencontrés lors de plongées Nitrox. <br/> Facteurs favorisants la survenue d’un accident. <br/> Seuil hyperoxique.	| Le plongeur Nitrox n’a pas à connaître les mécanismes fins, ni les traitements qui suivront. <br/>Une information sur les actes de secourisme peut lui permettre d’aider ou au moins de ne pas gêner.	| Evaluation par oral ou par écrit.
-Calcul des profondeurs équivalentes<br/>Exemples de courbes de sécurité au Nitrox.	| Les problèmes doivent être simples et réalistes. La plongée en altitude est exclue (à l’exception d’une information pour les plongeurs Nitrox pratiquant en altitude).	| Evaluation par écrit.
+Différences entre air et Nitrox, avantages et inconvénients de ce dernier. <br>Causes, symptômes, prévention et conduite à tenir pour l’ensemble des risques supplémentaires rencontrés lors de plongées Nitrox. <br> Facteurs favorisants la survenue d’un accident. <br> Seuil hyperoxique.	| Le plongeur Nitrox n’a pas à connaître les mécanismes fins, ni les traitements qui suivront. <br>Une information sur les actes de secourisme peut lui permettre d’aider ou au moins de ne pas gêner.	| Evaluation par oral ou par écrit.
+Calcul des profondeurs équivalentes<br>Exemples de courbes de sécurité au Nitrox.	| Les problèmes doivent être simples et réalistes. La plongée en altitude est exclue (à l’exception d’une information pour les plongeurs Nitrox pratiquant en altitude).	| Evaluation par écrit.
 Les tables Nitrox et les ordinateurs de plongée Nitrox.	| Aucune théorie : il s’agit seulement de préciser les conditions d’emploi et les limites d’utilisation.	| Pas d’évaluation mais seulement une information.
 Prérogatives.	|<span/>	| Pas d’évaluation mais seulement une information.
 Courbes de sécurité selon divers mélanges usuels. Calcul des profondeurs équivalentes en altitude. Différentes façons de quantifier la crise hyperoxique : seuil, compteur SNC. Différentes façons de quantifier la toxicité pulmonaire : UPTD, OTU.	| Les problèmes doivent rester réalistes.	| Evaluation par écrit.
@@ -196,7 +196,10 @@ Les duplicata des cartes double face FFESSM/CMAS sont délivrés par le siège n
 
 Les scaphandriers professionnels classe 2 ou 3, Mention A, titulaires du brevet de MF1 de la FFESSM ou d’un BEES1 et d’une licence fédérale en cours de validité peuvent demander l’équivalence “Moniteur Nitrox Confirmé”. (Demande à envoyer directement au siège national accompagnée d’un chèque à l’ordre de la FFESSM correspondant au montant de la carte).
 
-## MODIFICATIONS DEPUIS LE 03/07/2014
-**Page 1**
-Rajout du PESH12 dans les conditions de candidature.
-─ Etre titulaire du niveau 1 de la FFESSM ou d’un brevet admis en équivalence ou du PESH12.
+## MODIFICATIONS
+
+### MODIFICATIONS DEPUIS LE 03/07/2014
+
+**Page 1**<br>
+Le 3 juillet 2014<br>
+Dans les « CONDITIONS DE CANDIDATURE » modification de la qualification du médecin signataire du certificat médical.

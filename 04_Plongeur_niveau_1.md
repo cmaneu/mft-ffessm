@@ -58,7 +58,7 @@ A l’issue d’une formation progressive et adaptée, le plongeur Niveau 1 (N1)
 **Savoirs/Savoir-faire/Savoir être** | **Critères de réalisation** | **Techniques/Commentaires/Limites**
 ---|---|---
 S’équiper du matériel individuel. | Choisit un équipement adapté aux conditions de plongée et à la nature de la plongée, y compris son lestage. | *Technique(s) : enfilage/retrait de la combinaison, lestage.*
-Gréer/dégréer un ensemble bloc-gilet de stabilisation-détendeur. | Monte sans erreur le matériel. <br/>Effectue les réglages nécessaires. | <span/>
+Gréer/dégréer un ensemble bloc-gilet de stabilisation-détendeur. | Monte sans erreur le matériel. <br>Effectue les réglages nécessaires. | <span/>
 Tester, vérifier le fonctionnement de l’équipement. | Contrôle le bon fonctionnement. Signale au GP ou à un responsable tout dysfonctionnement. Vérifie la quantité d’air disponible. Contrôle et adapte son lestage si besoin. | <span/>
 Entretenir le matériel. | Rince l’équipement avec les précautions d’usage. Sait décontaminer un détendeur. Range l’équipement dans de bonnes conditions (séchage, pliage, chocs, etc...) | <span/>
 Embarquer sur un navire support de plongée. | Porte l’équipement sans risques pour lui-même et son entourage. Range l’équipement aux emplacements prévus. | *Technique(s) : capelage décapelage à sec.*
@@ -116,12 +116,12 @@ Nota : les critères de réalisation de la compétence 6 sont rappelés pour mé
 
 ### MODIFICATIONS MFT - PLONGEUR NIVEAU 1 (N1)
 
-**Ensemble du document**
-Le 1 janvier 2016
+**Ensemble du document**<br>
+Le 1 janvier 2016<br>
 Renumérotation des compétences
 
 ### MODIFICATIONS MEMENTO ASSOCIE Plongée guidée à 20 m - Brevet de plongeur Niveau 1 (N1)
 
-**Ensemble du document**
-Le 1 janvier 2016
+**Ensemble du document**<br>
+Le 1 janvier 2016<br>
 Renumérotation des compétences
