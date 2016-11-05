@@ -2,7 +2,7 @@
 nom: Plongeur Niveau 3
 revision: 02/2016
 mise_en_ligne: 05/03/2016
-lien_original: http://www.ffessm.fr/gestionenligne/manuel/19_Passerelles_PADI_SSI
+lien_original: http://www.ffessm.fr/gestionenligne/manuel/19_Passerelles_PADI_SSI.pdf
 ---
 
 # PASSERELLES PADI VERS FFESSM
