@@ -27,6 +27,7 @@ Pour deux raisons:
 - [x] Convertir "Qualifications plongée au trimix"
 - [x] Convertir "Vêtement étanche"
 - [x] Convertir "RIFAP Réactions et Intervention face à un Accident de Plongée"
+- [x] Convertir "Passerelles FFESSM / PADI et FFESSM / SSI"
 - [ ] Convertir "Plongeur Niveau 4 - Guide de palanquée"
 - [ ] Convertir "Jeunes plongeurs"
 - [ ] Convertir "Initiateur"
