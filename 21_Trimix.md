@@ -25,7 +25,6 @@ Elle est validée, à l’issue d’une formation reçue dans le cadre d’un
 
 ## PREROGATIVES
 
-
 Les plongeurs titulaires de la qualification PLONGEUR TRIMIX ELEMENTAIRE pourront plonger au Trimix à une profondeur maximum de 70 mètres.<br>
 Les plongeurs trimix élémentaire ont les mêmes prérogatives que celles définies dans le Code du Sport, correspondantes à leur qualification. (PTH70)
 
@@ -41,13 +40,13 @@ Les duplicata des cartes double face FFESSM/INTERNATIONAL sont délivrés par le
 
 ## COMPETENCES
 
-### Compétence n° 1 : PLANIFICATION DE LA PLONGEE
+### Compétence 1 : PLANIFICATION DE LA PLONGEE
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
 Planification de la plongée en fonction de l’autonomie et préparation des tables immergeables. | Déterminer un profil de plongée en fonction de la profondeur, du mélange de décompression et de l’autonomie en fonction des tables. Travaux pratiques en application aux connaissances théoriques. | On contrôlera :<br>- la correspondance des mélanges et des tables.<br>- La faisabilité des procédures de rattrapage en autonomie.<br>- Le temps et la profondeur.
 
-### Compétence n° 2 : ORGANISATION MATERIELLE DE LA PLONGEE
+### Compétence 2 : ORGANISATION MATERIELLE DE LA PLONGEE
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
@@ -57,7 +56,7 @@ Préparation du matériel spécifique et identification, y compris les boutei
 Connaissance du positionnement du matériel sur soi. | Travail de gestuelle pour localiser et utiliser le matériel sur demande. | De manière inopinée et sans délai.
 Connaissance du positionnement du matériel des ou du coéquipier(s). | Contrôle, repérage du matériel et de son fonctionnement. | Contrôle mutuel des matériels.
 
-### Compétence n° 3 : GESTION DU MATERIEL
+### Compétence 3 : GESTION DU MATERIEL
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
@@ -66,7 +65,7 @@ Connaissance et entretien du matériel. | Entretien courant. | Connaissance de 
 Informations sur le remplissage des bouteilles. | Connaître la méthode qui a été employée pour le remplissage des blocs. | Maîtriser la vérification de la teneur en oxygène du mélange.
 Utilisation maîtrisée de l’analyseur d’oxygène. | Les contrôles seront effectués sur les différents mélanges réalisés. | Plusieurs mesures devront être réalisées avec une précision compatible avec l’appareil utilisé.
 
-### Compétence n° 4 : APPRENTISSAGE DES TECHNIQUES DE PLONGEE AU TRIMIX ELEMENTAIRE
+### Compétence 4 : APPRENTISSAGE DES TECHNIQUES DE PLONGEE AU TRIMIX ELEMENTAIRE
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
@@ -78,7 +77,7 @@ Réaction à la panne de mélange Utilisation du second détendeur. | Etre c
 Code de communication et procédures :<br>- Gonflage du parachute.<br>- Changement de gaz.<br>- Demande d’assistance de la sécurité surface. | Connaître les signes et les conduites à tenir qui y correspondent. | Rapidité, respect de la conduite à tenir.
 Utilisation correcte du parachute et de son dévidoir parachute et de son dévidoir. | Eviter tout risque d’emmêlement du fil et s’assurer que le parachute est bien gonflé. | Le parachute doit être libéré correctement et rapidement.
 
-### Compétence n° 5 : SECURITE
+### Compétence 5 : SECURITE
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
@@ -86,7 +85,7 @@ Conduire une analyse de risque avant la plongée. | Outil : Conduite du « Que 
 Gestion du risque lié au manque de mélange. | Concerne tous les mélanges fond et décompression. | Savoir étalonner sa consommation personnelle. Surveiller efficacement sa consommation en plongée. Savoir adapter le volume des blocs aux conditions de plongée.
 Intervention sur un plongeur en difficulté. | Positionnement, prise, gonflage des gilets. | Efficacité de la tenue et du contrôle de la vitesse de remontée, gestion de l’autonomie.
 
-### Compétence n° 6 : CONNAISSANCES THEORIQUES
+### Compétence 6 : CONNAISSANCES THEORIQUES
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
@@ -107,10 +106,15 @@ Réglementation. | Code du Sport Mélanges. | Evaluation orale ou écrite.
 ## GENERALITES
 
 L’objectif d’atteindre une zone de plongée dépassant 70 mètres nécessite de mettre en œuvre des moyens importants du fait des grandes quantités de gaz emmenées et de la complexité de l’équipement.<br>
+
 Les risques potentiels vont s’accroître, imposant une préparation méticuleuse des plongées. La notion de plongée avec « plafond » prend ici toute son importance ; le retour immédiat à la surface devient quasiment impossible à moins de disposer d’un caisson au bord de l’eau.<br>
+
 La redondance du matériel est maintenant de règle, afin d’autoriser une complète indépendance face aux difficultés rencontrées. Ainsi les blocs seront soit indépendants, soit reliés par une vanne d’isolation accessible et manipulable aisément. La flottabilité aussi sera doublée.<br>
+
 Emmener sa décompression sur soi nécessite de gérer de nombreux blocs et pose des problèmes de lestage. De ce fait, le risque d’essoufflement, écarté précédemment par la présence d’hélium et une teneur normale en oxygène, apparaît à nouveau, aggravé par la nature de gaz utilisés.<br>
+
 La logistique à mettre en oeuvre croît très vite en atteignant des profondeurs importantes, nécessitant de mobiliser une équipe d’assistance et d’importants moyens, limitant ce type de plongée à des plongeurs très confirmés.<br>
+
 La décompression sera toujours calculée grâce à des logiciels pour éditer les tables et l’usage des ordinateurs de poignet embarqués va certainement se généraliser et se démocratiser. La programmation et la planification des plongées sont ici vitales.
 
 ## ORGANISATION GENERALE
@@ -132,7 +136,6 @@ Elle est validée, à l’issue d’une formation reçue dans le cadre d’un
 
 ## PREROGATIVES
 
-
 Les plongeurs titulaires de la qualification PLONGEUR TRIMIX pourront utiliser tous les mélanges Trimix ainsi que des Nitrox et l’oxygène pur en décompression dans la limite de 120m.
 
 ## DELIVRANCE DE LA CARTE DE CERTIFICATION
@@ -147,7 +150,7 @@ Les duplicata des cartes double face FFESSM/INTERNATIONAL sont délivrés par le
 
 ## COMPETENCES
 
-### Compétence n° 1 : PLANIFICATION ET ORGANISATION MATERIELLE
+### Compétence 1 : PLANIFICATION ET ORGANISATION MATERIELLE
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
@@ -160,7 +163,7 @@ Préparation de l’organisation de la plongée par le choix : <br>- D’un me
 Par rapport aux tables Trimix, organiser le profil de plongée :<br>- Descente.<br>- Choix des gaz utilisés.<br>- Profondeur.<br>- Temps.<br><br>Organiser le profil de décompression :<br>- Temps de remontée.<br>- Profondeur des paliers. ● Durée des paliers.<br><br>Calculer et gérer son autonomie.<br><br>Organiser une procédure de rattrapage sur :<br>- Un dépassement de temps, de profondeur.<br>- Une perte de mélange de décompression.<br><br>Utilisation de logiciels de décompression pour planifier et éditer les tables employées pour la plongée. | On contrôlera :<br><br>La correspondance et le volume des mélanges.<br>- L’utilisation des tables.<br>- Le respect des limites.<br><br>Pp et l’adaptation de celle-ci aux conditions de plongée.<br>- choix des règles de consommation.<br>- La faisabilité des procédures de rattrapage en autonomie.<br><br>La capacité du candidat à paramétrer le logiciel pour une utilisation correcte de celui-ci.
 Capacité à fabriquer un mélange Trimix. | Connaître et utiliser les différentes méthodes pour le remplissage des blocs. | On contrôlera la connaissance des difficultés spécifiques au mélange de l’hélium avec un autre gaz pour obtenir un mélange homogène et au danger des mélanges hypoxiques.
 
-### Compétence n° 2 : APPRENTISSAGE DES TECHNIQUES DE PLONGEE TRIMIX PROFOND
+### Compétence 2 : APPRENTISSAGE DES TECHNIQUES DE PLONGEE TRIMIX PROFOND
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
@@ -174,7 +177,7 @@ Communication entre plongeurs. | Connaître les signes et les conduites à ten
 Utilisation correcte du parachute et de son dévidoir. | Eviter tous risques d’emmêlement du fil et s’assurer que le parachute est bien gonflé. | Le parachute doit être libéré correctement et rapidement.
 S’interroger sur les risques. | Lister les risques que l’on encoure et proposer une marche à suivre. | Réalité des risques et des marches à suivre.
 
-### Compétence n° 3 : CONNAISSANCES THEORIQUES
+### Compétence 3 : CONNAISSANCES THEORIQUES
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
@@ -215,7 +218,6 @@ Ou
 
 ## PREROGATIVES : E3 MONITEUR TRIMIX
 
-
 Les E3 Moniteurs Trimix pourront utiliser tous les mélanges Trimix, tous les mélanges Nitrox et l’oxygène pur en décompression.<br>
 Ils pourront assurer un enseignement dans une zone inférieure à 40 m.<br>
 Ils pourront, dans les conditions définies par le Code du Sport, être directeur de plongée.<br>
@@ -229,7 +231,6 @@ Ils pourront signer les carnets de plongées Trimix.<br>
 Les E4 Moniteur Trimix pourront valider et organiser tous les stages Trimix ainsi que délivrer les «qualifications Trimix élémentaire» et les «qualifications Trimix».
 
 ## DELIVRANCE DE LA CARTE DE CERTIFICATION
-
 
 Les titulaires du niveau MF1 de la FFESSM ou du BEES1 ou les titulaires du niveau MF2 de la FFESSM ou BEES2 ou DE-JEPS ou DES-JEPS pour se faire valider leur certification, doivent envoyer au siège national de la FFESSM :
 
@@ -247,19 +248,19 @@ Les duplicata des cartes double face FFESSM/INTERNATIONAL sont délivrés par le
 
 ## COMPETENCES
 
-### Compétence n° 1 : PEDAGOGIE THEORIQUE
+### Compétence 1 : PEDAGOGIE THEORIQUE
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
 Savoir présenter un cours théorique adapté au cursus trimix. | Connaissance des contenus théoriques des stages trimix élémentaire et confirmé. | Participation active au stage et réalisation de plusieurs cours.
 
-### Compétence n° 2 : PEDAGOGIE PRATIQUE
+### Compétence 2 : PEDAGOGIE PRATIQUE
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
 Savoir planifier et réaliser des plongées avec l'équipement spécifique. | Les plongées seront réalisées dans le cadre des prérogatives du moniteur. On veillera particulièrement à la mise en place de la sécurité. | Participation active au stage et encadrement de plusieurs plongées en double.
 
-### Compétence n° 3 : ORGANISATION D’UN STAGE DE FORMATION
+### Compétence 3 : ORGANISATION D’UN STAGE DE FORMATION
 
 **Connaissances, savoir-faire et savoir-être ** | **Commentaires et limites** | **Critères de réalisation **
 ---|---|---
@@ -267,6 +268,7 @@ Savoir organiser un stage trimix et planifier la formation en fonction du niveau
 
 # LOGICIELS DE DECOMPRESSION (liste non exhaustive)
 
+---|---|---
 Abyss | logiciel de décompression (version Windows). Il peut traiter plusieurs type de mélanges air, nitrox, trimix, heliox, selon les modèles Bühlmann ZH-L32 et RGBM (Reduced Gradient Bubble model).
 DDPlan | Drogon Dive Planner logiciel de décompression basé sur le modèle de Bühlmann ZH-L16 et ZH-L16B
 DECO Dive Planner | logiciel de planification décompression
