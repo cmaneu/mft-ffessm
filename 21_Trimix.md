@@ -268,7 +268,7 @@ Savoir organiser un stage trimix et planifier la formation en fonction du niveau
 
 # LOGICIELS DE DECOMPRESSION (liste non exhaustive)
 
----|---|---
+---|---
 Abyss | logiciel de décompression (version Windows). Il peut traiter plusieurs type de mélanges air, nitrox, trimix, heliox, selon les modèles Bühlmann ZH-L32 et RGBM (Reduced Gradient Bubble model).
 DDPlan | Drogon Dive Planner logiciel de décompression basé sur le modèle de Bühlmann ZH-L16 et ZH-L16B
 DECO Dive Planner | logiciel de planification décompression
